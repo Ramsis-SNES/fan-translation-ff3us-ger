@@ -1,0 +1,17 @@
+Hex-Adresse im ROM: $FFAAF bis $FFADE
+
+Struktur: Je halber Buchstabe 4 Bytes (= eine "Kette"). 6 Buchstaben, daher 12 Ketten = 48 Bytes.
+
+Aufbau einer Kette:
+Byte 0: X-Position in Pixeln, relativ zum linken Rand (muß nicht geändert werden!)
+Byte 1: Y-Position in Pixeln, relativ zum oberen Rand (muß nicht geändert werden!)
+Byte 2: Index des zu benutzenden Tiles. Siehe unten.
+Byte 3: Unbekannt, immer Wert $31 (muß nicht geändert werden!)
+
+Der Index des zu benutzenden Tiles ergibt sich folgendermaßen:
+$YX
+Alle Buchstaben bestehen aus 2 Tiles, einem oberen und einem unteren. Y bestimmt, welche Hälfte (oben oder unten) verwendet wird, X dagegen, welcher Buchstabe. Y kann Werte von 0 bis 3 annehmen (wobei 0 die oberen Hälften von A-P, 1 die unteren von A-P, 2 die oberen von Q-Z und 3 die unteren von Q-Z). X nimmt Werte von 0 bis F an (wobei 0-F den Buchstaben A-P entspricht, wenn Y=0 [obere Hälfte] oder Y=1 [untere Hälfte], allerdings 0-9 den Buchstaben Q-Z, wenn Y=2 [obere Hälfte] oder Y=3 [untere Hälfte]).
+Achtung: Der Index wird vertauscht notiert, also erst der Y-Wert, dann der X-Wert (daher $YX).
+Beispiele: $0A wäre die obere Hälfte von K, $32 die untere von S.
+
+Die Leerstelle bekommt man durch Hinzufügen von $8 zum X-Wert aller Buchstaben, die nach der Leerstelle stehen (im Original ab $FFAC7, daher $20 statt $18 für das Y, $28 statt $20 für das O und $30 statt $28 für das U).

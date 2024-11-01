@@ -1,0 +1,4308 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - Dialogpointer Bank 2]
+TBL   [1-C:\Spiele\Rom-Translation\FF6jdtv2\dialog_complete.SE\dialog_complete.TBL]
+Start [00020000h]
+Size  [000043BDh][0001F6F3h][2]
+pStart[00000804h]
+pFirst[0000h-1033]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Wenn es einen Weg gäb', sie…(ABS)
+…dann würd' sie aufwachen!(ABS)
+Wuahahaha!(NEU)
+Du find'st sicher was gegen den Dauerschlaf!(ABS)
+Kuahahahahaha!!!(END)
+
+[>Pointer 2<]
+Ich…gab sie auf…(END)
+
+[>Pointer 3<]
+CELES: LOCKE…(END)
+
+[>Pointer 4<]
+Das hier?(ABS)
+Das ist LOCKE's…(ABS)
+Jo, mei! Fast hätt' ich alles ausgeplaudert! Kuahahaha!!(END)
+
+[>Pointer 5<]
+Dies ist Jituur, die westlichste Stadt der ganzen Welt!(END)
+
+[>Pointer 6<]
+Diese Gegend ist sehr klassenbewußt…(NEU)
+Im südlichen Teil der Stadt lebt die Mittelschicht. Die reichen Bürger leben 
+im Norden.(END)
+
+[>Pointer 7<]
+Die Armen sind alle in die Berge gegangen, nördlich von hier. Dort haben sie
+ eine Stadt gegründet.(END)
+
+[>Pointer 8<]
+Maria, die Opernsängerin, ist super!(END)
+
+[>Pointer 9<]
+Ich will auch eine Opernsängerin werden!(NEU)
+Die Oper?(ABS)
+Ganz weit im Süden.(END)
+
+[>Pointer 10<]
+Ein Mädchen, ganz in Flammen gehüllt, flog nach Norden, in die Berge.(END)
+
+[>Pointer 11<]
+Nördlich von hier liegt die Stadt Zozo. Nehmt Euch in Acht!(END)
+
+[>Pointer 12<]
+Nur Lügner in Zozo!(ABS)
+Bloß niemandem vertrauen!(END)
+
+[>Pointer 13<]
+Ups! Entschuldigung.(END)
+
+[>Pointer 14<]
+Manchmal kommt einer von den Idioten aus Zozo hierher, um auf die Schnelle G
+eld zu machen.(NEU)
+Paßt auf euren Geldbeutel auf!(END)
+
+[>Pointer 15<]
+Nicht von hier?(ABS)
+Ihr seht…äh…(ABS)
+…phrygisch aus!(END)
+
+[>Pointer 16<]
+Mögt Ihr Kunst? Nein?(ABS)
+Philister!(END)
+
+[>Pointer 17<]
+Im Auktionshaus gibt es einige unschätzbare Dinge! Ob Ihr sie ersteigern könn
+t?(END)
+
+[>Pointer 18<]
+Ich brauche etwas, das abwesende Geister zurückbringt…(NEU)
+Aber nur in der imperialen Hauptstadt Vector soll es so etwas geben.(END)
+
+[>Pointer 19<]
+Zozo!?(ABS)
+Nie davon gehört.(END)
+
+[>Pointer 20<]
+Tolle Leute hier!(END)
+
+[>Pointer 21<]
+Schönes Wetter!(END)
+
+[>Pointer 22<]
+Jetzt ist es 2:00.(END)
+
+[>Pointer 23<]
+Uhrzeit?(ABS)
+4:00 Uhr.(END)
+
+[>Pointer 24<]
+Vertraut mir!(ABS)
+Es ist 8:00.(END)
+
+[>Pointer 25<]
+10:00!(ABS)
+Zeit zu gehen!(END)
+
+[>Pointer 26<]
+Es ist schon 12:00!(END)
+
+[>Pointer 27<]
+Mädchen? Hab' hier keine Mädchen gesehen. Schaut mal im obersten Stock diese
+s Gebäudes nach.(END)
+
+[>Pointer 28<]
+Hier ist es schön!(END)
+
+[>Pointer 29<]
+Uhrzeiger stehen still.(ABS)
+Bitte Stunde einstellen:(NEU)
+<choice> (2:00)   <choice> (4:00)(ABS)
+<choice> (6:00)   <choice> (8:00)(ABS)
+<choice> (10:00)  <choice> (12:00)(END)
+
+[>Pointer 30<]
+Puh…!(ABS)
+Wie lange müssen wir das noch machen!?(END)
+
+[>Pointer 31<]
+Uhrzeiger stehen still.(ABS)
+Bitte Minute einstellen:(NEU)
+<choice> (0:10)   <choice> (0:20)(ABS)
+<choice> (0:30)   <choice> (0:40)(ABS)
+<choice> (0:50)(END)
+
+[>Pointer 32<]
+Uhrzeiger stehen still.(ABS)
+Bitte Sekunde einstellen:(NEU)
+<choice> (0:00:10)   <choice> (0:00:20)(ABS)
+<choice> (0:00:30)   <choice> (0:00:40)(ABS)
+<choice> (0:00:50)(END)
+
+[>Pointer 33<]
+Der zweite Uhrzeiger muß auf 30 stehen.(END)
+
+[>Pointer 34<]
+Die Uhr hat keinen Minutenzeiger. Sie zeigt sowieso nie die richtige Zeit an
+!(END)
+
+[>Pointer 35<]
+Sekunden? Sind durch 20 teilbar!(END)
+
+[>Pointer 36<]
+Eine Frau flog zur obersten Tür!(NEU)
+“Sie FLOG!?(ABS)
+Das muß TERRA gewesen sein!!!!”(NEU)
+Aber Vorsicht! Gruselige Monster leben da oben! Paßt auf!(END)
+
+[>Pointer 37<]
+Der zweite Zeiger meiner Armbanduhr zeigt zur Vier.(END)
+
+[>Pointer 38<]
+Geht die Treppe im Cafe nach oben. Ihr werdet einen Pfad finden, der zum Ber
+g Zozo führt.(END)
+
+[>Pointer 39<]
+Mit diesem Anti-Rost geht die Tür auf.(NEU)
+Er kostet 1000 GS!(ABS)
+<choice>“Her damit!”(ABS)
+<choice>“…”(END)
+
+[>Pointer 40<]
+Anti-Rost gekauft!(END)
+
+[>Pointer 41<]
+Gefährlich hier!(ABS)
+Und kommt bloß nicht auf die Idee, von den Balkonen zu springen!(END)
+
+[>Pointer 42<]
+Zeiger auf die Zwei stellen…(END)
+
+[>Pointer 43<]
+(ABS)
+ Uhr nicht eingestellt…(END)
+
+[>Pointer 44<]
+Immer im Takt!(END)
+
+[>Pointer 45<]
+Guten Tag, ihr seid nett.(ABS)
+Kann ich euch helfen?(ABS)
+Ich hasse Kämpfe, also gehe ich zur Seite!(END)
+
+[>Pointer 46<]
+Tür eingerostet.(END)
+
+[>Pointer 47<]
+Rost gelöst.(END)
+
+[>Pointer 48<]
+Ooohh…gurururu…(END)
+
+[>Pointer 49<]
+TERRA?(END)
+
+[>Pointer 50<]
+RAMA: Sie hat Angst, wißt Ihr.(END)
+
+[>Pointer 51<]
+“Wer seid Ihr?”(END)
+
+[>Pointer 52<]
+RAMA: Das Mädchen kennt Euch?(END)
+
+[>Pointer 53<]
+“Was hat sie?”(END)
+
+[>Pointer 54<]
+CYAN: Ist Fräulein TERRA gesund?(END)
+
+[>Pointer 55<]
+CELES: Ist TERRA okay?(END)
+
+[>Pointer 56<]
+GAU: TERRA…gut?(END)
+
+[>Pointer 57<]
+RAMA: Ihr nennt sie TERRA…(ABS)
+…TERRA!? Komisch…(END)
+
+[>Pointer 58<]
+RAMA: Sie ist völlig gesund. Aber sie kann Euch nicht verstehen. Ich selbst b
+in Rama.(ABS)
+Rama der Esper.(END)
+
+[>Pointer 59<]
+“ESPER!?”(END)
+
+[>Pointer 60<]
+“Aber leben Esper nicht in einer anderen Welt?”(END)
+
+[>Pointer 61<]
+CELES: Aber leben Esper nicht in einer anderen Welt?(END)
+
+[>Pointer 62<]
+GAU: Esper…aus anderer Welt?(END)
+
+[>Pointer 63<]
+RAMA: Das heißt ja nicht, daß wir nicht auch hier leben.(NEU)
+Esper können verschiedene Gestalten annehmen. Manche von uns leben als Mensc
+hen in dieser Welt…(NEU)
+Ihr sollt uns nicht fürchten.(END)
+
+[>Pointer 64<]
+“Warum versteckt Ihr Euch so vor uns?”(END)
+
+[>Pointer 65<]
+GAU: Wieso Gestalt wechseln?(END)
+
+[>Pointer 66<]
+RAMA: Menschen und Esper können nicht nebeneinander existieren.(END)
+
+[>Pointer 67<]
+LOCKE: Aber laut meiner Großmutter WAR das einmal der Fall!(NEU)
+Das ist doch nicht bloß ein Märchen?(END)
+
+[>Pointer 68<]
+“Aber die alten Geschichten belegen das Gegenteil. Sind das etwa alles bloß 
+Märchen?”(END)
+
+[>Pointer 69<]
+Ich habe gehört, daß Menschen und Esper früher zusammenlebten. Ist das bloß 
+ein Märchen?(END)
+
+[>Pointer 70<]
+GAU: GAU kennt Märchen…(NEU)
+Menschen und Esper früher gut zusammenleben! Ganz friedlich, Mr. Sir!(END)
+
+[>Pointer 71<]
+RAMA: Nein, das ist nicht bloß ein Märchen.(ABS)
+Wir lebten als Freunde zusammen.(NEU)
+Dann kam der Krieg der Weisen…(END)
+
+[>Pointer 72<]
+Der Krieg der Weisen…(END)
+
+[>Pointer 73<]
+RAMA: Er ist…lange her. Esper kämpften gegen Menschen, die mit Magie ausgest
+attet waren…(NEU)
+…die aus Espern extrahiert wurde…(END)
+
+[>Pointer 74<]
+Da die Menschen unsere Kraft fürchteten und immer noch fürchten, schufen wir 
+uns eine eigene Welt.(END)
+
+[>Pointer 75<]
+Aber vor ungefähr 20 Jahren fanden Menschen sie durch Zufall…(NEU)
+Menschen, die über Esper und MagiTek Bescheid wußten. <wait 360 frames><wait 1 frame>
+(END)
+
+[>Pointer 76<]
+Es begann eine regelrechte Jagd auf uns. Und so konnte Imperator Gestahl sein
+e Armee aufstellen. <wait 360 frames><wait 1 frame>(END)
+
+[>Pointer 77<]
+Im Gegenzug errichteten wir ein Tor und warfen die Menschen hinaus aus unsere
+r Welt…(END)
+
+[>Pointer 78<]
+RAMA: Sogar im jetzigen Moment werden viele meiner Art im imperialen MagiTek 
+Forschungslabor…(NEU)
+…grausam ihrer Kräfte beraubt…(ABS)
+Ich floh hierher, um dem zu entgehen.(END)
+
+[>Pointer 79<]
+RAMA: Ja, laßt sie ausruhen.(END)
+
+[>Pointer 80<]
+RAMA: Ich fühlte, daß TERRA in Gefahr war.(ABS)
+Meine Magie rief sie hierher.(END)
+
+[>Pointer 81<]
+“TERRA ist ein Esper?”(END)
+
+[>Pointer 82<]
+RAMA: Nein, sie ist eigentlich…einfach anders.(END)
+
+[>Pointer 83<]
+“TERRA sieht aus, als hätte sie Schmerzen.”(NEU)
+RAMA: Ihre Existenz selbst füllt sie mit Furcht an.(END)
+
+[>Pointer 84<]
+“Wie können wir ihr helfen?”(END)
+
+[>Pointer 85<]
+RAMA: Wenn sie sich selbst akzeptiert hat, wird alles wieder gut mit ihr.(END)
+
+[>Pointer 86<]
+“Wir müssen etwas tun!”(NEU)
+RAMA: Dann befreit meine Freunde aus Gestahls MagiTek Forschungslabor.(NEU)
+Irgendeiner von ihnen kann TERRA helfen.(END)
+
+[>Pointer 87<]
+“Wenn wir das MagiTek Forschungslabor finden, treffen wir dann sicher Eure L
+eute dort an?”(END)
+
+[>Pointer 88<]
+CELES: Das MagiTek Forschungslabor…?(ABS)
+Eure Leute sind dort gefangen!?(END)
+
+[>Pointer 89<]
+GAU: MagiTek Forschungslabor…?(ABS)
+Dort…deine Leute sein?(END)
+
+[>Pointer 90<]
+CELES: MagiTek Forschungslabor…(ABS)
+Eure Leute sind…(END)
+
+[>Pointer 91<]
+RAMA: Wie ein Feigling bin ich geflohen und habe sie zurückgelassen.(ABS)
+Das wird ihr Ende sein…(END)
+
+[>Pointer 92<]
+“Was meint Ihr damit?”(END)
+
+[>Pointer 93<]
+RAMA: Gestahls Methoden sind falsch. Man kann einem Esper nicht all seine Kra
+ft rauben.(NEU)
+Nur wenn wir zu Magizit-Stein komprimiert werden, kann unsere Magie erhalten 
+werden…(END)
+
+[>Pointer 94<]
+“Wie bitte!?”(NEU)
+RAMA: Wenn aus uns Magizit-Stein wird, kann unsere Kraft verlagert werden.(NEU)
+“Magizit…?”(NEU)
+RAMA: Er bleibt übrig…(ABS)
+…wenn wir sterben.(END)
+
+[>Pointer 95<]
+RAMA: Dies sind meine Freunde, die während der Flucht umkamen.(NEU)
+Und auch meine Kraft soll nun auf Euch übergehen…(END)
+
+[>Pointer 96<]
+“Warum tut Ihr das für uns?”(END)
+
+[>Pointer 97<]
+RAMA: Wir wenige können helfen, viele zu retten. Der Krieg der Weisen muß en
+den…(END)
+
+[>Pointer 98<]
+“Alter Mann…(ABS)
+Wo bist du…?”(END)
+
+[>Pointer 99<]
+SHADOW: Alter Narr…(ABS)
+Warum einfach aufgeben?(END)
+
+[>Pointer 100<]
+CYAN: ………(END)
+
+[>Pointer 101<]
+CELES: Rama…(ABS)
+Warum…?(END)
+
+[>Pointer 102<]
+GAU: R.a.m.a…(ABS)
+Du uns verlassen?(END)
+
+[>Pointer 103<]
+Magizit…?(END)
+
+[>Pointer 104<]
+Er gab seine Kraft für das Leben anderer hin…(END)
+
+[>Pointer 105<]
+CYAN: Er hat seine Kraft für andere hingegeben…(END)
+
+[>Pointer 106<]
+CELES: Er hat seine Kraft für andere hingegeben…(END)
+
+[>Pointer 107<]
+GAU: Ahuuuuhh…!(END)
+
+[>Pointer 108<]
+“TERRA… Wir kommen wieder!(ABS)
+Bestimmt…”(END)
+
+[>Pointer 109<]
+(ABS)
+           Magizit-Stein(ABS)
+               “Rama”(ABS)
+              erhalten!(END)
+
+[>Pointer 110<]
+(ABS)
+           Magizit-Stein(ABS)
+              “Sirene”(ABS)
+             erhalten!(END)
+
+[>Pointer 111<]
+(ABS)
+           Magizit-Stein(ABS)
+               “Kirin”(ABS)
+              erhalten!(END)
+
+[>Pointer 112<]
+(ABS)
+           Magizit-Stein(ABS)
+             “CaitSith”(ABS)
+              erhalten!(END)
+
+[>Pointer 113<]
+“Alle da?(ABS)
+Ich dachte…”(NEU)
+EDGAR: Reden wir auf dem Weg!(END)
+
+[>Pointer 114<]
+EDGAR: Das Imperium versucht, den Espern Magie zu stehlen… <wait 240 frames><wait 1 frame>
+(END)
+
+[>Pointer 115<]
+SABIN: Das kann nicht wahr sein…(ABS)
+CELES? <wait 240 frames><wait 1 frame>(END)
+
+[>Pointer 116<]
+CELES: Ich weiß es nicht mehr, weil ich schlief, als sie mich…verbessert habe
+n.(NEU)
+Aber ich habe Gerüchte mitbekommen…(END)
+
+[>Pointer 117<]
+CYAN: Dann dringen wir ein…(NEU)
+EDGAR: Bilden wir am besten zwei Gruppen.(ABS)
+Unsere Abwehr in Narshe muß weiterbestehen.(END)
+
+[>Pointer 118<]
+CYAN: Genau.(END)
+
+[>Pointer 119<]
+CELES: Ich gehe…(ABS)
+Ich kenne das Imperium…(NEU)
+SABIN: Aber allein…?(END)
+
+[>Pointer 120<]
+LOCKE: Keine Sorge, ich gehe mit ihr.(END)
+
+[>Pointer 121<]
+CELES: LOCKE!(END)
+
+[>Pointer 122<]
+CYAN: Werdet Ihr keine Hilfe brauchen?(END)
+
+[>Pointer 123<]
+LOCKE: Bitte wartet auf uns in Narshe. Wir werden's schon schaffen.(NEU)
+“In Narshe können Personen gewechselt werden!”(END)
+
+[>Pointer 124<]
+SHADOW: Mich werdet ihr jetzt nicht mehr brauchen.(END)
+
+[>Pointer 125<]
+CELES: Und wie kommen wir hin? Das Imperium sitzt auf dem südlichen Kontinent
+. Kein Schiff fährt dort hin…(NEU)
+LOCKE: In Jituur wird man uns sicherlich helfen können.(END)
+
+[>Pointer 126<]
+CELES: LOCKE.(NEU)
+LOCKE: Ja?(ABS)
+CELES: Warum kommst du mit mir?(END)
+
+[>Pointer 127<]
+LOCKE: Tja…(ABS)
+Es soll da unten viele Schätze geben.(NEU)
+Und ich wollte das Imperium schon immer mal von innen sehen!(END)
+
+[>Pointer 128<]
+Es ist nicht leicht, das Imperium zu erreichen!(END)
+
+[>Pointer 129<]
+Das Imperium ist nur durch die Luft zu erreichen. Habt Ihr schon ein Luftsch
+iff?(END)
+
+[>Pointer 130<]
+In der ganzen Welt gibt es nur ein Luftschiff. Es gehört einem Piraten…äh…Sp
+ieler.(END)
+
+[>Pointer 131<]
+Dieser Spieler mag das Rampenlicht. Er ist immer in der Oper. Er mag wohl au
+ch die Sängerinnen…(END)
+
+[>Pointer 132<]
+Du bist ja Maria wie aus dem Gesicht geschnitten! Maria? Sie ist eine ganz b
+erühmte Opernsängerin!(END)
+
+[>Pointer 133<]
+IMPRESARIO: Maria!?(END)
+
+[>Pointer 134<]
+CELES: Meint Ihr mich damit?(END)
+
+[>Pointer 135<]
+IMPRESARIO: Tut mir leid… Mein Fehler. Ihr könntet wirklich Maria sein. Jetz
+t habe ich erst recht ein Problem…(END)
+
+[>Pointer 136<]
+“CELES ähnelt also Maria…?”(END)
+
+[>Pointer 137<]
+“Diese PERSON hat ihn verloren.”(END)
+
+[>Pointer 138<]
+VERWALTER: Er ist der Direktor der Oper. Alle nennen ihn einfach “Impresario
+”.(NEU)
+Er ist ziemlich aufgeregt, seit dieser Brief ankam.(END)
+
+[>Pointer 139<]
+LOCKE: Wer ist dieser “wandernde…”? Wie hieß er doch…?(NEU)
+VERWALTER: Bist du vom Lande, Söhnchen?(END)
+
+[>Pointer 140<]
+Er ist SETZER, und nur er besitzt ein Luftschiff.(END)
+
+[>Pointer 141<]
+Siebzehnundvier-begeisterter Casino-Freund auf der Durchreise…(END)
+
+[>Pointer 142<]
+Meine liebe Maria,(ABS)
+du wirst meine Frau werden.(ABS)
+Ich komme…(ABS)
+      Der wandernde Spieler(END)
+
+[>Pointer 143<]
+CELES: Wenn wir dieses Luftschiff hätten, wären wir in Nullkommanichts beim 
+Imperium.(NEU)
+LOCKE: Treffen wir also…diesen SETZER…(END)
+
+[>Pointer 144<]
+Die Oper ist geschlossen.(END)
+
+[>Pointer 145<]
+Vorstellung läuft.(END)
+
+[>Pointer 146<]
+IMPRESARIO: Ah! Ihr wieder!(END)
+
+[>Pointer 147<]
+LOCKE: Dieser Brief…(ABS)
+SETZER wird sie rauben,(ABS)
+oder?(NEU)
+IMPRESARIO: Er taucht sicher(ABS)
+am Höhepunkt des ersten Aktes(ABS)
+auf. Er hat eine Schwäche(ABS)
+für pompöse Auftritte…(END)
+
+[>Pointer 148<]
+LOCKE: Okay!(ABS)
+Dann schnappen wir ihn(ABS)
+uns…!(END)
+
+[>Pointer 149<]
+IMPRESARIO: Um Gottes Willen,(ABS)
+NEIN! Das würde die Premiere(ABS)
+ruinieren! Und ich…(END)
+
+[>Pointer 150<]
+CELES: Ihr wärt gefeuert!(NEU)
+IMPRESARIO: Eine schreckliche(ABS)
+Vorstellung!! Selbige MUSS(ABS)
+einfach ein Erfolg werden!(ABS)
+Und…(NEU)
+Niemand darf Maria entführen!(END)
+
+[>Pointer 151<]
+LOCKE: Wird er schon(ABS)
+nicht wagen…(END)
+
+[>Pointer 152<]
+LOCKE: CELES spielt den(ABS)
+Lockvogel. Und wir werden(ABS)
+SETZER einfach auf sein(ABS)
+Luftschiff folgen!(END)
+
+[>Pointer 153<]
+IMPRESARIO: Du bist ja total(ABS)
+plemplem, Jungchen!(ABS)
+Wenn Maria was passiert…(END)
+
+[>Pointer 154<]
+LOCKE: Maria wird im(ABS)
+Kostümfundus versteckt!(ABS)
+Da müßte sie sicher sein!(NEU)
+IMPRESARIO: Wie bitte?(END)
+
+[>Pointer 155<]
+LOCKE: Sagtest du nicht,(ABS)
+CELES sieht genauso aus(ABS)
+wie Maria?(END)
+
+[>Pointer 156<]
+CELES: Moment mal, ja…?(END)
+
+[>Pointer 157<]
+LOCKE: CELES wird(ABS)
+Maria spielen! Und uns(ABS)
+aufs Luftschiff bringen!(END)
+
+[>Pointer 158<]
+IMPRESARIO: Geniale Idee!(END)
+
+[>Pointer 159<]
+CELES: H…Halt!(ABS)
+Ich bin Generalin, nicht(ABS)
+irgend so ein Opernflittchen!(END)
+
+[>Pointer 160<]
+Mii… <wait 60 frames>Mii… <wait 60 frames>(ABS)
+Do, re, mi…(ABS)
+Faa…hust, keuch…(NEU)
+(ABS)
+(ABS)
+Maa…<wait 60 frames>rii…<wait 60 frames>aaa!(END)
+
+[>Pointer 161<]
+LOCKE: Nicht schlecht!(END)
+
+[>Pointer 162<]
+ULTROS: Chi, hi, hi!(ABS)
+Ich krieg auch 'ne Rolle!(ABS)
+Als SETZER mach ich euch(ABS)
+'nen Strich durch die Rechnung!(END)
+
+[>Pointer 163<]
+LOCKE: Bereiten wir(ABS)
+alles vor!(ABS)
+Toi, toi, toi!(END)
+
+[>Pointer 164<]
+ULTROS: Gnaaah!(ABS)
+Lest den Brief…!(END)
+
+[>Pointer 165<]
+Westen und Osten <wait 360 frames><wait 1 frame>(ABS)
+führten Krieg… <wait 360 frames><wait 1 frame>(NEU)
+Draco, großer Held des Westens, <wait 360 frames><wait 1 frame>denkt an seine
+ Liebste, Maria. <wait 360 frames><wait 1 frame>(ABS)
+Wird sie zagen?(ABS)
+Wird sie klagen? <wait 360 frames><wait 1 frame>(END)
+
+[>Pointer 166<]
+<mus. note> Oh, <wait 150 frames>Maria, <wait 240 frames><wait 1 frame>(ABS)
+   oh, <wait 150 frames>Maria, <wait 210 frames><wait 1 frame>(ABS)
+   bitte <wait 195 frames>höre meine <wait 195 frames>Stimme! <wait 345 frames>
+<wait 1 frame>(ABS)
+   So sehr vermiß <wait 285 frames>ich dich! <mus. note> <wait 435 frames><wait 1 frame>
+(END)
+
+[>Pointer 167<]
+LOCKE: Ich gehe in die(ABS)
+Garderobe.(END)
+
+[>Pointer 168<]
+EDGAR: Gut, geh nur.(END)
+
+[>Pointer 169<]
+SABIN: Hmm…!?(ABS)
+Warum singen denn alle?(END)
+
+[>Pointer 170<]
+CYAN: Ihr geht, Sir?(ABS)
+Genießt das Schauspiel!(END)
+
+[>Pointer 171<]
+GAU: Lied schön!(END)
+
+[>Pointer 172<]
+IMPRESARIO: Alles in Ordnung?(END)
+
+[>Pointer 173<]
+IMPRESARIO: Euer Freund ist gegangen.(ABS)
+Sonst wäre er wohl wieder eingeschlafen…(END)
+
+[>Pointer 174<]
+LOCKE: Uiuiuiuiui!(ABS)
+D…d……DU!?(END)
+
+[>Pointer 175<]
+CELES: LOCKE.(ABS)
+Warum hast du mir in Figaro(ABS)
+geholfen?(NEU)
+LOCKE: Ich wollte nicht(ABS)
+nochmal kneifen…(END)
+
+[>Pointer 176<]
+CELES: Du hast also eine(ABS)
+alte Schuld zu begleichen,(ABS)
+richtig…?(END)
+
+[>Pointer 177<]
+LOCKE: Diese Schleife(ABS)
+steht dir gut.(END)
+
+[>Pointer 178<]
+CELES: Es geht weiter!(ABS)
+In der nächsten Szene spürt(ABS)
+Maria, daß Draco was passiert(ABS)
+sein muß…(END)
+
+[>Pointer 179<]
+LOCKE: Mach bloß keinen(ABS)
+Fehler mehr!(END)
+
+[>Pointer 180<]
+LOCKE: Schau lieber(ABS)
+nochmal ins Libretto!(END)
+
+[>Pointer 181<]
+Libretto lesen?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 182<]
+1. Akt, 2. Szene(NEU)
+O mein Held, so weit nun fort,(ABS)
+dein Lächeln nur mehr im Bilde(ABS)
+dort.(NEU)
+Liebe vergeht, Dämm'rung(ABS)
+verweht.(ABS)
+Es schwindet der einsame(ABS)
+Traum…(NEU)
+Hier ist es so dunkel, du bist(ABS)
+mein Stern, dessen Liebe(ABS)
+flammt wie der Sonne Schein.(NEU)
+Für immer und ewig bist du(ABS)
+mein.(NEU)
+Muß ich dich vergessen?(ABS)
+Unser Versprechen…(NEU)
+Wird statt des Lenzen(ABS)
+Wonnereigen nun Herbst in(ABS)
+meine Seel' einziehn?(NEU)
+Laß bitte ein Wort zu mir(ABS)
+fliehn!(NEU)
+(…Blumen aufheben.(ABS)
+Dann die Treppe rauf und die(ABS)
+Blumen über die Brüstung zu(ABS)
+den Sternen hochhalten.(NEU)
+Beeil dich, die nächste Szene(ABS)
+folgt direkt im Anschluß!(ABS)
+<12 spaces>Der Impresario)(NEU)
+2. Akt(ABS)
+… … … … …(ABS)
+… … … … …(END)
+
+[>Pointer 183<]
+LOCKE: Viel Glück…!(END)
+
+[>Pointer 184<]
+Die Streitmacht des Westens(ABS)
+fiel. Marias Schloß wurde(ABS)
+besetzt… <wait 240 frames><wait 1 frame>(NEU)
+Prinz Ralse aus dem Osten nahm(ABS)
+sie sich gewaltsam zur Frau.(ABS)
+Doch sie dachte nur an Draco… <wait 240 frames><wait 1 frame>(END)
+
+[>Pointer 185<]
+Nächste Zeile…?(ABS)
+(SP)
+TERRA<choice> “O mein Held…”(ABS)
+(SP)
+TERRA<choice> “Mein lieber Draco…” <wait for key 255 frames><wait 1 frame>(END)
+
+[>Pointer 186<]
+<mus. note> O <wait 45 frames>mein <wait 60 frames>Held, <wait 135 frames>(ABS)
+   so weit nun fort, <wait 180 frames><wait 1 frame>(ABS)
+   dein Lächeln <wait 150 frames>nur mehr(ABS)
+   im Bilde dort. <wait 240 frames><wait 1 frame>(NEU)
+   Liebe vergeht,(ABS)
+   Dämm'rung verweht. <wait 180 frames><wait 1 frame>(NEU)
+   Es schwindet der(ABS)
+   einsame Traum… <mus. note> <wait 120 frames><wait 1 frame>(NEU)
+(SP)
+TERRA<choice> “Ich wünschte…”(ABS)
+(SP)
+TERRA<choice> “Hier ist es so dunkel…” <wait for key 210 frames><wait 1 frame>
+(END)
+
+[>Pointer 187<]
+<mus. note> Mein lieber Draco,(ABS)
+   du bist für mich… <mus. note> <wait 240 frames><wait 1 frame>(END)
+
+[>Pointer 188<]
+Aber da stimmt doch was(ABS)
+nicht!(END)
+
+[>Pointer 189<]
+<mus. note> Hier ist es so dunkel, <wait 210 frames>(ABS)
+   du bist mein Stern, <wait 165 frames><wait 1 frame>(ABS)
+   dessen Liebe flammt <wait 120 frames>(ABS)
+   wie der Sonne Schein. <wait 240 frames><wait 1 frame>(NEU)
+   Für immer und ewig <wait 120 frames>(ABS)
+   bist du mein. <mus. note> <wait 240 frames><wait 1 frame>(NEU)
+(SP)
+TERRA<choice> “Muß ich…”(ABS)
+(SP)
+TERRA<choice> “Prinz Ralse…” <wait for key 150 frames><wait 1 frame>(END)
+
+[>Pointer 190<]
+<mus. note> Ich wünschte, ich… <mus. note> <wait 240 frames><wait 1 frame>(END)
+
+[>Pointer 191<]
+<mus. note> Muß ich dich vergessen? <wait 150 frames>(ABS)
+   Unser Versprechen… <wait 165 frames><wait 1 frame>(NEU)
+   Wird statt(ABS)
+   des Lenzen Wonnereigen <wait 240 frames><wait 1 frame>(ABS)
+   nun Herbst<wait 240 frames><wait 1 frame>(ABS)
+   in meine Seel' einziehn? <mus. note> <wait 180 frames><wait 1 frame>(NEU)
+<mus. note> Laß bitte <wait 90 frames>(ABS)
+   ein Wort zu mir fliehn! <mus. note> <wait 240 frames><wait 1 frame>(END)
+
+[>Pointer 192<]
+<mus. note> Prinz Ralse…oder…? <wait 60 frames>(ABS)
+   Ich hasse ihn! Wie alle… <mus. note> <wait 240 frames><wait 1 frame>(END)
+
+[>Pointer 193<]
+Oohh…nicht im Takt…(ABS)
+Das war's dann.(END)
+
+[>Pointer 194<]
+<mus. note> Wir müssen uns trennen,(ABS)
+   weiterleben. <wait 180 frames><wait 1 frame>(ABS)
+   Mein Herz wird <wait 120 frames>(ABS)
+   dich nie vergessen. <wait 255 frames><wait 1 frame>(NEU)
+   Deiner entsage ich, <wait 150 frames>(ABS)
+   doch sei gewiß, <wait 180 frames><wait 1 frame>(ABS)
+   daß du mir warst so lieb… <mus. note> <wait 285 frames><wait 1 frame>(END)
+
+[>Pointer 195<]
+<mus. note> So freundlich <wait 150 frames>(ABS)
+   berührtest du mich. <wait 165 frames><wait 1 frame>(ABS)
+   Für immer <wait 90 frames>dein,(ABS)
+   ich warte auf dich. <wait 150 frames><wait 1 frame>(NEU)
+   Ich werde nicht altern, <wait 180 frames>(ABS)
+   möge die Welt <wait 105 frames>(ABS)
+   auch untergehn… <mus. note>(ABS)
+<wait 180 frames><wait 1 frame>(END)
+
+[>Pointer 196<]
+DRACO: Komm, Maria!(ABS)
+Schenk mir diesen Tanz…(END)
+
+[>Pointer 197<]
+DRACO: Tausend Dank…(END)
+
+[>Pointer 198<]
+KANZLER: Prinz Ralse erwartet(ABS)
+Euch zum Tanz. <wait 240 frames><wait 1 frame>
+(NEU)
+Vergeßt, was gestern war!(ABS)
+Unser Königreich wird sich(ABS)
+der Herrschaft des Ostens(ABS)
+beugen! <wait 240 frames><wait 1 frame>(END)
+
+[>Pointer 199<]
+LOCKE: Gut gemacht,(ABS)
+CELES.(END)
+
+[>Pointer 200<]
+Ihr habt was gut bei mir!(ABS)
+Freut euch auf eine blutige(ABS)
+Wendung!!!(ABS)
+<21 spaces>Ultros(END)
+
+[>Pointer 201<]
+LOCKE: Ups…(ABS)
+Das sag ich besser dem(ABS)
+Impresario…!(END)
+
+[>Pointer 202<]
+LOCKE: Schon wieder!(END)
+
+[>Pointer 203<]
+IMPRESARIO: Was bitte!!?(END)
+
+[>Pointer 204<]
+“Die überlebenden Westler(ABS)
+greifen an!”(ABS)
+RALSE: Unmöglich! <wait 180 frames><wait 1 frame>(END)
+
+[>Pointer 205<]
+<7 spaces>Angriff!! <wait 180 frames><wait 1 frame>(END)
+
+[>Pointer 206<]
+<7 spaces>Halt!! <wait 120 frames><wait 1 frame>(END)
+
+[>Pointer 207<]
+<mus. note> Maria… <mus. note> <wait 270 frames><wait 1 frame>(END)
+
+[>Pointer 208<]
+<mus. note> Draco, <wait 180 frames><wait 1 frame>(ABS)
+   so lange wartete ich… <wait 180 frames><wait 1 frame>(ABS)
+   …und hoffte auf dich. <mus. note> <wait 240 frames><wait 1 frame>(END)
+
+[>Pointer 209<]
+<mus. note> Zu spät! <wait 90 frames><wait 1 frame>Denn Maria wird <wait 105 frames>
+<wait 1 frame>(ABS)
+   mein Weib, <wait 105 frames><wait 1 frame>und meine(ABS)
+   Königin! <mus. note> <wait 135 frames><wait 1 frame>(END)
+
+[>Pointer 210<]
+<mus. note> Bei meinem Leben, <wait 105 frames><wait 1 frame>nein! <wait 120 frames>
+<wait 1 frame>(ABS)
+   Der Chocobo <wait 45 frames><wait 1 frame>bringt beide <wait 105 frames>
+<wait 1 frame>(ABS)
+   uns nach Haus… <mus. note> <wait 120 frames>
+<wait 1 frame>(END)
+
+[>Pointer 211<]
+<mus. note> Nur über meine Leiche! <mus. note> <wait 120 frames><wait 1 frame>(END)
+
+[>Pointer 212<]
+LOCKE: Impresario, was ist da über der Bühne?(END)
+
+[>Pointer 213<]
+IMPRESARIO: Aber wie will er(ABS)
+die Aufführ…(NEU)
+Etwa mit Gewalt!?(END)
+
+[>Pointer 214<]
+LOCKE: Das ist doch ein Witz!(END)
+
+[>Pointer 215<]
+ULTROS: Hahehiho!(ABS)
+Gleich ist Maria platt(ABS)
+wie 'ne Flunder!(END)
+
+[>Pointer 216<]
+LOCKE: Keine Sekunde(ABS)
+zu verlieren! Los!(NEU)
+IMPRESARIO: Sprich mit dem(ABS)
+Herrn im Raum ganz rechts!(ABS)
+Er kennt den Weg auf den(ABS)
+Schnürboden!(NEU)
+LOCKE: So gut wie(ABS)
+erledigt!(END)
+
+[>Pointer 217<]
+ULTROS: Waaaaah!(ABS)
+Scheußlich schwer, das Ding!(ABS)
+Um das runterzuschmeißen,(ABS)
+brauch ich fünf Minuten!(END)
+
+[>Pointer 218<]
+ULTROS: Ohaaah!(ABS)
+Und es wiegt vier Tonnen…!(END)
+
+[>Pointer 219<]
+ULTROS: Mist! Ungeziefer!(END)
+
+[>Pointer 220<]
+IMPRESARIO: So ein Desaster!(ABS)
+Wenn beide Helden am Boden(ABS)
+liegen, ist die Oper aus!(NEU)
+Wer kriegt dann das(ABS)
+Mädchen!?(END)
+
+[>Pointer 221<]
+LOCKE: Weder Draco(ABS)
+noch Ralse!(END)
+
+[>Pointer 222<]
+LOCKE: Ich, LOCKE, der(ABS)
+berühmteste Schatzsucher(ABS)
+der Welt, mach ihr den Hof!(END)
+
+[>Pointer 223<]
+IMPRESARIO: Ogottogottogott…(ABS)
+Wie schlecht er spielt!(END)
+
+[>Pointer 224<]
+ULTROS: Mund halten! In(ABS)
+meinen Tentakeln fließt(ABS)
+blaues, königliches Blut!(NEU)
+Komm her, wenn du dich(ABS)
+traust, du blöder Warmblüter,(ABS)
+du!(END)
+
+[>Pointer 225<]
+IMPRESARIO: Hm…(ABS)
+Ich muß wohl improvisieren.(ABS)
+MUSIK!!(END)
+
+[>Pointer 226<]
+Schluß mit dem Quatsch!(END)
+
+[>Pointer 227<]
+Was für ein Spektakel!!(END)
+
+[>Pointer 228<]
+IMPRESARIO: SETZER!!(ABS)
+SETZER: Ich halte mein(ABS)
+Wort, Musikus!(END)
+
+[>Pointer 229<]
+CELES: DAS ist er!?(END)
+
+[>Pointer 230<]
+IMPRESARIO: Eine Wendung!(ABS)
+Fast wäre sie LOCKE's(ABS)
+Braut geworden, da wird(ABS)
+sie von SETZER entführt!(NEU)
+Was hält das Schicksal wohl(ABS)
+noch für sie bereit? Das sehen(ABS)
+Sie nach der Pause - im(ABS)
+zweiten Akt!(END)
+
+[>Pointer 231<]
+IMPRESARIO: Also, die gestrige(ABS)
+Aufführung war furchtbar!(ABS)
+Ich gebe dir noch drei(ABS)
+Chancen!(END)
+
+[>Pointer 232<]
+IMPRESARIO: Du hast noch(ABS)
+zwei Versuche.(END)
+
+[>Pointer 233<]
+IMPRESARIO: Noch ein Versuch,(ABS)
+dann…(END)
+
+[>Pointer 234<]
+IMPRESARIO: Wir ziehen am(ABS)
+selben Boot!(END)
+
+[>Pointer 235<]
+Ihr spielt so entsetzlich schlecht… Schluß jetzt!(END)
+
+[>Pointer 236<]
+INSPIZIENT: Hier dürfen nur(ABS)
+Bühnenarbeiter rein.(END)
+
+[>Pointer 237<]
+INSPIZIENT: Der Impresario hat(ABS)
+gesagt, du sollst den Schalter(ABS)
+ganz rechts betätigen.(NEU)
+[>Pointer 238<]
+INSPIZIENT: Mach bloß nichts(ABS)
+falsch, sonst…(END)
+
+[>Pointer 239<]
+INSPIZIENT: Geh in den Raum(ABS)
+links von der Bühne, da ist(ABS)
+ein Zugang nach oben, ins(ABS)
+Gebälk.(END)
+
+[>Pointer 240<]
+ULTROS: Wahahahahaha!(ABS)
+Ups!!(END)
+
+[>Pointer 241<]
+SETZER: Ich kümmere(ABS)
+mich gleich um Euch!(END)
+
+[>Pointer 242<]
+LOCKE: Was für ein(ABS)
+Spektakel!(ABS)
+CELES: Hör schon auf(ABS)
+damit!(END)
+
+[>Pointer 243<]
+LOCKE: Aber gleich(ABS)
+beginnt der zweite Akt!(END)
+
+[>Pointer 244<]
+LOCKE: …(ABS)
+Wo ist SETZER?(END)
+
+[>Pointer 245<]
+CELES: Achtung, er kommt!(END)
+
+[>Pointer 246<]
+SETZER: W…wer bist DU?(ABS)
+Du bist nicht Maria!(END)
+
+[>Pointer 247<]
+CELES: SETZER, wir(ABS)
+brauchen Eure Hilfe.(ABS)
+Wir müssen nach Vector,(ABS)
+mit diesem Schiff.(END)
+
+[>Pointer 248<]
+SETZER: Wenn du nicht(ABS)
+Maria bist, dulde ich dich(ABS)
+nicht an Bord.(END)
+
+[>Pointer 249<]
+CELES: Wartet!(ABS)
+<wait 60 frames>Euer Schiff soll das beste(ABS)
+der Welt sein.(END)
+
+[>Pointer 250<]
+LOCKE: Und Ihr selbst(ABS)
+der notorischste Spieler auf(ABS)
+der Welt…(END)
+
+[>Pointer 251<]
+EDGAR: Ich bin der König(ABS)
+von Figaro. Es würde sich(ABS)
+lohnen zu kooperieren…(END)
+
+[>Pointer 252<]
+SABIN: Mein Bruder ist der König von Figaro. Wenn Ihr kooperiert, lohnt es s
+ich!(END)
+
+[>Pointer 253<]
+CYAN: Ich bin Ritter(ABS)
+aus Doma. Bitte helft uns.(END)
+
+[>Pointer 254<]
+SETZER: Komm her.(END)
+
+[>Pointer 255<]
+CELES: Äh… <wait 60 frames>(NEU)
+SETZER: Mißversteh(ABS)
+mich nicht… Ich weiß nicht,(ABS)
+ob ich euch helfen will.(END)
+
+[>Pointer 256<]
+SETZER: Nun ja…(ABS)
+Dem Imperium verdanke(ABS)
+ich meinen Reichtum.(END)
+
+[>Pointer 257<]
+CELES: Denkt nicht nur(ABS)
+an Euch. Viele Städte und(ABS)
+Dörfer wurden vom Imperium(ABS)
+unterjocht.(END)
+
+[>Pointer 258<]
+LOCKE: Das Imperium ist(ABS)
+durchtrieben! Sie benutzen(ABS)
+Magie, um die Welt zu(ABS)
+versklaven.(END)
+
+[>Pointer 259<]
+EDGAR: Bis vor kurzem(ABS)
+waren Figaro und das(ABS)
+Imperium verbündet.(END)
+
+[>Pointer 260<]
+SABIN: Das Imperium benutzt(ABS)
+Euch doch nur!(END)
+
+[>Pointer 261<]
+CYAN: …(ABS)
+Ich habe meine Freunde(ABS)
+verloren…und meine Familie.(END)
+
+[>Pointer 262<]
+SETZER: Das Imperium…(ABS)
+…soll böse sein…?(END)
+
+[>Pointer 263<]
+CELES: Jeder von uns(ABS)
+hat noch eine Rechnung(ABS)
+mit dem Imperium offen.(ABS)
+Deshalb…(NEU)
+SETZER: Du bist ja fast(ABS)
+noch faszinierender als(ABS)
+Maria.(ABS)
+CELES: ???(END)
+
+[>Pointer 264<]
+SETZER: Genug!(NEU)
+Wenn du…(ABS)
+Wenn CELES meine Frau(ABS)
+wird, helfe ich euch.(ABS)
+Sonst halt nicht…(END)
+
+[>Pointer 265<]
+LOCKE: WAAAS!?(ABS)
+Ist der übergeschnappt?(END)
+
+[>Pointer 266<]
+CELES: Wir haben keine(ABS)
+Wahl.(END)
+
+[>Pointer 267<]
+SETZER: Gut! Also(ABS)
+abgemacht!(END)
+
+[>Pointer 268<]
+CELES: Aber ich stelle(ABS)
+die Bedingungen…(END)
+
+[>Pointer 269<]
+CELES: Ein Münzwurf(ABS)
+soll entscheiden.(NEU)
+Kopf bedeutet, Ihr helft uns.(ABS)
+Bei Zahl gehöre ich Euch.(ABS)
+Gehen Sie mit, Herr(ABS)
+Spieler…?(END)
+
+[>Pointer 270<]
+SETZER: Oho!(ABS)
+Klar doch! All in!(END)
+
+[>Pointer 271<]
+LOCKE: Hör mir bitte zu!(ABS)
+CELES…du kannst auf(ABS)
+keinen Fall die Frau von(ABS)
+diesem Fuzzi werden! Ich…(END)
+
+[>Pointer 272<]
+CYAN: Der Sir beliebt(ABS)
+uns auszunutzen…(END)
+
+[>Pointer 273<]
+CELES: Fertig?(END)
+
+[>Pointer 274<]
+CELES: Ich gewinne!(ABS)
+Jetzt erfüllt Euren Teil(ABS)
+der Abmachung!(END)
+
+[>Pointer 275<]
+SETZER: Wie…unerwartet!(ABS)
+Eine Münze mit identischen(ABS)
+Seiten…!(END)
+
+[>Pointer 276<]
+CELES: Sie waren zu(ABS)
+gierig, Herr Spieler…!(END)
+
+[>Pointer 277<]
+SETZER: Ha!(ABS)
+Wie tief kann man sinken!?(ABS)
+Ein ungewohntes Gefühl!(NEU)
+Gut, ich helfe euch.(ABS)
+Ich liebe Überraschungen.(END)
+
+[>Pointer 278<]
+Ab sofort ist mein Leben(ABS)
+ein Trumpf in eurem Blatt!(END)
+
+[>Pointer 279<]
+He! Gäste!(ABS)
+Eine Erfrischung gefällig?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 280<]
+(ABS)
+<9 spaces>Verschlossen…(END)
+
+[>Pointer 281<]
+(ABS)
+  Im Flug bitte nicht benutzen!(END)
+
+[>Pointer 282<]
+SABIN: Diese Münze…!?(ABS)
+<wait 60 frames>BRUDER!!! Jetzt sag bloß noch…!(END)
+
+[>Pointer 283<]
+LOCKE: Dieses klobige(ABS)
+Ding fliegt tatsächlich!(ABS)
+Kann es runterfallen?(END)
+
+[>Pointer 284<]
+SETZER: Runter kommen(ABS)
+sie immer! <wait 60 frames>Fragt sich nur,(ABS)
+wo und wann…(END)
+
+[>Pointer 285<]
+LOCKE: Bis dahin geben(ABS)
+wir eine tolle Zielscheibe ab…(ABS)
+Landen wir etwas abseits!(NEU)
+SETZER: Aye, Käpt'n.(ABS)
+Ich warte an Bord, falls es(ABS)
+Probleme gibt.(END)
+
+[>Pointer 286<]
+SETZER: Was ist los?(ABS)
+Kriegt das Imperium(ABS)
+langsam kalte Füße?(END)
+
+[>Pointer 287<]
+SETZER: Ich muß das Schiff reparieren. Seht euch mal um und erstattet mir da
+nn Bericht!(END)
+
+[>Pointer 288<]
+SETZER: Ich bin noch nicht fertig. Am besten, ihr mietet in Alburg ein Boot.
+(END)
+
+[>Pointer 289<]
+SETZER: Machen Sie Ihr Spiel!(ABS)
+<wait 60 frames>LOCKE, du darfst steuern!(END)
+
+[>Pointer 290<]
+Und so geht's:(END)
+
+[>Pointer 291<]
+Steuerkreuz:(ABS)
+L/R - Richtung(ABS)
+Oben/unten - Höhe(NEU)
+Mit dem A-Knopf bewegt sich das Schiff. Der X-Knopf bringt Dich mitschiffs. 
+Dort kannst Du Personen austauschen…(NEU)
+…oder Items kaufen.(ABS)
+Drücke B, um zu landen.(ABS)
+Drücke A, um abzuheben.(ABS)
+Guten Flug!(END)
+
+[>Pointer 292<]
+Alles kapiert?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 293<]
+Soll ich euch noch etwas beibringen?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 294<]
+Drücke Start, um die Weltkarte zu sehen.(NEU)
+Halte den Y-Knopf gedrückt und benutze das Steuerkreuz, um langsam zu fliege
+n.(NEU)
+Halte die L- und R-Knöpfe gedrückt, um superschnelle Kurven zu fliegen!     
+(END)
+
+[>Pointer 295<]
+<choice>(Das Fliegende Land finden)(ABS)
+<choice>(Losfliegen)(ABS)
+<choice>(Abbrechen)(END)
+
+[>Pointer 296<]
+Gruppe neu erstellen?(ABS)
+<choice>Nein(ABS)
+<choice>Ja(END)
+
+[>Pointer 297<]
+(ABS)
+<3 spaces>Bitte nur 3 Personen…!(END)
+
+[>Pointer 298<]
+<choice>(Losfliegen)(ABS)
+<choice>(Erst mal abwarten)(END)
+
+[>Pointer 299<]
+LOCKE: Bleiben wir(ABS)
+nicht zu lange.(ABS)
+Fliegen wir woanders hin!(END)
+
+[>Pointer 300<]
+SETZER: Genau.(ABS)
+<wait 60 frames>Da fällt mir ein…(ABS)
+Wir sind spät dran!(END)
+
+[>Pointer 301<]
+CYAN: Oh!(ABS)
+Was ist das!?(END)
+
+[>Pointer 302<]
+EDGAR: Etwas Furchtbares(ABS)
+kommt auf uns zu!!!(END)
+
+[>Pointer 303<]
+SABIN: Uaaah!(ABS)
+Was um Himmels Willen…(END)
+
+[>Pointer 304<]
+GAU: GAU Angst!!!(END)
+
+[>Pointer 305<]
+Du häßliche Kröte!(ABS)
+Troll dich!!!(END)
+
+[>Pointer 306<]
+Dem Imperium ewige Treue(ABS)
+schwören?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 307<]
+WAS!(END)
+
+[>Pointer 308<]
+Gut.(END)
+
+[>Pointer 309<]
+MagiTek-Forschungslabor.(ABS)
+Zutritt verboten!(END)
+
+[>Pointer 310<]
+Cid, Professor der MagiTek-(ABS)
+Forschung, ist ein Genie!(ABS)
+Er verlieh mir die Gabe(ABS)
+der Quell-Magie!(END)
+
+[>Pointer 311<]
+Ihr da! <wait 15 frames>… <wait 15 frames>… <wait 15 frames>(ABS)
+Ihr seid Rebellen!!(END)
+
+[>Pointer 312<]
+Wie friedlich die Zeit ist…(END)
+
+[>Pointer 313<]
+Und…QUELL!!!(END)
+
+[>Pointer 314<]
+General Leo ist ein guter Mensch.(ABS)
+Kefka dagegen ist ein…(ABS)
+<wait 60 frames>Oh! Ich bin ganz still…!(END)
+
+[>Pointer 315<]
+Tzen, Maranda, Alburg…(ABS)
+Das Imperium kontrolliert sie alle. Und nur die Rebellen sind daran schuld… 
+(END)
+
+[>Pointer 316<]
+Ihr seid Rebellen?(END)
+
+[>Pointer 317<]
+Kein Problem für mich. Soll ich euch was erzählen?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 318<]
+Alle Soldaten im MagiTek Forschungslabor können Magie benutzen!(ABS)
+Dieser Prof. Cid ist genial!(END)
+
+[>Pointer 319<]
+Tja… <wait 60 frames>(ABS)
+Ein “Kefka” war Cids erster experimenteller MagiTek-Ritter.(NEU)
+Aber der Prozeß war noch nicht abgeschlossen…(NEU)
+Etwas in Kefkas Verstand ist damals in Mitleidenschaft gezogen worden!(END)
+
+[>Pointer 320<]
+General Leo lehnte eine MagiTek-Infusion ab! Ein wahrer Krieger!(END)
+
+[>Pointer 321<]
+CELES ist eine Verräterin!(ABS)
+Weil die andere Seite bestimmt(ABS)
+verliert!(END)
+
+[>Pointer 322<]
+Eure Freunde…(ABS)
+Sie sind im Cafe.(END)
+
+[>Pointer 323<]
+BANON: Was soll DAS denn heißen…!?(NEU)
+……!!(ABS)
+Mit Espern…sprechen…!?(END)
+
+[>Pointer 324<]
+ARVIS: So war es, als wir hierherkamen.(END)
+
+[>Pointer 325<]
+“LÖWE”: Was zum Teufel…(END)
+
+[>Pointer 326<]
+BANON: Könnte Gestahl das wirklich meinen? Uns mit dem Imperium zu verbünden
+, um die Esper zu verfolgen…(END)
+
+[>Pointer 327<]
+ARVIS: Das macht Sinn.(ABS)
+Wir können sie nicht vergessen…(END)
+
+[>Pointer 328<]
+“LÖWE”: Der Krieg…(ABS)
+…ist vorbei…!?(END)
+
+[>Pointer 329<]
+NARSHE-WACHE: Wir mußten nichts tun!(ABS)
+Die imperialen Truppen rannten einfach davon!(END)
+
+[>Pointer 330<]
+NARSHE-WACHE: Was ist los?(END)
+
+[>Pointer 331<]
+Stimmt es, daß sie in dem Labor Ungheuern magische Kräfte absaugen?(END)
+
+[>Pointer 332<]
+Pst!(ABS)
+Ich sympathisiere mit den(ABS)
+“Löwen”! Ich kenn' euch gut!(END)
+
+[>Pointer 333<]
+Ich lenk' die Soldaten ab.(ABS)
+Klettert von dieser Kiste auf(ABS)
+den Stahlträger und schleicht(ABS)
+euch rein ins Labor!(END)
+
+[>Pointer 334<]
+Bereit?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 335<]
+Wer ist da!?(ABS)
+Hier ist Endstation!(END)
+
+[>Pointer 336<]
+MANN: Überall…rosa Ponys!(ABS)
+SOLDAT: Verzieh dich, Alter!(END)
+
+[>Pointer 337<]
+MANN: Wieher…(ABS)
+Sie <wait 15 frames>haben <wait 15 frames>lila <wait 15 frames>Tupfen… <wait 15 frames>
+(ABS)
+SOLDAT: Echt? Schööön…!(END)
+
+[>Pointer 338<]
+Puh!(END)
+
+[>Pointer 339<]
+Gut…(ABS)
+Ich zähle auf euch!(END)
+
+[>Pointer 340<]
+Junge Leute…(ABS)
+Gebt niemals auf!(END)
+
+[>Pointer 341<]
+“Das war knapp…”(END)
+
+[>Pointer 342<]
+SOLDAT: Rebellen-Abschaum!!!(END)
+
+[>Pointer 343<]
+Ich bleibe wohl hier und melde(ABS)
+mich freiwillig zur Armee…(END)
+
+[>Pointer 344<]
+Truppen von hier haben(ABS)
+unser Dorf zerstört! Bitte,(ABS)
+in Maranda könnten wir(ABS)
+ganz von vorn anfangen…!(END)
+
+[>Pointer 345<]
+Die Übernachtung geht auf's(ABS)
+Haus!(ABS)
+<choice>“Klingt gut!”(ABS)
+<choice>“Nein danke.”(END)
+
+[>Pointer 346<]
+1000 GS geklaut!(END)
+
+[>Pointer 347<]
+Ni, Chihihi, hihi!(END)
+
+[>Pointer 348<]
+KEFKA: Ich bin allmächtig!(ABS)
+Chihihichi!(ABS)
+Ich sammle Esper!(ABS)
+Ich extrahiere Magie!(NEU)
+Und… <wait 60 frames>… <wait 60 frames>… <wait 60 frames>(ABS)
+Ich setze die Statuen wieder ein!(END)
+
+[>Pointer 349<]
+KEFKA: Ihr seid komplett “ausgelaugt”! Hihi!(ABS)
+Jetzt seid ihr Biomüll!(END)
+
+[>Pointer 350<]
+KEFKA: Und du! Bon voyage!(END)
+
+[>Pointer 351<]
+EFREET: Hmm…(ABS)
+SHIVA: Nun, Rama HAT ihnen vertraut und geholfen.(END)
+
+[>Pointer 352<]
+EFREET: Gestahl hat unsere Freunde gefangen und beraubt sie ihrer magischen 
+Kraft.(NEU)
+Auch ich habe in einer dieser Glasröhren leiden müssen…(END)
+
+[>Pointer 353<]
+SHIVA: Sie saugten unsere Kraft heraus, und dann warfen sie uns fort…(ABS)
+Das Ende naht…(END)
+
+[>Pointer 354<]
+Wir folgen Ramas Beispiel und geben Euch unsere Macht…(END)
+
+[>Pointer 355<]
+Unsere Freunde sind fort…(ABS)
+Die Zeit rennt uns davon…(ABS)
+Wir haben keine Wahl, als uns Euch anzuschließen…(END)
+
+[>Pointer 356<]
+(ABS)
+         Magizit “Efreet”(ABS)
+              erhalten!(END)
+
+[>Pointer 357<]
+(ABS)
+         Magizit “Shiva”(ABS)
+              erhalten!(END)
+
+[>Pointer 358<]
+ESPER: Ihr wollt uns helfen, aber…(ABS)
+<wait 60 frames>…unser Leben ist vorbei.(NEU)
+Wie Efreet und Shiva geben wir Euch unsere Kraft…(END)
+
+[>Pointer 359<]
+CID: Was macht ihr denn da!?(END)
+
+[>Pointer 360<]
+CID: W…was ist das!?(END)
+
+[>Pointer 361<]
+CID: Also können die Kräfte der Esper nur wirklich übertragen werden, wenn s
+ie sterben…(END)
+
+[>Pointer 362<]
+(ABS)
+       Magizit erhalten!(END)
+
+[>Pointer 363<]
+CELES: Professor Cid!(NEU)
+CID: Generalin CELES!(ABS)
+Und wer mögen diese dubiosen Subjekte sein…? Etwa deine Truppe?(END)
+
+[>Pointer 364<]
+CELES: Nein. Es ist so…(NEU)
+CID: Dann wirst du also alle deine Freunde verraten und ans Messer liefern, 
+hm!?(END)
+
+[>Pointer 365<]
+KEFKA: CELES!(ABS)
+W…was machst du da?(ABS)
+Hör sofort auf!!(END)
+
+[>Pointer 366<]
+LOCKE: !?(ABS)
+CELES…?(END)
+
+[>Pointer 367<]
+KEFKA: Also das ist es!(ABS)
+Magizit…(ABS)
+Cid, du elender Dummkopf! Also…(END)
+
+[>Pointer 368<]
+KEFKA: Generalin CELES!!! <wait 60 frames>(ABS)
+Das Spiel ist aus.(ABS)
+Gib mir diese Magizit-Scherben!(END)
+
+[>Pointer 369<]
+LOCKE: CELES!(ABS)
+Du hast uns…getäuscht!?(ABS)
+CELES: Natürlich nicht!(ABS)
+Vertrau mir!(END)
+
+[>Pointer 370<]
+CYAN: Ah!(ABS)
+Ich wußte, daß man ihr nicht trauen kann!(END)
+
+[>Pointer 371<]
+KEFKA: Chihihi!(ABS)
+Sie hat euch alle reingelegt!(ABS)
+Ganz meine CELES!!(END)
+
+[>Pointer 372<]
+CELES: LOCKE…(ABS)
+Bitte glaube mir…(NEU)
+LOCKE: Ich… <wait 60 frames>…(END)
+
+[>Pointer 373<]
+KEFKA: JETZT!!(END)
+
+[>Pointer 374<]
+KEFKA: Löscht sie alle aus!!!(END)
+
+[>Pointer 375<]
+CELES: LOCKE… <wait 60 frames>(ABS)
+Laß mich dich nur einmal beschützen… <wait 60 frames>(ABS)
+Nun… <wait 60 frames>(ABS)
+…wirst du mir glauben…(END)
+
+[>Pointer 376<]
+LOCKE: CELES…(END)
+
+[>Pointer 377<]
+CID: Oje…(ABS)
+Was ist geschehen?(END)
+
+[>Pointer 378<]
+CID: Ein Kollaps!(ABS)
+Euer Kampf hat die Kapseln zum Bersten gebracht! Ihr Inhalt läuft aus!!!(END)
+
+[>Pointer 379<]
+CID: Schnell! Hier herüber!(END)
+
+[>Pointer 380<]
+CID: Kefka hat mich benutzt…und das Imperium.(ABS)
+Was habe ich getan…?(END)
+
+[>Pointer 381<]
+CID: Die Lebensenergie dieser Esper…(END)
+
+[>Pointer 382<]
+CID: Ihr habt mir zu einer Entscheidung verholfen.(NEU)
+Ich werde mit dem Imperator sprechen und diesen Krieg beenden!(END)
+
+[>Pointer 383<]
+CID: CELES…(ABS)
+Ich kannte sie noch als Baby. Ich habe sie wie eine eigene Tochter großgezoge
+n!(NEU)
+Aber sie wurde gezwungen, ein Magie-Ritter zu werden, und hat schreckliche D
+inge getan.(NEU)
+Wenn ich nur mit ihr reden könnte…(ABS)
+Ich fühle mich schuldig für den Verlauf ihres Lebens.(END)
+
+[>Pointer 384<]
+CID: Nein! Kefka!(END)
+
+[>Pointer 385<]
+CID: Geht!!!(END)
+
+[>Pointer 386<]
+SETZER: Ich habe mir Sorgen gemacht…(END)
+
+[>Pointer 387<]
+SETZER: ?(ABS)
+Wo ist denn CELES…?(ABS)
+LOCKE: ……(END)
+
+[>Pointer 388<]
+SETZER: Hä?(END)
+
+[>Pointer 389<]
+KEFKA: Mist!(ABS)
+Zu dumm aber auch!!(END)
+
+[>Pointer 390<]
+SETZER: Wir reden später.(ABS)
+Nichts wie weg hier!(END)
+
+[>Pointer 391<]
+KEFKA: Nicht mit mir!(ABS)
+Ihr entkommt mir nicht!(END)
+
+[>Pointer 392<]
+LOCKE: Wie es TERRA wohl geht? Fliegen wir nach Zozo.(END)
+
+[>Pointer 393<]
+SETZER: TERRA? Wer ist das?(NEU)
+LOCKE: Das erzähle ich auf dem Weg…(ABS)
+…von TERRA, Espern und den “Löwen”…(END)
+
+[>Pointer 394<]
+TERRA: Vater…?(END)
+
+[>Pointer 395<]
+Alle sind hier…(END)
+
+[>Pointer 396<]
+LOCKE: TERRA…(END)
+
+[>Pointer 397<]
+LOCKE: Magizit!!(END)
+
+[>Pointer 398<]
+
+[>Pointer 399<]
+TERRA: Ich erinnere mich…(ABS)
+Ich komme aus der Welt der Esper…(END)
+
+[>Pointer 400<]
+(ABS)
+(ABS)
+      Die Welt der Esper… <wait 270 frames><wait 1 frame>(END)
+
+[>Pointer 401<]
+MAEL DUIN: Höre gut zu, und denke nach!(NEU)
+Was tun wir?(ABS)
+<choice>(Zusammen umkehren)(ABS)
+<choice>(Sie hierlassen)(END)
+
+[>Pointer 402<]
+Sie ist sehr schwach.(ABS)
+Sie muß sich eine Weile ausruhen.(END)
+
+[>Pointer 403<]
+ÄLTESTER: War tatsächlich ein Mensch hier?(NEU)
+MAEL DUIN: Vielleicht…(ABS)
+…versehentlich…(END)
+
+[>Pointer 404<]
+ÄLTESTER: Dieser Abend ist unser Abend…(END)
+
+[>Pointer 405<]
+Alles klar, Maël?(END)
+
+[>Pointer 406<]
+Kümmere dich darum. Menschen und Esper sind nicht füreinander bestimmt…(END)
+
+[>Pointer 407<]
+Du bist der Torwächter, Maël Duin?(END)
+
+[>Pointer 408<]
+Alle fühlen sich bedroht.(END)
+
+[>Pointer 409<]
+Du willst wohl das Menschenreich jenseits des Tores im Norden sehen, Maël Du
+in?(END)
+
+[>Pointer 410<]
+Warum hast du dieses…Ding hergebracht?(END)
+
+[>Pointer 411<]
+Starker Wind…(ABS)
+Sei vorsichtig.(END)
+
+[>Pointer 412<]
+Die Verbindung zwischen Menschen- und Esperwelt wurde mit der Zeit schwächer
+…(END)
+
+[>Pointer 413<]
+Alles klar, Maël Duin?(END)
+
+[>Pointer 414<]
+Was hast du nur getan?(END)
+
+[>Pointer 415<]
+Auf Befehl des Ältesten darf niemand durch dieses Tor.(END)
+
+[>Pointer 416<]
+Alarm!(ABS)
+Etwas kommt durch das Tor!(END)
+
+[>Pointer 417<]
+Sie sagen, ein Menschenmädchen sei hier…(END)
+
+[>Pointer 418<]
+……(END)
+
+[>Pointer 419<]
+……(END)
+
+[>Pointer 420<]
+ESPER: Habe ich dich geweckt?(END)
+
+[>Pointer 421<]
+FRAU: Bist du ein Esper!?(ABS)
+Was ist mit dem Medaillon?(END)
+
+[>Pointer 422<]
+ESPER: Es soll dir gehören.(ABS)
+Es beschützt die Welt der Esper.(NEU)
+FRAU: Die Welt der Esper?(ABS)
+Du hast wohl nicht alle Tassen…(NEU)
+ESPER: Alle Esper hier sind aufgeregt, weil du ein Mensch bist…(NEU)
+FRAU: Und du hast mich…gerettet…?(END)
+
+[>Pointer 423<]
+ESPER: Ich bin Maël Duin.(ABS)
+Ich ermüde in der Menschenwelt…(NEU)
+Diese Welt besteht nur aus Gier, Neid und Abscheu. Und sie ist…ansteckend…(END)
+
+[>Pointer 424<]
+MAEL DUIN: Aber sind Menschen und Esper wirklich so verschieden?(END)
+
+[>Pointer 425<]
+MARIE: Also…bin ich in eurer Welt das Böse in Person…?(ABS)
+MAEL DUIN: Nein, ich…(END)
+
+[>Pointer 426<]
+MARIE: Morgen kehre ich in meine Welt zurück!(ABS)
+MAEL DUIN: Jemand muß dir den Weg zeigen.(END)
+
+[>Pointer 427<]
+ÄLTESTER: Alles klar?(ABS)
+WAS? Der Mensch ist fort?(END)
+
+[>Pointer 428<]
+Wüßte diese Menschengeneration über uns Bescheid…(NEU)
+Und würde sie unsere Macht benutzen wollen…(ABS)
+Es wäre eine Katastrophe!(END)
+
+[>Pointer 429<]
+Die Menschenfrau ist bis zum Tor gegangen!(END)
+
+[>Pointer 430<]
+Warum mußte das passieren, nach all den Jahren?(END)
+
+[>Pointer 431<]
+JUNGER ESPER: Was ist los, Maël Duin?(END)
+
+[>Pointer 432<]
+MAEL DUIN: Wenn du nicht zurückkehren willst, darfst du hierbleiben.(NEU)
+MARIE: Aber Menschen und Esper können nicht…!…?(END)
+
+[>Pointer 433<]
+MAEL DUIN: Wie können wir das wissen, ohne es erfahren zu haben?(END)
+
+[>Pointer 434<]
+(ABS)
+     Wie können wir es…(END)
+
+[>Pointer 435<]
+(ABS)
+        …wissen, ohne…(END)
+
+[>Pointer 436<]
+(ABS)
+   …es erfahren zu haben?(END)
+
+[>Pointer 437<]
+MAEL DUIN: Ich weiß einen Namen…(ABS)
+MARIE: Welchen?(NEU)
+MAEL DUIN: TERRA.(ABS)
+Nicht schlecht, was?(END)
+
+[>Pointer 438<]
+(ABS)
+         2 Jahre später…(END)
+
+[>Pointer 439<]
+Menschen!!!(ABS)
+Die Welten fließen ineinander! Der Wind…(NEU)
+Er weht so seltsam, genau wie vor zwei Jahren…(END)
+
+[>Pointer 440<]
+Aber etwas ist heute anders…(ABS)
+Truppen kommen, um unsere magische Kraft zu rauben.(END)
+
+[>Pointer 441<]
+Verdammt!(ABS)
+Sie sind schon am Haus des Ältesten!!!(END)
+
+[>Pointer 442<]
+GESTAHL: Aha!(ABS)
+Endlich haben wir sie gefunden!(NEU)
+Alte Schriften enthielten Hinweise auf diese Welt und beschrieben die unglau
+blichen Fähigkeiten der Esper!(END)
+
+[>Pointer 443<]
+GESTAHL: Fangt sie!(ABS)
+Für jeden Esper werdet ihr reich belohnt!!!(END)
+
+[>Pointer 444<]
+ÄLTESTER: Wir haben keine Wahl…(ABS)
+Wir müssen nun handeln…(NEU)
+MAEL DUIN: Ihr meint…die magische Barriere?(END)
+
+[>Pointer 445<]
+Da draußen ist's gefährlich!(END)
+
+[>Pointer 446<]
+Bald kommen die Menschen!(END)
+
+[>Pointer 447<]
+MARIE: TERRA geht es gut.(END)
+
+[>Pointer 448<]
+ÄLTESTER: Dies ist mein Plan…(NEU)
+Wir beschwören einen Sturm herauf, der diese lästigen Kreaturen hinwegfegen 
+wird.(NEU)
+Und dann versiegeln wir das Tor.(ABS)
+Ich bin der letzte, der diese Magie anwenden kann.(END)
+
+[>Pointer 449<]
+MAEL DUIN: Aber in Eurer Verfassung…(NEU)
+ÄLTESTER: …werde ich sterben…(ABS)
+Aber wir werden Frieden haben.(ABS)
+MAEL DUIN: Marie……(END)
+
+[>Pointer 450<]
+MARIE: Ich werde die andere Seite nicht vermissen…(END)
+
+[>Pointer 451<]
+ÄLTESTER: Tun wir es.(ABS)
+Etwas anderes bleibt uns nicht…(END)
+
+[>Pointer 452<]
+ESPER: Alles nur wegen diesem Mädchen!(NEU)
+MAEL DUIN: Unsinn!(NEU)
+ESPER: Ich glaube, sie hat den anderen geholfen!(END)
+
+[>Pointer 453<]
+MAEL DUIN: Sei doch vernünftig!(NEU)
+ESPER: Sie ist eine von ihnen!(ABS)
+Bald ist unser Versteck nutzlos!(END)
+
+[>Pointer 454<]
+MAEL DUIN: Argh!(END)
+
+[>Pointer 455<]
+Marie hat TERRA zum Tor gebracht!(END)
+
+[>Pointer 456<]
+ÄLTESTER: Wohin gehst du!?(ABS)
+MAEL DUIN: Marie wird in die andere Welt gesogen…!(NEU)
+ÄLTESTER: Unmöglich!(NEU)
+Es ist zu spät! Ich habe schon begonnen, das Tor zu versiegeln. Es gibt kein
+ Zurück mehr!(NEU)
+MAEL DUIN: Dieser Narr…(END)
+
+[>Pointer 457<]
+MAEL DUIN: Marie!!!(END)
+
+[>Pointer 458<]
+TERRA!!!(END)
+
+[>Pointer 459<]
+MARIE: Maël Duin…(ABS)
+Ich bin nicht erwünscht…(NEU)
+MAEL DUIN: Ich verstehe dich doch!(NEU)
+MARIE: Danke dir…(ABS)
+MAEL DUIN: Kannst du zurückkommen?(NEU)
+MARIE: Sicher…(END)
+
+[>Pointer 460<]
+GESTAHL: Kreisch!!!(ABS)
+Gerade als wir in Reichweite dieser Goldgrube gekommen waren…!(END)
+
+[>Pointer 461<]
+SOLDAT: Schaut! Etwas kam heraus!(END)
+
+[>Pointer 462<]
+GESTAHL: Ein…Mädchen?(ABS)
+<wait 60 frames>Wer… <wait 60 frames>wer ist sie?(END)
+
+[>Pointer 463<]
+MARIE: Bitte…(ABS)
+Kümmere dich um mein Kind…(NEU)
+GESTAHL: DEIN Kind!?(ABS)
+Aha! Hmmm…dann ist es also halb Mensch und halb…(ABS)
+<wait 60 frames>Absolut faszinierend!!(NEU)
+GESTAHL: Wuhahaha…!(ABS)
+Dieses Kind wird uns viel früher zu unserem Traum verhelfen, als wir dachten
+!(END)
+
+[>Pointer 464<]
+MARIE: NEIN…!!!(ABS)
+GESTAHL: Ruhig, meine Liebe…(END)
+
+[>Pointer 465<]
+GESTAHL: Wir werden diese Welt besitzen!(ABS)
+Hahahaha…(END)
+
+[>Pointer 466<]
+MAEL DUIN: Marie!!!(END)
+
+[>Pointer 467<]
+TERRA: Das war…mein Vater?(END)
+
+[>Pointer 468<]
+TERRA: Ich bin das Produkt eines Menschen und eines Espers…(ABS)
+Daher habe ich meine magischen Kräfte…(NEU)
+Ich verstehe… Jetzt kann ich sie endlich kontrollieren…(END)
+
+[>Pointer 469<]
+EDGAR: Gestahl muß damals das Geheimnis der Esper-Kraft gekannt haben!(NEU)
+LOCKE: Und die Esper im Forschungslabor wurden bei dieser Gelegenheit gefange
+n!(NEU)
+Das heißt, CELES bekam ihre Macht von einem geopferten Esper…(END)
+
+[>Pointer 470<]
+SABIN: Dafür werden sie bezahlen müssen! Wir werden kämpfen!(END)
+
+[>Pointer 471<]
+TERRA: Was geschieht in Narshe?(NEU)
+LOCKE: Wir sollten dorthin zurückgehen…(END)
+
+[>Pointer 472<]
+SETZER: Das Luftschiff ist bereit!(END)
+
+[>Pointer 473<]
+TERRA: Also los!(END)
+
+[>Pointer 474<]
+<7 spaces>Noch 7 Drachen.(END)
+
+[>Pointer 475<]
+<7 spaces>Noch 6 Drachen.(END)
+
+[>Pointer 476<]
+<7 spaces>Noch 5 Drachen.(END)
+
+[>Pointer 477<]
+<7 spaces>Noch 4 Drachen.(END)
+
+[>Pointer 478<]
+<7 spaces>Noch 3 Drachen.(END)
+
+[>Pointer 479<]
+<7 spaces>Noch 2 Drachen.(END)
+
+[>Pointer 480<]
+<7 spaces>Noch 1 Drache…(END)
+
+[>Pointer 481<]
+  Alle 8 Drachen besiegt…(NEU)
+   Drachen-Siegel gebrochen!(END)
+
+[>Pointer 482<]
+(ABS)
+          Magizit “Jihad”(ABS)
+              erhalten!!!(END)
+
+[>Pointer 483<]
+DUNCAN: Paß auf! Beweg dich!(ABS)
+Keuch, keuch…(ABS)
+Meine alten Knochen…(ABS)
+He…bist du taub?(END)
+
+[>Pointer 484<]
+SABIN: Duncan!!(END)
+
+[>Pointer 485<]
+DUNCAN: Jahahaha…(ABS)
+Warum so überrascht?(ABS)
+Dachtest wohl, ich wäre…(END)
+
+[>Pointer 486<]
+SABIN: Duncan…(ABS)
+Ich bin ja so froh!!!(END)
+
+[>Pointer 487<]
+DUNCAN: Huch!?(ABS)
+SABIN, das kann nicht…(ABS)
+Tränen!?(END)
+
+[>Pointer 488<]
+DUNCAN: Hahaha… Mir ist nichts passiert! Die Erde tat sich weit auf, um mich 
+zu verschlingen, aber ich rettete mich!(END)
+
+[>Pointer 489<]
+DUNCAN: SABIN! Es wird Zeit, dein Training zu vollenden. Benutze diese neue 
+Fähigkeit, um Kefka zu besiegen!(END)
+
+[>Pointer 490<]
+Hände hoch!(END)
+
+[>Pointer 491<]
+Dies ist der “Kreuzbruch”!(END)
+
+[>Pointer 492<]
+DUNCAN: Geht!(ABS)
+Setzt Kefka an die Luft!(END)
+
+[>Pointer 493<]
+Ich habe Euch erwartet! <wait 60 frames>Nehmt.(END)
+
+[>Pointer 494<]
+DUNCAN: Keuch…keuch…(ABS)
+<wait 60 frames>Macht euch keine Sorgen! Geht!(ABS)
+Zerstört Kefka!(END)
+
+[>Pointer 495<]
+70 Jahre lang hatte ich einen Waffenladen!(ABS)
+Dieser Stein hat eine unheimliche Aura.(NEU)
+Wenn ich ihn zu einem Schwert umschmiede, wäre es machtvoll!(NEU)
+Soll ich dies für Euch tun?(ABS)
+<choice>“Ragnarok-Stein lassen!”(ABS)
+<choice>“Zum Schwert Ragnarok machen!”(END)
+
+[>Pointer 496<]
+Also gut!(END)
+
+[>Pointer 497<]
+Ich bleibe hier.(ABS)
+Mein Zuhause…(END)
+
+[>Pointer 498<]
+Keuch…(ABS)
+Nehmt…dies…(END)
+
+[>Pointer 499<]
+“Fluch-Schild”…(ABS)
+Wenn wir den Fluch dieses Schildes brechen könnten…(ABS)
+…gigantisch!(END)
+
+[>Pointer 500<]
+Was ist mit dieser Skulptur?(ABS)
+Sie ist aus Knochen…(NEU)
+Und im Auge…(ABS)
+… <wait 60 frames>Magizit!?(END)
+
+[>Pointer 501<]
+Den Magizit aus dem Auge der Skulptur entfernen?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 502<]
+(ABS)
+         Magizit “Midgard”(ABS)
+              erhalten!(END)
+
+[>Pointer 503<]
+Ohh…(END)
+
+[>Pointer 504<]
+MOG: Ich bin dein Boß, kupo!(ABS)
+Du kommst mit uns, kupo!!!(END)
+
+[>Pointer 505<]
+Bewunderer von Knochen-(ABS)
+Skulpturen, stark wie ein Riese…(ABS)
+Ein Muskelpaket im Pelz!(END)
+
+[>Pointer 506<]
+Ohh…ich UMARO…(ABS)
+Jawohl…(ABS)
+Ich mitkommen!(NEU)
+MOG: UMARO!(ABS)
+Nicht so träge!(END)
+
+[>Pointer 507<]
+UMARO: Ohh…ich gehe in großes Luftschiff!(END)
+
+[>Pointer 508<]
+Dieser Magizit gehört Euch für 10000 GS.(ABS)
+<choice>(Kaufen)(ABS)
+<choice>(Nicht kaufen)(END)
+
+[>Pointer 509<]
+Dieser Magizit gehört Euch für 50000 GS.(ABS)
+<choice>(Kaufen)(ABS)
+<choice>(Nicht kaufen)(END)
+
+[>Pointer 510<]
+(ABS)
+         Magizit “Palidor”(ABS)
+              erhalten!(END)
+
+[>Pointer 511<]
+(ABS)
+         Magizit “Midgard”(ABS)
+              erhalten!(END)
+
+[>Pointer 512<]
+(END)
+
+[>Pointer 513<]
+Du willst nicht zufällig heiraten?(END)
+
+[>Pointer 514<]
+Argh, nein!!(END)
+
+[>Pointer 515<]
+Kennt Ihr das Gerücht, das man sich hier erzählt?(END)
+
+[>Pointer 516<]
+Puh!(END)
+
+[>Pointer 517<]
+Mein Hund ist der aggressivste!(END)
+
+[>Pointer 518<]
+Wetten hier abgeben!(END)
+
+[>Pointer 519<]
+Haut ab!(END)
+
+[>Pointer 520<]
+Auf diese Art erholen wir uns.(END)
+
+[>Pointer 521<]
+Maranda war die schönste Stadt dieses Kontinents! Das Imperium hat sie ruinie
+rt!(END)
+
+[>Pointer 522<]
+Mein Sohn wurde gezwungen, in der imperialen Armee zu dienen.(END)
+
+[>Pointer 523<]
+Diese Soldaten sind verrückt!(ABS)
+Wie lange sie wohl bleiben?(END)
+
+[>Pointer 524<]
+Auch Tzen und Alburg wurden unterworfen.(END)
+
+[>Pointer 525<]
+200 GS pro Nacht!(ABS)
+Ausruhen?(ABS)
+<choice>“Sicher.”(ABS)
+<choice>“Nein.”(END)
+
+[>Pointer 526<]
+Hehehe…(ABS)
+Wir können tun, was wir wollen!(END)
+
+[>Pointer 527<]
+Wir müssen wiederaufbauen!(END)
+
+[>Pointer 528<]
+Der Junge, der als Soldat dienen mußte, kam zurück!(END)
+
+[>Pointer 529<]
+Als Frieden in Reichweite war, verließen uns die Soldaten.(END)
+
+[>Pointer 530<]
+Die imperialen Soldaten sind fort! Laßt uns tanzen!(END)
+
+[>Pointer 531<]
+Ich mußte dem Imperium dienen. Ich mußte schlimme Dinge tun…(END)
+
+[>Pointer 532<]
+Irgendwie bin ich traurig…(END)
+
+[>Pointer 533<]
+Die meisten Jugendlichen wurden verschleppt, um Soldaten des Imperium zu wer
+den.(END)
+
+[>Pointer 534<]
+Unsere armen Kinder… Sie kommen zurück, oder?(END)
+
+[>Pointer 535<]
+Ein riesiges Tor soll in einer Höhle östlich von hier sein.(END)
+
+[>Pointer 536<]
+Bauen wir Tzen wieder auf!(END)
+
+[>Pointer 537<]
+Unsere Königsfamilie wurde vom Imperium massakriert…(END)
+
+[>Pointer 538<]
+Dank euch wurde Frieden geschaffen!(END)
+
+[>Pointer 539<]
+Freundlicher Rat: Es gibt einen Gegner namens “Wächter”.(ABS)
+Er ist unbeweglich, aber extrem gefährlich. Flieht vor ihm!(END)
+
+[>Pointer 540<]
+Die Welt scheint langsam wieder normal zu werden…(END)
+
+[>Pointer 541<]
+Es ist gefährlich draußen,(ABS)
+deshalb darf man nicht raus!(END)
+
+[>Pointer 542<]
+Waahhh! Will draußen spielen!(END)
+
+[>Pointer 543<]
+Unser Sohn ist noch fort…(ABS)
+Obwohl wir sagten, daß es gefährlich ist!(END)
+
+[>Pointer 544<]
+Die imperialen Truppen sind abgezogen. Endlich.(END)
+
+[>Pointer 545<]
+Oh nein!!! <wait 60 frames>Uff…(ABS)
+Erschreckt mich nicht so! Ich dachte schon, ihr wärt Soldaten!(NEU)
+Vor kurzem ist jemand ins MagiTek Forschungslabor eingedrungen und hat Krawa
+ll gemacht!(NEU)
+Dabei konnte ich etwas ergattern…(NEU)
+Für 3000 GS gehört dieser leuchtende Stein Euch.(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 546<]
+Die Welt wird zu einem Kuckucksei… Schaut nur, dieser seltsame Stein!(NEU)
+Wenn Ihr ihn wollt, gebt mir 10 GS.(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 547<]
+Irgendwelche saftigen Gerüchte!?(END)
+
+[>Pointer 548<]
+(ABS)
+          Magizit “Seraph”(ABS)
+              erhalten!(END)
+
+[>Pointer 549<]
+Mit Rebellen macht das(ABS)
+Imperium kurzen Prozeß!(ABS)
+Hehe!(END)
+
+[>Pointer 550<]
+Dreimal hoch lebe das(ABS)
+Imperium!(END)
+
+[>Pointer 551<]
+Du versperrst mir die Sicht!(ABS)
+Depp!(END)
+
+[>Pointer 552<]
+Alles gehört dem Imperium!(END)
+
+[>Pointer 553<]
+Legt euch nicht mit dem(ABS)
+Imperium an!(END)
+
+[>Pointer 554<]
+350 GS pro Nacht!(ABS)
+Ausruhen?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 555<]
+Dies ist Alburg, die besetzte(ABS)
+Stadt…(END)
+
+[>Pointer 556<]
+Im Hafen kommen Geschäfte in Gang! Vielleicht gibt's einen Wirtschaftsaufsch
+wung!(END)
+
+[>Pointer 557<]
+Wie kann eine Insel fliegen!?(END)
+
+[>Pointer 558<]
+Etwas sehr Wertvolles soll(ABS)
+östlich von hier versteckt(ABS)
+sein…(NEU)
+Dort steht eine abgeriegelte(ABS)
+imperiale Basis…!(END)
+
+[>Pointer 559<]
+Aus den Bergen in der Nähe des imperialen Lagers sollen einige Esper gefloge
+n sein!(END)
+
+[>Pointer 560<]
+Ja, dank diesem fliegenden Land wurde diese Stadt in Dunkelheit getaucht!(END)
+
+[>Pointer 561<]
+Wir müssen die Soldaten(ABS)
+bestechen, um Handel treiben(ABS)
+zu können…(END)
+
+[>Pointer 562<]
+Und die sind solche Gierschlünde!(ABS)
+Sie scheffeln ein Vermögen dabei!(END)
+
+[>Pointer 563<]
+Ich wollte trotzdem nicht in ihrer Haut stecken!(END)
+
+[>Pointer 564<]
+Verschwundene Leute,(ABS)
+fliegende Inseln…(ABS)
+Wenn es so weitergeht, dann gute Nacht…(END)
+
+[>Pointer 565<]
+Vector, die imperiale(ABS)
+Hauptstadt, liegt in der(ABS)
+Mitte dieses Kontinents.(END)
+
+[>Pointer 566<]
+Es gibt gute Waffen und(ABS)
+Items in Tzen und Maranda.(END)
+
+[>Pointer 567<]
+Ein komischer Kerl wollte hier leuchtende Steine verkaufen…(NEU)
+Als ich keinen wollte, ging er nach Tzen.(END)
+
+[>Pointer 568<]
+Ich betreibe magische Studien.(ABS)
+Die Ungeheuer auf diesem(ABS)
+Kontinent haben nur geringe(ABS)
+magische Kräfte.(END)
+
+[>Pointer 569<]
+In einem 1000 Jahre alten Text steht, daß acht Drachen ein Ungeheuer namens 
+Jihad bewachen…(NEU)
+Werden sie alle besiegt, wird Jihad freigelassen…(END)
+
+[>Pointer 570<]
+Ich betreibe Waffenstudien.(NEU)
+Vor 1000 Jahren, während des(ABS)
+Kriegs der Weisen, gab es(ABS)
+zwei sogenannte Atmans.(NEU)
+Der eine bannte die Kraft eines(ABS)
+Menschen in ein Schwert, der(ABS)
+andere war ein entsetzliches(ABS)
+Ungeheuer…(END)
+
+[>Pointer 571<]
+Kein Zutritt zum Hafen!(END)
+
+[>Pointer 572<]
+Ah…willkommen!(END)
+
+[>Pointer 573<]
+Ihr seid keine Soldaten!(ABS)
+Raus hier!(END)
+
+[>Pointer 574<]
+Ihr seht ziemlich abgebrannt(ABS)
+aus…(END)
+
+[>Pointer 575<]
+Ahaaa!!!(ABS)
+Hiijiijaah!!!(END)
+
+[>Pointer 576<]
+Seid vorsichtig, wenn ihr für die Rebellen arbeitet…(END)
+
+[>Pointer 577<]
+Vielleicht können wir ein neues Leben anfangen.(END)
+
+[>Pointer 578<]
+Esper sollen das Imperium angegriffen haben…(END)
+
+[>Pointer 579<]
+Alles ist gut!(END)
+
+[>Pointer 580<]
+Ist der Krieg vorbei…?(END)
+
+[>Pointer 581<]
+Mist! Diese Soldaten kennen(ABS)
+keinerlei Skrupel!(END)
+
+[>Pointer 582<]
+Diese Bar ist ein regelrechtes(ABS)
+imperiales Dormitorium!(END)
+
+[>Pointer 583<]
+Da die Soldaten abziehen, gehen die Geschäfte wieder los.(ABS)
+Ups…ich bin lieber still und tu mein Bestes…(END)
+
+[>Pointer 584<]
+Sicher doch! Aber gerne!(END)
+
+[>Pointer 585<]
+300 GS für eine Nacht bei uns.(ABS)
+Okay?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 586<]
+General Leo hat uns von euch erzählt…(END)
+
+[>Pointer 587<]
+Ihr seid müde!(ABS)
+100 GS pro Nacht.(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 588<]
+Wir haben Euch erwartet.(ABS)
+Bitte folgt mir.(END)
+
+[>Pointer 589<]
+BANON: Oh, ihr seid hier!(ABS)
+Narshes Bürger haben sich dazu entschlossen zu kämpfen.(NEU)
+Wie war es in Vector…?(END)
+
+[>Pointer 590<]
+ARVIS: Eurem Plan zufolge…(NEU)
+…sollen wir also Narshes Geld, kombiniert mit Figaros Maschinen, gegen das I
+mperium einsetzen.(NEU)
+Aber uns fehlen Krieger…(END)
+
+[>Pointer 591<]
+BANON: Wir müssen das Tor öffnen…(END)
+
+[>Pointer 592<]
+TERRA: Zur Welt der Esper?(END)
+
+[>Pointer 593<]
+ARVIS: Ohne sie schaffen wir es niemals.(END)
+
+[>Pointer 594<]
+BANON: Wenn das Tor offen ist, können die Esper von Osten her angreifen.(NEU)
+Wir stürmen das Imperium zur selben Zeit von Norden.(END)
+
+[>Pointer 595<]
+BANON: Die Esper MÜSSEN uns einfach helfen.(NEU)
+Dazu braucht es eine Vertrauensbasis zwischen Menschen und Espern.(ABS)
+TERRA, du mußt vermitteln…(END)
+
+[>Pointer 596<]
+Halb Mensch, halb Esper…(ABS)
+Mein Dasein beweist, daß es Vertrauen geben kann…(END)
+
+[>Pointer 597<]
+TERRA…(END)
+
+[>Pointer 598<]
+TERRA: In Ordnung.(ABS)
+Nur ich kann es tun!(END)
+
+[>Pointer 599<]
+TERRA!?(END)
+
+[>Pointer 600<]
+“Es geht nur so.”(END)
+
+[>Pointer 601<]
+ÄLTESTER: Die Schlacht steht(ABS)
+bevor. Wir müssen uns darauf(ABS)
+einstellen.(END)
+
+[>Pointer 602<]
+BANON: Habt ihr Erfolg und(ABS)
+die Esper helfen uns, wird(ABS)
+dieser Krieg abrupt enden.(NEU)
+TERRA…(ABS)
+Ich weiß, du schaffst das!(END)
+
+[>Pointer 603<]
+ARVIS: Das Siegeltor liegt(ABS)
+am östlichen Rand des(ABS)
+Imperiums.(NEU)
+Dort befindet sich eine(ABS)
+geheime Basis, die man erst(ABS)
+überwinden muß…(END)
+
+[>Pointer 604<]
+LOCKE: Das Siegeltor…(ABS)
+Spürst du irgend etwas, TERRA?(END)
+
+[>Pointer 605<]
+TERRA: ……(END)
+
+[>Pointer 606<]
+LOCKE: TERRA…(END)
+
+[>Pointer 607<]
+“Ohne TERRA werden die Esper uns sofort vernichten…”(END)
+
+[>Pointer 608<]
+TERRA: Ich kann es tun…(ABS)
+Aber warum fühle ich mich so miserabel?(END)
+
+[>Pointer 609<]
+Seltsam…(NEU)
+Keine Soldaten…(END)
+
+[>Pointer 610<]
+(ABS)
+      Rausgeflogen…!(END)
+
+[>Pointer 611<]
+TERRA: Bringen wir's hinter uns.(END)
+
+[>Pointer 612<]
+TERRA: ……(END)
+
+[>Pointer 613<]
+Dies ist das Siegeltor…(END)
+
+[>Pointer 614<]
+LOCKE: Dahinter ist die Welt der Esper…(END)
+
+[>Pointer 615<]
+CYAN: Wie unheimlich…(END)
+
+[>Pointer 616<]
+EDGAR: Ab hier hängt alles von TERRA ab…(END)
+
+[>Pointer 617<]
+SABIN: Wir zählen auf dich, TERRA…(END)
+
+[>Pointer 618<]
+SETZER: Warum bringt ihr mich an einen so scheußlichen Ort!?(END)
+
+[>Pointer 619<]
+TERRA: Esper…(ABS)
+Bitte hört mich…(END)
+
+[>Pointer 620<]
+Jahaha!(ABS)
+Es ist also wahr!(END)
+
+[>Pointer 621<]
+KEFKA: Imperator Gestahl hatte recht!(END)
+
+[>Pointer 622<]
+TERRA! <wait 60 frames>(ABS)
+Das Tor…schnell!(END)
+
+[>Pointer 623<]
+Was zum…(END)
+
+[>Pointer 624<]
+Esper?(END)
+
+[>Pointer 625<]
+Hey! Das Tor!!!(END)
+
+[>Pointer 626<]
+Was ist mit diesen Espern…?(END)
+
+[>Pointer 627<]
+TERRA: Gehen wir zurück zum Luftschiff.(END)
+
+[>Pointer 628<]
+KEFKA: V…(ABS)
+Verflixt nochmal!(ABS)
+Ich vergesse nichts!(END)
+
+[>Pointer 629<]
+“Etwas passiert…(ABS)
+Oder doch nicht…?”(END)
+
+[>Pointer 630<]
+“Egal, gehen wir zurück zum Schiff.”(END)
+
+[>Pointer 631<]
+
+[>Pointer 632<]
+TERRA: Ich bin in(ABS)
+Ordnung.(ABS)
+Wir werden Frieden(ABS)
+schaffen!(END)
+
+[>Pointer 633<]
+LOCKE: Kaum zu fassen,(ABS)
+daß wir in diesem ganzen(ABS)
+Drama die Hauptrollen(ABS)
+spielen!(END)
+
+[>Pointer 634<]
+LOCKE: Wahrscheinlich sind(ABS)
+die Esper nach Vector(ABS)
+geflogen…(END)
+
+[>Pointer 635<]
+CYAN: Das Imperium(ABS)
+muß bezahlen!(END)
+
+[>Pointer 636<]
+CYAN: Ich konnte den(ABS)
+Kampfgeist dieser Esper(ABS)
+spüren!(END)
+
+[>Pointer 637<]
+SHADOW: Warum…bin ich hier?(ABS)
+<wait 60 frames>Für mein Geld…!(END)
+
+[>Pointer 638<]
+SHADOW: Ich glaube, Kefka will zu General Leos Versteck!(END)
+
+[>Pointer 639<]
+EDGAR: Wir dürfen uns(ABS)
+noch nicht selber loben…(END)
+
+[>Pointer 640<]
+EDGAR: Irgendwie müssen wir die Kraft der Esper erschließen…!(END)
+
+[>Pointer 641<]
+SABIN: Laßt mich(ABS)
+kämpfen!!!(END)
+
+[>Pointer 642<]
+SABIN: Mal sehen, was vom Imperium übriggeblieben ist… Beeilung!(END)
+
+[>Pointer 643<]
+CELES: Ich war zwar eine imperiale Generalin, aber ich erkenne Böses trotzde
+m wieder…(END)
+
+[>Pointer 644<]
+CELES: Kefka hat sicher bald einen neuen kranken Plan. Wir müssen SCHNELL han
+deln!(END)
+
+[>Pointer 645<]
+STRAGO: In all den Jahren, auf all meinen Reisen…(END)
+
+[>Pointer 646<]
+STRAGO: …kannte ich nie einen so bösen Menschen wie Kefka…(END)
+
+[>Pointer 647<]
+RELM: Ich weiß…(ABS)
+Laßt sie mich porträtieren!(END)
+
+[>Pointer 648<]
+RELM: Sicher sind alle Esper sehr freundlich!(END)
+
+[>Pointer 649<]
+SETZER: Was ist das(ABS)
+Wichtigste im Leben?(ABS)
+Frei von Verpflichtungen(ABS)
+zu sein!(NEU)
+Andernfalls kann man(ABS)
+keine Wetten eingehen…(END)
+
+[>Pointer 650<]
+SETZER: Harumph!(ABS)
+Im Augenblick besitze ich die Lüfte nicht…(END)
+
+[>Pointer 651<]
+MOG: Kupo! Kupo!(END)
+
+[>Pointer 652<]
+MOG: …puuh…(END)
+
+[>Pointer 653<]
+GAU: GAU wird stärker(ABS)
+im Veldt!(END)
+
+[>Pointer 654<]
+GAU: …ooh…(ABS)
+GAU…hoch in der Luft…(ABS)
+…nicht gut…!(END)
+
+[>Pointer 655<]
+GOGO: ……(END)
+
+[>Pointer 656<]
+UMARO: Uuhhhh…(END)
+
+[>Pointer 657<]
+TERRA: …die Esper…(ABS)
+Etwas ist passiert…(END)
+
+[>Pointer 658<]
+“Was ist passiert?”(END)
+
+[>Pointer 659<]
+“Die Esper sind zusammen weggeflogen…(END)
+
+[>Pointer 660<]
+Dann sind die imperialen Bürger Hals über Kopf geflohen…”(END)
+
+[>Pointer 661<]
+“Wohin sind die Esper geflogen?”(END)
+
+[>Pointer 662<]
+“Zur Hauptstadt…(END)
+
+[>Pointer 663<]
+(ABS)
+Da ist etwas unter der Erde…(END)
+
+[>Pointer 664<]
+Vector…”(END)
+
+[>Pointer 665<]
+SETZER: Bald sind wir in Vector.(END)
+
+[>Pointer 666<]
+Da! Was ist das?(END)
+
+[>Pointer 667<]
+Da ist ein Schalter drin.(ABS)
+Was sollen wir tun?(ABS)
+<choice>(Schalter umlegen)(ABS)
+<choice>(Schalter in Ruhe lassen)(END)
+
+[>Pointer 668<]
+(ABS)
+(SP)
+TERRAEin fernes Geräusch ertönt…(END)
+
+[>Pointer 669<]
+M…Mist!!! Ich dachte, der am Fuß der großen Treppe vergrabene Schatz gehört 
+allein MIR!(END)
+
+[>Pointer 670<]
+(ABS)
+        “Invizstahl” erhalten!(END)
+
+[>Pointer 671<]
+(ABS)
+        “Super-Ball” erhalten!(END)
+
+[>Pointer 672<]
+(ABS)
+      Etwas ist vergraben…(END)
+
+[>Pointer 673<]
+(ABS)
+        “Blitzstahl” erhalten!(END)
+
+[>Pointer 674<]
+“???” erh.!(END)
+
+[>Pointer 675<]
+(ABS)
+        “Feuerstahl” erhalten!(END)
+
+[>Pointer 676<]
+(ABS)
+        “Wasserstahl” erhalten!(END)
+
+[>Pointer 677<]
+(ABS)
+        ”Shadow-Stahl” erhalten!(END)
+
+[>Pointer 678<]
+Bitte folgt mir zum Imperator…(END)
+
+[>Pointer 679<]
+Imperator Gestahl wartet bereits.(END)
+
+[>Pointer 680<]
+Die Esper terrorisieren das Imperium!(END)
+
+[>Pointer 681<]
+Wir wollen nicht mehr kämpfen!(END)
+
+[>Pointer 682<]
+Kefka wurde wegen unsagbarer Kriegsverbrechen inhaftiert…(NEU)
+Er pfeift aus dem letzten Loch…(END)
+
+[>Pointer 683<]
+Der Krieg ist vorbei…(END)
+
+[>Pointer 684<]
+Die Kraft der Esper…(ABS)
+…phänomenal!(END)
+
+[>Pointer 685<]
+Die Esper wollten bestimmt ihre Freunde befreien.(END)
+
+[>Pointer 686<]
+Endlich Frieden…(END)
+
+[>Pointer 687<]
+Das MagiTek Forschungslabor wird stillgelegt…(END)
+
+[>Pointer 688<]
+Hä!?(ABS)
+Wie seid ihr da reingekommen?(END)
+
+[>Pointer 689<]
+Das Imperium will den Frieden!(END)
+
+[>Pointer 690<]
+Als Gestahl erfuhr, daß Kefka Gift benutzt hat, ließ er ihn einsperren!(END)
+
+[>Pointer 691<]
+Kefka benutzte Gift…(ABS)
+Ich habe ihn schon immer gehaßt!(END)
+
+[>Pointer 692<]
+KEFKA: Grrrr!(ABS)
+Sie wagen es, mich hier gefangenzuhalten!?(END)
+
+[>Pointer 693<]
+KEFKA: Ich glaube das nicht!(END)
+
+[>Pointer 694<]
+KEFKA: Wie langweilig.(END)
+
+[>Pointer 695<]
+Kefka hat es nicht anders verdient!(END)
+
+[>Pointer 696<]
+Meine ganze Familie kam im Krieg um…(END)
+
+[>Pointer 697<]
+Bevor wir diese Maschine benutzen konnten, war der Krieg vorbei…(END)
+
+[>Pointer 698<]
+Kefka ist in Haft!(END)
+
+[>Pointer 699<]
+GESTAHL: Ich will nicht mehr kämpfen…(END)
+
+[>Pointer 700<]
+CID: Der Imperator hat sich verändert…(END)
+
+[>Pointer 701<]
+“Cid!!”(END)
+
+[>Pointer 702<]
+CID: Die Esper wollten ihre Freunde befreien. Als sie merkten, daß sie nicht 
+mehr lebten…(NEU)
+…sind sie ausgerastet und haben die Stadt zerstört…(ABS)
+Sie schrieen furchtbar…(END)
+
+[>Pointer 703<]
+WACHE: Wir legen die Waffen gerne nieder.(END)
+
+[>Pointer 704<]
+GESTAHL: Die Macht dieser Esper…(ABS)
+Ich hatte keine Ahnung…(NEU)
+Sie werden die Welt zerstören!(ABS)
+Sie müssen verstehen, daß der Krieg ein Ende gefunden hat.(END)
+
+[>Pointer 705<]
+CID: Kein Mensch könnte sie dazu bringen zuzuhören…(END)
+
+[>Pointer 706<]
+GESTAHL: Aber zuerst, meine Freunde…(ABS)
+Laßt mich Euch festlich bewirten!(END)
+
+[>Pointer 707<]
+CID: Manche Leute würden lieber weiterkämpfen.(NEU)
+Bevor wir speisen, versucht bitte, möglichst viele Soldaten anzusprechen und
+ zu überzeugen!(END)
+
+[>Pointer 708<]
+Die Vorbereitungen für das Festessen sind im Gange.(END)
+
+[>Pointer 709<]
+TRUPPENFÜHRER: Bitte sprecht mit möglichst vielen Soldaten. Ihr habt 4 Minut
+en, dann speisen wir.(END)
+
+[>Pointer 710<]
+Nur die hintere Truhe ist abgeschlossen. Wer war das…?(END)
+
+[>Pointer 711<]
+Heya! Ich habe ausgesorgt!(END)
+
+[>Pointer 712<]
+Ich bin Lone Wolf, der Taschendieb! Ich will diesen Schatz!(END)
+
+[>Pointer 713<]
+Hee!(END)
+
+[>Pointer 714<]
+Je, bist du hartnäckig!(END)
+
+[>Pointer 715<]
+Halt…(ABS)
+Keine Bewegung, oder der hier…!(END)
+
+[>Pointer 716<]
+Kupo!!(END)
+
+[>Pointer 717<]
+Hee!(ABS)
+Ein wilder Bengel hier…!(ABS)
+Uaaah!(END)
+
+[>Pointer 718<]
+Den Schatz von Lone Wolf, dem Taschendieb, genommen!(NEU)
+(ABS)
+        “Goldband” bekommen!(END)
+
+[>Pointer 719<]
+(ABS)
+(ABS)
+(ABS)
+Kupo…(END)
+
+[>Pointer 720<]
+LOCKE: Oh nein…(ABS)
+Ich habe versagt…(END)
+
+[>Pointer 721<]
+BANON: Ich ergebe mich(ABS)
+in mein Schicksal.(ABS)
+Wenn auch unter Protest…(END)
+
+[>Pointer 722<]
+Relikte verleihen allerlei(ABS)
+zusätzliche Fähigkeiten.(ABS)
+Zum Beispiel…(NEU)
+“Sprintschuhe” verdoppeln das(ABS)
+Lauftempo.(ABS)
+“WahrerHeld” schützt andere(ABS)
+im Kampf.(NEU)
+“DragonerStfl” ändern den(ABS)
+Befehl “Kampf” in “Sprung”.(NEU)
+Mit dem “Fehdehandschuh”(ABS)
+lassen sich Schwerter(ABS)
+beidhändig führen.(NEU)
+Vergib Deine Relikte über(ABS)
+das Hauptmenü!(END)
+
+[>Pointer 723<]
+SHADOW: Ich störe nicht länger…(END)
+
+[>Pointer 724<]
+An Speicherstellen und auf der(ABS)
+Weltkarte kannst Du “Zelt” und(ABS)
+“Schlafsack” benutzen sowie(ABS)
+natürlich das Spiel speichern.(NEU)
+Verlierst Du das Spiel, geht(ABS)
+es dort weiter, wo Du zuletzt(ABS)
+gespeichert hast.(NEU)
+Wenn Du auch GS, Schätze(ABS)
+usw. erneut finden mußt…(NEU)
+…so bleiben die erreichten(ABS)
+Erfahrungspunkte und Level(ABS)
+erhalten!(END)
+
+[>Pointer 725<]
+<wait for key 1440 frames><wait 1 frame>(END)
+
+[>Pointer 726<]
+Der Imperator persönlich hat(ABS)
+ein Porträt von sich verlangt…(ABS)
+Hoffentlich gefällt es ihm!(END)
+
+[>Pointer 727<]
+Das Porträt des Imperators ist fertig. Es ist mir so lebensecht gelungen…abe
+r er fand es furchtbar.(NEU)
+Also habe ich es Geitz verkauft, einem reichen Mann aus Jituur.(END)
+
+[>Pointer 728<]
+Der Chocobo ist die edelste aller Kreaturen!(END)
+
+[>Pointer 729<]
+WOLF: Hmmmm…wenn das so ist, dann…nimm DIES!!!(END)
+
+[>Pointer 730<]
+“Vorsicht!(ABS)
+Schnell, aus dem Weg!”(END)
+
+[>Pointer 731<]
+Besiegt die Statuen, und Magie wird nie mehr verschwinden…(NEU)
+Kefka hat den Statuen, den Quellen der Magie, ihre Macht genommen…?(END)
+
+[>Pointer 732<]
+Ausrüstung abnehmen?(ABS)
+<choice>“Allen Mitgliedern außer uns.”(ABS)
+<choice>“Ausnahmslos allen.”(ABS)
+<choice>“Niemandem!”(END)
+
+[>Pointer 733<]
+(ABS)
+      HeiligeLanze bekommen!(END)
+
+[>Pointer 734<]
+Dankupo!(END)
+
+[>Pointer 735<]
+“Kannst du reden!?”(END)
+
+[>Pointer 736<]
+Ein MOGlie…menschenfreundlich,(ABS)
+schnell sprechend, slamdancing(ABS)
+und unwahrscheinlich clever…(END)
+
+[>Pointer 737<]
+Rama, der alte Psycho, erschien mir im Traum und sagte, ich solle auf euch w
+arten!(NEU)
+Und jetzt…(ABS)
+<wait 60 frames>…mache ich mit!(END)
+
+[>Pointer 738<]
+Ich warte im Luftschiff, kupo!(END)
+
+[>Pointer 739<]
+Kupo!(END)
+
+[>Pointer 740<]
+Verschlossen…(END)
+
+[>Pointer 741<]
+     Grrrrr…(ABS)
+     Du wirst dieses(ABS)
+     “Goldband”(ABS)
+     nicht kriegen!!!(END)
+
+[>Pointer 742<]
+Kupo…(ABS)
+<wait 60 frames>…po!(END)
+
+[>Pointer 743<]
+An diesem Abend findet das Bankett mit dem Imperator statt…(END)
+
+[>Pointer 744<]
+SOLDAT: Bitte hier entlang.(END)
+
+[>Pointer 745<]
+CID: Zählt mich ab sofort zu den Rebellen!(END)
+
+[>Pointer 746<]
+GESTAHL: Seht her!(ABS)
+Alle sind wir hier und essen zusammen. Zuerst einen Trinkspruch!(END)
+
+[>Pointer 747<]
+<choice>“Auf das Imperium…”(ABS)
+<choice>“Auf die Rebellen…”(ABS)
+<choice>“Auf unsere Heimatstädte…”(END)
+
+[>Pointer 748<]
+GESTAHL: Genau…(ABS)
+Auf unsere Heimatstädte!(END)
+
+[>Pointer 749<]
+GESTAHL: Genau…(ABS)
+Auf das Imperium!(END)
+
+[>Pointer 750<]
+GESTAHL: Genau…(ABS)
+Auf die Rebellen!(END)
+
+[>Pointer 751<]
+GESTAHL: Wie Ihr wißt, ist Kefka wegen seiner Verbrechen in Haft…(NEU)
+Was soll mit ihm geschehen?(END)
+
+[>Pointer 752<]
+<choice>“Er soll in Haft bleiben…”(ABS)
+<choice>“Vergeben wir ihm…”(ABS)
+<choice>“Richtet ihn hin…”(END)
+
+[>Pointer 753<]
+EDGAR: Alburg ist der südliche Hafen des Imperiums. Frachtschiffe fahren von
+ dort bis zur Sichelinsel…(NEU)
+Wir dringen in das imperiale Lager ein. Ihr kümmert euch um die Esper!(END)
+
+[>Pointer 754<]
+SABIN: Können wir dem Imperator wirklich trauen!?(ABS)
+Ich habe kein gutes Gefühl bei der Sache…(END)
+
+[>Pointer 755<]
+CYAN: Ich werde Kefka nie vergeben können…(END)
+
+[>Pointer 756<]
+GAU: Riecht wie Hütte der Eltern… Warum so vertraut?(END)
+
+[>Pointer 757<]
+MOG: Kupo!(END)
+
+[>Pointer 758<]
+GESTAHL: General Leo wartet in Alburg. Bitte fahrt zur Sichelinsel und sucht 
+nach den Espern…(END)
+
+[>Pointer 759<]
+GESTAHL: Hmmm…(ABS)
+Dann wird er eben noch eine Weile in seiner Zelle schmoren, bis wir entschie
+den haben.(END)
+
+[>Pointer 760<]
+<choice>“Warum wolltet Ihr Krieg?”(ABS)
+<choice>“Warum auf einmal Frieden?”(ABS)
+<choice>“Warum sollten wir mit(ABS)
+   Euren Soldaten reden?”(END)
+
+[>Pointer 761<]
+GESTAHL: Mein Machthunger war groß genug…(ABS)
+Das sehe ich endlich ein.(END)
+
+[>Pointer 762<]
+GESTAHL: Ich fühle, daß wir uns gegenseitig brauchen…(END)
+
+[>Pointer 763<]
+GESTAHL: Manche meiner Soldaten kämpfen nur um des Kämpfens willen.(NEU)
+Ich wußte, daß nur Ihr sie überzeugen konntet…(END)
+
+[>Pointer 764<]
+GESTAHL: Erlaubt Ihr, daß wir über Esper sprechen…?(END)
+
+[>Pointer 765<]
+<choice>“Bitte noch eine Frage!”(ABS)
+<choice>“Gut.”(END)
+
+[>Pointer 766<]
+<choice>“Bitte noch eine Frage!”(ABS)
+<choice>“Wegen der Esper…”(END)
+
+[>Pointer 767<]
+GESTAHL: Ich versichere Euch, daß ich Euch wahrheitsgemäß geantwortet habe.(END)
+
+[>Pointer 768<]
+GESTAHL: Mein Imperium wurde von den Espern aus dem versiegelten Tor dezimie
+rt…(ABS)
+Sie sind wütend und bösartig.(NEU)
+Wenn wir sie nicht stoppen können, reißen sie die Welt in Stücke!(END)
+
+[>Pointer 769<]
+<choice>“Sie sind zu weit gegangen.”(ABS)
+<choice>“Aber IHR habt sie erst dazu(ABS)
+(SP)
+TERRAgebracht!”(END)
+
+[>Pointer 770<]
+GESTAHL: Nachdem die Esper Tobsucht bekamen, wußte ich, daß ich so nicht weit
+ermachen konnte…(NEU)
+Ich fragte mich, warum ich den Krieg überhaupt begonnen hatte…(NEU)
+Da fällt mir ein…(ABS)
+Von all Euren Fragen vorhin…(ABS)
+Welche war nochmal die erste?(END)
+
+[>Pointer 771<]
+GESTAHL: Ja, richtig. Jedenfalls wünsche ich Frieden mehr als alles andere…(NEU)
+Das ist mein wahrer Traum! Ich hoffe, Ihr versteht das!(END)
+
+[>Pointer 772<]
+CID: Ihr scheint müde zu sein.(ABS)
+Kurze Pause?(END)
+
+[>Pointer 773<]
+<choice>“Ja, bitte eine Pause.”(ABS)
+<choice>“Reden wir weiter.”(END)
+
+[>Pointer 774<]
+Soll es weitergehen?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 775<]
+GESTAHL: Wollt Ihr, daß ich etwas Bestimmtes sage?(END)
+
+[>Pointer 776<]
+<choice>“Daß Ihr wirklich Frieden(ABS)
+(SP)
+TERRAwollt.”(ABS)
+<choice>“Daß der Krieg vorbei ist.”(ABS)
+<choice>“Entschuldigt Euch nochmals!”(END)
+
+[>Pointer 777<]
+GESTAHL: ……(END)
+
+[>Pointer 778<]
+CID: Alles wird gut, wenn wir den Frieden erreichen…!(END)
+
+[>Pointer 779<]
+TRUPPENFÜHRER: Wir wollen Euch testen!(NEU)
+Kämpfen wir ein paar Minuten?(ABS)
+<choice>“Gut!”(ABS)
+<choice>“Bloß nicht!”(END)
+
+[>Pointer 780<]
+TRUPPENFÜHRER: Das wußten wir…(END)
+
+[>Pointer 781<]
+GESTAHL: Ich verstehe.(ABS)
+Mein einziger Traum ist Frieden! Ich werde Euch um etwas bitten…(END)
+
+[>Pointer 782<]
+GESTAHL: Ich verstehe.(NEU)
+Ich habe den Befehl gegeben, den Krieg zu beenden! Ich muß Euch um etwas bit
+ten…(END)
+
+[>Pointer 783<]
+GESTAHL: Ich verstehe.(ABS)
+Es tut mir wirklich leid. Jetzt muß ich Euch um etwas bitten…(END)
+
+[>Pointer 784<]
+GESTAHL: Nachdem die Esper Vector zerstört hatten, flogen sie Richtung Siche
+linsel.(NEU)
+Wir müssen sie finden…!(ABS)
+Sie müssen erfahren, daß wir keine Feinde mehr sind.(NEU)
+Nach allem, was ich ihnen angetan habe, muß ich die Dinge richten.(NEU)
+Deshalb…(ABS)
+<wait 60 frames>…muß ich TERRA's Kräfte borgen.(END)
+
+[>Pointer 785<]
+Nur TERRA kann die Kluft zwischen Espern und Menschen überwinden.(END)
+
+[>Pointer 786<]
+GESTAHL: Zur Sichelinsel kommen wir mit dem Frachter von Alburg aus.(NEU)
+Werdet Ihr mich begleiten?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 787<]
+GESTAHL: Wir können die Esper nicht einfach ignorieren!(NEU)
+Bitte…kommt mit mir!(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 788<]
+GESTAHL: Mein edelster Krieger wird auch mitkommen…(ABS)
+General Leo!(END)
+
+[>Pointer 789<]
+LEO: Ich bin General Leo.(ABS)
+Sehr angenehm.(END)
+
+[>Pointer 790<]
+SABIN: Habe ich Euch nicht in Doma gesehen?(ABS)
+…Doch, natürlich!(ABS)
+Also das war General Leo…(END)
+
+[>Pointer 791<]
+LEO: Ihr! Ihr seid CYAN, Lehnsmann des Königs von Doma! Bitte verzeiht, daß i
+ch Kefka nicht aufhalten konnte!(NEU)
+CYAN: Es war nicht Eure Schuld.(END)
+
+[>Pointer 792<]
+LEO: Ich werde in Alburg warten.(END)
+
+[>Pointer 793<]
+GESTAHL: Wir müssen die Esper finden und verhandeln! Ihr seid unsere letzte 
+Hoffnung!(END)
+
+[>Pointer 794<]
+LOCKE: Wenn TERRA geht, gehe ich auch.(END)
+
+[>Pointer 795<]
+TERRA: LOCKE…(ABS)
+Danke…(END)
+
+[>Pointer 796<]
+LOCKE: Ihr anderen bleibt hier… Ich traue ihm nicht…(END)
+
+[>Pointer 797<]
+EDGAR: Gut…(ABS)
+Ihm einfach zu vertrauen, ist schwer…(END)
+
+[>Pointer 798<]
+CYAN: Wir werden wachsam sein.(END)
+
+[>Pointer 799<]
+LOCKE: Tut das.(ABS)
+Laßt euch nichts entgehen!(END)
+
+[>Pointer 800<]
+EDGAR: Ja! Und seid vorsichtig!(END)
+
+[>Pointer 801<]
+GESTAHL: Für das Gift in Doma entschuldige ich mich herzlich.(ABS)
+Niemand konnte Kefkas Pläne ahnen…(END)
+
+[>Pointer 802<]
+<choice>“Es ist nun einmal geschehen…”(ABS)
+<choice>“Unentschuldbar!”(ABS)
+<choice>“Wiederholt das bitte!”(END)
+
+[>Pointer 803<]
+GESTAHL: Es tut mir fuchtbar leid! Kefka wird streng bestraft werden, und Dom
+a wird vom Gift gereinigt…(END)
+
+[>Pointer 804<]
+GESTAHL: Ach ja…(ABS)
+Was Generalin CELES anbetrifft…(END)
+
+[>Pointer 805<]
+<choice>“War sie einer Eurer Spione?”(ABS)
+<choice>“CELES gehört zu uns!”(ABS)
+<choice>“Wir vertrauen CELES!”(END)
+
+[>Pointer 806<]
+GESTAHL: Kefka hat gelogen.(ABS)
+CELES war die erste, die die Dummheit des Krieges erkannte…(NEU)
+Deshalb lief sie zu den Rebellen über. Habt Ihr noch Fragen?(END)
+
+[>Pointer 807<]
+<9 spaces>1 Person(END)
+
+[>Pointer 808<]
+<9 spaces>2 Leute(END)
+
+[>Pointer 809<]
+<9 spaces>3 Leute(END)
+
+[>Pointer 810<]
+<9 spaces>4 Leute(END)
+
+[>Pointer 811<]
+<9 spaces>5 Leute(END)
+
+[>Pointer 812<]
+<9 spaces>6 Leute(END)
+
+[>Pointer 813<]
+<9 spaces>7 Leute(END)
+
+[>Pointer 814<]
+<9 spaces>8 Leute(END)
+
+[>Pointer 815<]
+<9 spaces>9 Leute(END)
+
+[>Pointer 816<]
+<9 spaces>10 Leute(END)
+
+[>Pointer 817<]
+<9 spaces>11 Leute(END)
+
+[>Pointer 818<]
+<9 spaces>12 Leute(END)
+
+[>Pointer 819<]
+<9 spaces>13 Leute(END)
+
+[>Pointer 820<]
+<9 spaces>14 Leute(END)
+
+[>Pointer 821<]
+<9 spaces>15 Leute(END)
+
+[>Pointer 822<]
+<9 spaces>16 Leute(END)
+
+[>Pointer 823<]
+<9 spaces>17 Leute(END)
+
+[>Pointer 824<]
+<9 spaces>18 Leute(END)
+
+[>Pointer 825<]
+<9 spaces>19 Leute(END)
+
+[>Pointer 826<]
+<9 spaces>20 Leute(END)
+
+[>Pointer 827<]
+<9 spaces>21 Leute(END)
+
+[>Pointer 828<]
+<9 spaces>22 Leute(END)
+
+[>Pointer 829<]
+<9 spaces>23 Leute(END)
+
+[>Pointer 830<]
+<9 spaces>24 Leute(END)
+
+[>Pointer 831<]
+Ich habe so viele Menschen getötet…(ABS)
+Nie wird alles wie früher…(END)
+
+[>Pointer 832<]
+Brauchen wir die Rebellen?(END)
+
+[>Pointer 833<]
+Ich hasse Frieden!(END)
+
+[>Pointer 834<]
+Manche kämpfen besser, wenn sie niedergeschlagen sind!(END)
+
+[>Pointer 835<]
+Hoch lebe das Imperium!(END)
+
+[>Pointer 836<]
+Ihr braucht eine Tracht Prügel!(END)
+
+[>Pointer 837<]
+Ihr seid stark…(ABS)
+Vielleicht schafft Ihr es ja…(END)
+
+[>Pointer 838<]
+Esper…(ABS)
+Wer hätte gedacht, daß sie so mächtig sind…(END)
+
+[>Pointer 839<]
+Wir werden uns nie ergeben…(END)
+
+[>Pointer 840<]
+Ihr sollt die stärksten der Rebellen sein… Wie stark seid Ihr wirklich…?(END)
+
+[>Pointer 841<]
+Nicht schlecht…in der Tat!(END)
+
+[>Pointer 842<]
+Seid niemals sicher…!(END)
+
+[>Pointer 843<]
+Phhh… Ihr Banditen!(END)
+
+[>Pointer 844<]
+Hm.(ABS)
+Nicht schlecht!(END)
+
+[>Pointer 845<]
+Nach dem Bankett wird alles gut werden…(END)
+
+[>Pointer 846<]
+Eine Nachricht vom Imperator…(ABS)
+“Weil Ihr zu so vielen Leuten gesprochen habt, bedanke ich mich folgendermaß
+en…”(END)
+
+[>Pointer 847<]
+Die imperialen Truppen ziehen sich aus Figaro Süd zurück.(END)
+
+[>Pointer 848<]
+Außerdem werden sie auch aus Doma abziehen.(END)
+
+[>Pointer 849<]
+Hiermit geben wir Euch die Erlaubnis…(NEU)
+…alle Waffen aus der imperialen Basis in der Nähe des versiegelten Tores zu n
+ehmen.(END)
+
+[>Pointer 850<]
+Und dies ist vom Imperator persönlich…(NEU)
+(ABS)
+    “Katzenglocke” erhalten!(END)
+
+[>Pointer 851<]
+CID: Was für ein Schiff!(ABS)
+SETZER: Der Absturz hat die Maschine ganz schön mitgenommen… Es dauert noch…
+(END)
+
+[>Pointer 852<]
+Euer Benehmen beim Bankett war tadellos. Bitte nehmt auch noch dies!(NEU)
+(ABS)
+      “Zauberreif” erhalten!(END)
+
+[>Pointer 853<]
+CID: Laßt mich Euch helfen.(ABS)
+Ich kenne mich aus!(END)
+
+[>Pointer 854<]
+Tja…(END)
+
+[>Pointer 855<]
+SETZER: Faß ja nichts an!(END)
+
+[>Pointer 856<]
+CID: Geht doch zum Zeitvertreib ins Casino! Ich kümmere mich…(END)
+
+[>Pointer 857<]
+SETZER: Du kleiner…!!!(ABS)
+Geh mir aus den Augen!(END)
+
+[>Pointer 858<]
+CID: Aber es würde viel schneller gehen, wenn ich…(END)
+
+[>Pointer 859<]
+TERRA: Ihr liebt dieses Schiff über alles, nicht wahr?(NEU)
+SETZER: Als ich noch jung war, war ich nach etwas verrückt…(END)
+
+[>Pointer 860<]
+TERRA: …hm?(END)
+
+[>Pointer 861<]
+SETZER: Also, ich träumte davon, das schnellste Luftschiff der Welt zu besit
+zen.(END)
+
+[>Pointer 862<]
+TERRA: Ihr meint…(NEU)
+SETZER: Damals gab es ein Mädchen, dem der “Falke” gehörte, das schnellste S
+chiff überhaupt…(NEU)
+Manchmal waren wir die größten Rivalen. Und manchmal die besten Freunde…(NEU)
+Wir stachelten uns gegenseitig dazu an, höher und schneller zu fliegen.(NEU)
+Als sie mit ihrem Schiff verschwand…(ABS)
+<wait 60 frames>…fühlte ich mich so leer…(END)
+
+[>Pointer 863<]
+SETZER: …(ABS)
+Arme Darill…(END)
+
+[>Pointer 864<]
+LEO: Da seid Ihr. Noch ein imperialer General wird uns begleiten, und außerde
+m ein Söldner aus der Stadt.(END)
+
+[>Pointer 865<]
+LEO: Wir sollten morgen früh ankommen. Ruht Euch bis dahin aus.(END)
+
+[>Pointer 866<]
+TERRA: CELES… <wait 60 frames>(ABS)
+CELES: ……(END)
+
+[>Pointer 867<]
+LOCKE: CELES…(END)
+
+[>Pointer 868<]
+LEO: Genau… Gehen wir.(END)
+
+[>Pointer 869<]
+SHADOW: Ich arbeite für das Imperium. Aber keine Sorge…(ABS)
+Ich werde euch schon nicht meucheln!(END)
+
+[>Pointer 870<]
+General Leo erwartet Euch.(END)
+
+[>Pointer 871<]
+General Leo ist gerade beschäftigt…(END)
+
+[>Pointer 872<]
+LEO: Darf ich vorstellen…(ABS)
+Generalin CELES…und SHADOW.(END)
+
+[>Pointer 873<]
+LEO: Stimmt was nicht?(ABS)
+<wait 60 frames>LOCKE: Nein…(END)
+
+[>Pointer 874<]
+LEO: Wir brechen erst morgen früh auf. Ich habe Euch ein Nachtlager richten 
+lassen.(END)
+
+[>Pointer 875<]
+LEO: Bitte ruht Euch aus.(END)
+
+[>Pointer 876<]
+SHADOW: Macht bloß keine Schwierigkeiten, klar?(END)
+
+[>Pointer 877<]
+LOCKE: Das wirst du für dich behalten, o Verhüllter…(END)
+
+[>Pointer 878<]
+LOCKE: Hey…!(ABS)
+<wait 60 frames>Redest du nicht mehr mit mir?(END)
+
+[>Pointer 879<]
+LOCKE: CELES…(END)
+
+[>Pointer 880<]
+LOCKE: Ich habe an dir gezweifelt…(ABS)
+…wenn auch nur ein bißchen… <wait 60 frames>(NEU)
+Aber ich bin immer noch dein Freund.(END)
+
+[>Pointer 881<]
+LOCKE: CELES!(END)
+
+[>Pointer 882<]
+LEO: Alles in Ordnung?(END)
+
+[>Pointer 883<]
+LEO: Fühlt Ihr Euch besser?(END)
+
+[>Pointer 884<]
+TERRA: Verrückt, oder…?(ABS)
+Das Imperium hat mich benutzt…mir sogar meine Gedanken genommen…(NEU)
+Aber jetzt kooperiere ich mit dem “Feind”…(END)
+
+[>Pointer 885<]
+LEO: Nicht alle von uns sind wie Kefka, vergeßt das nicht…(END)
+
+[>Pointer 886<]
+TERRA: Was…(ABS)
+<wait 60 frames>…ist mit Euch?(END)
+
+[>Pointer 887<]
+LEO: Ich wußte, daß Ihr als eine Art biologische Waffe mißbraucht wurdet…(NEU)
+Und weil ich nichts tat, bin ich nicht besser als Kefka…(END)
+
+[>Pointer 888<]
+TERRA: Ich bin das Produkt eines Menschen und eines Espers… <wait 60 frames>
+(NEU)
+Werde ich jemals jemanden lieben können?(END)
+
+[>Pointer 889<]
+LEO: Natürlich!(END)
+
+[>Pointer 890<]
+TERRA: Aber…(ABS)
+<wait 60 frames>Bisher weiß ich nicht, wie es ist…(END)
+
+[>Pointer 891<]
+LEO: Ihr seid jung…(ABS)
+<wait 60 frames>Aber ich verstehe Euch. <wait 60 frames>Ich verstehe nur zu g
+ut…(END)
+
+[>Pointer 892<]
+TERRA: Aber…(ABS)
+<wait 60 frames>Ich will wissen, was Liebe ist…(ABS)
+Sofort!(END)
+
+[>Pointer 893<]
+TERRA: Wer ist da?(END)
+
+[>Pointer 894<]
+SHADOW: Ich wollte unter den Sternen schlafen…(END)
+
+[>Pointer 895<]
+TERRA: Hast du gehört…(ABS)
+<wait 60 frames>…worüber wir gerade sprachen?(END)
+
+[>Pointer 896<]
+TERRA: Ähm…(END)
+
+[>Pointer 897<]
+SHADOW: Ich kann dir nicht helfen.(ABS)
+Du mußt in dir selbst nach Antworten suchen.(END)
+
+[>Pointer 898<]
+SHADOW: Ich habe nicht krampfhaft weggehört.(END)
+
+[>Pointer 899<]
+SHADOW: TERRA.(END)
+
+[>Pointer 900<]
+SHADOW: In dieser Welt habe nicht nur ich meine Emotionen gelöscht…(END)
+
+[>Pointer 901<]
+LEO: Wir sind fast auf der Sichelinsel. Dort werden wir uns in zwei Gruppen 
+aufteilen.(NEU)
+CELES und ich bilden die eine, TERRA, LOCKE und SHADOW die andere.(NEU)
+Wenn Ihr die Esper ausmacht, erstattet sofort Bericht!(END)
+
+[>Pointer 902<]
+LEO: TERRA, wir setzen unsere gestrige Unterhaltung später fort…(END)
+
+[>Pointer 903<]
+LOCKE: Gehen wir.(END)
+
+[>Pointer 904<]
+CELES: Äh, ich…(END)
+
+[>Pointer 905<]
+LOCKE: Los.(END)
+
+[>Pointer 906<]
+Oh!(ABS)
+Fremde!!!(END)
+
+[>Pointer 907<]
+ÄLTESTER: Willkommen!(ABS)
+<wait 60 frames>Magie…?(ABS)
+Was soll das denn sein?(END)
+
+[>Pointer 908<]
+ÄLTESTER: Keiner von Euch darf verraten, daß wir Magie benutzen können!(END)
+
+[>Pointer 909<]
+Probiert einmal Stäbe im Kampf als Items aus!(NEU)
+Sie zerbrechen zwar, bewirken aber erstaunliche Dinge!(END)
+
+[>Pointer 910<]
+Habt Ihr schon mit dem alten STRAGO gesprochen? Dadurch sollte der Wirt in d
+er Inn freundlicher werden.(END)
+
+[>Pointer 911<]
+Der Wirt mag leider keine Fremden!(END)
+
+[>Pointer 912<]
+Ihr seid fremd hier…(NEU)
+1500 GS, wenn Ihr bleiben wollt…(ABS)
+<choice>“Also gut.”(ABS)
+<choice>“Niemals!”(END)
+
+[>Pointer 913<]
+Esper? Was zur Hölle soll das sein? Wenn das ein Tier ist, sprecht mit dem K
+erl am Rand des Dorfes.(END)
+
+[>Pointer 914<]
+Ha!(ABS)
+Kein Zutritt!(END)
+
+[>Pointer 915<]
+Der alte STRAGO sieht gebrechlich aus, aber er war einst ein mächtiger Kriege
+r!(END)
+
+[>Pointer 916<]
+Habt Ihr die kleine RELM getroffen? Sie liebt die Malerei. Ob sie mir ein Por
+trät malen würde?(END)
+
+[>Pointer 917<]
+RELM ist in Wirklichkeit nicht STRAGO's leibliche Enkelin.(NEU)
+Sie soll die Tochter seines Freundes sein.(END)
+
+[>Pointer 918<]
+STRAGO ist ein Meister der Blauen Magie. Er kann die Angriffe seiner Gegner 
+erlernen.(END)
+
+[>Pointer 919<]
+Hört zu, ich muß Euch sagen…(ABS)
+<wait 60 frames>Ach, egal.(END)
+
+[>Pointer 920<]
+Mein Haus ist abgebrannt!(END)
+
+[>Pointer 921<]
+Geht aus dem Weg!(END)
+
+[>Pointer 922<]
+Ich hab' euch noch nie gesehen.(END)
+
+[>Pointer 923<]
+…… <wait 60 frames>Aha!(END)
+
+[>Pointer 924<]
+Und wer seid IHR!?(END)
+
+[>Pointer 925<]
+1 GS pro Nacht! Eine kleine Weile ausruhen?(ABS)
+<choice>Ja(ABS)
+<choice>Nein(END)
+
+[>Pointer 926<]
+Was wollt Ihr von mir?(END)
+
+[>Pointer 927<]
+Ein alter Edelmann mit reinem Herzen, der nicht nur seine Gegner gewissenhaf
+t studiert…(END)
+
+[>Pointer 928<]
+FEUER!(END)
+
+[>Pointer 929<]
+Was ist das?(END)
+
+[>Pointer 930<]
+Aaah! Oh nein!(END)
+
+[>Pointer 931<]
+Mama…das tut weh…(END)
+
+[>Pointer 932<]
+MAMA: Mein armer Schatz… Quell!(END)
+
+[>Pointer 933<]
+…Medizin…wo ist meine Medizin!?(END)
+
+[>Pointer 934<]
+Mama! Heile mich mit Quell!(END)
+
+[>Pointer 935<]
+STRAGO: Esper?(ABS)
+Esper… Hmm…(ABS)
+Das sagt mir eigentlich nichts.(NEU)
+LOCKE: Aber Ihr kennt das Wort, oder?(END)
+
+[>Pointer 936<]
+STRAGO: Nein, äh…hm…(ABS)
+Das kann man nicht sagen.(ABS)
+<wait 60 frames>Wirklich <wait 60 frames>nicht… <wait 60 frames>Hm…(END)
+
+[>Pointer 937<]
+Großvater!(END)
+
+[>Pointer 938<]
+STRAGO: He… HE!(END)
+
+[>Pointer 939<]
+STRAGO: Was zum Kuckuck…(ABS)
+Was tust du da?(END)
+
+[>Pointer 940<]
+In ihren Bildern fängt sie alles ein: Wälder, Wasser, Licht…(ABS)
+…die Quellen des Lebens…(END)
+
+[>Pointer 941<]
+Das ist seltsam…(END)
+
+[>Pointer 942<]
+RELM: Großvater.(ABS)
+Wer sind diese Leute? Freunde? Können sie auch Magie…?(NEU)
+STRAGO: Hee! Still!!!(END)
+
+[>Pointer 943<]
+RELM: Was für ein süßer Hundi!(ABS)
+SHADOW: Geh weg. Er beißt…(END)
+
+[>Pointer 944<]
+STRAGO: Geh auf dein Zimmer!(ABS)
+RELM: Ich will aber nicht!(END)
+
+[>Pointer 945<]
+STRAGO: Bitte verlaß uns!(ABS)
+RELM: Hmm…also gut…(END)
+
+[>Pointer 946<]
+RELM: Ein süßer Hund bist du!(END)
+
+[>Pointer 947<]
+STRAGO: Junge, Junge…(ABS)
+Sie mag wohl Euren Hund…(END)
+
+[>Pointer 948<]
+STRAGO: Furchtbar…(END)
+
+[>Pointer 949<]
+STRAGO: Entschuldigung.(ABS)
+SHADOW: Kein Problem. Der Hund mag normalerweise keine Menschen…(END)
+
+[>Pointer 950<]
+STRAGO: Entschuldigt sie. Sie ist einfach jung.(ABS)
+LOCKE: Hmmm…(NEU)
+STRAGO: Dies ist ein Dorf von Hinterwäldlern. Wir wissen nichts über Eure Es
+per…(END)
+
+[>Pointer 951<]
+LOCKE: Verstehe…(ABS)
+<wait 60 frames>Irgendetwas stimmt hier nicht…(ABS)
+TERRA: Sehen wir uns einmal um.(END)
+
+[>Pointer 952<]
+LOCKE: Danke für Eure Zeit!(ABS)
+STRAGO: Tut mir leid, daß ich Euch nicht helfen konnte!(END)
+
+[>Pointer 953<]
+SHADOW: Fangjäger!(ABS)
+Komm!(END)
+
+[>Pointer 954<]
+RELM: Oh, in Ordnung…(END)
+
+[>Pointer 955<]
+STRAGO: Ein schöner Tag.(END)
+
+[>Pointer 956<]
+RELM: Fangjäger, bitte komm zurück und spiel mit mir!(END)
+
+[>Pointer 957<]
+STRAGO: Wie schrecklich!(ABS)
+RELM…sie…(END)
+
+[>Pointer 958<]
+TERRA: RELM ist ein Gefahr?(ABS)
+STRAGO: Ja!(NEU)
+Sie war im Nachbarhaus, als ein Feuer ausbrach. Ich würde es nicht ertragen, 
+wenn ihr etwas zustoßen sollte!(END)
+
+[>Pointer 959<]
+STRAGO: Bitte!(ABS)
+Helft mir!(END)
+
+[>Pointer 960<]
+LOCKE: SHADOW!(END)
+
+[>Pointer 961<]
+SHADOW: Fangjäger…(ABS)
+<wait 60 frames>Wo bist du!?(END)
+
+[>Pointer 962<]
+Waaah…mein schönes Haus…!(END)
+
+[>Pointer 963<]
+STRAGO: RELM ist in diesem Haus!(END)
+
+[>Pointer 964<]
+FEUER!!!(END)
+
+[>Pointer 965<]
+STRAGO: RELM!!!(END)
+
+[>Pointer 966<]
+LOCKE: Was machst du da?(END)
+
+[>Pointer 967<]
+Flammen, VERGEHT!!! <wait 30 frames><wait 1 frame>(END)
+
+[>Pointer 968<]
+ÄLTESTER: Magie ist verboten!!!(ABS)
+TERRA: Magie…!?(END)
+
+[>Pointer 969<]
+STRAGO: Was kümmert mich das!(ABS)
+<wait 60 frames>RELM ist da drin!!!(END)
+
+[>Pointer 970<]
+Ältester!!!(END)
+
+[>Pointer 971<]
+ÄLTESTER: Gut.(ABS)
+<wait 60 frames>Wir haben keine Wahl.(END)
+
+[>Pointer 972<]
+ÄLTESTER: Zurücktreten!(END)
+
+[>Pointer 973<]
+STRAGO: Es nützt nichts. Das Feuer ist zu stark!(NEU)
+ÄLTESTER: Weil sie da drin zu viele Feuerstäbe lagern…!(END)
+
+[>Pointer 974<]
+STRAGO: Dann gehe ich hinein!(END)
+
+[>Pointer 975<]
+TERRA: Wartet… Ich gehe mit.(ABS)
+LOCKE: Ich auch. Du bleibst lieber hier draußen, Opa.(NEU)
+STRAGO: Du Narr!(ABS)
+Ich bin alt, aber nicht hilflos!(END)
+
+[>Pointer 976<]
+“Schnell!”(END)
+
+[>Pointer 977<]
+“Ist das die Quelle der Flammen…?”(END)
+
+[>Pointer 978<]
+LOCKE: Versucht, die Flammen zu meiden.(ABS)
+TERRA: Leichter gesagt als getan!(NEU)
+STRAGO: Beeilung! Wir müssen RELM finden!(END)
+
+[>Pointer 979<]
+“Oh nein!!!” <wait 75 frames><wait 1 frame>(END)
+
+[>Pointer 980<]
+Huch!? <wait 30 frames><wait 1 frame>(END)
+
+[>Pointer 981<]
+STRAGO: RELM!!!(ABS)
+Wo bist du!?(END)
+
+[>Pointer 982<]
+SHADOW: Nichts wie raus hier! <wait 60 frames>Achtung, eine Rauchbombe!!(END)
+
+[>Pointer 983<]
+STRAGO: Geht's dir gut?(ABS)
+RELM: Ja. Danke, Großvater!(END)
+
+[>Pointer 984<]
+STRAGO: Du solltest diesen Leuten danken.(ABS)
+RELM: Ich danke euch…(END)
+
+[>Pointer 985<]
+STRAGO: Unser kleines Geheimnis ist jetzt wohl dahin…(END)
+
+[>Pointer 986<]
+LOCKE: Kann hier jeder Magie benutzen? Was ist hier los?(END)
+
+[>Pointer 987<]
+STRAGO: Dies ist…(ABS)
+<wait 60 frames>…das Dorf der Magie-Ritter…(END)
+
+[>Pointer 988<]
+STRAGO: Vor langer Zeit benutzten Menschen Magizit, um magische Kräfte zu er
+langen. Sie hießen “Magie-Ritter”.(END)
+
+[>Pointer 989<]
+LOCKE: Aber die sind doch vor Jahrhunderten…(END)
+
+[>Pointer 990<]
+STRAGO: Nach dem Krieg der Weisen flohen die Esper in ihre Welt jenseits des 
+versiegelten Tores.(NEU)
+Sie wollten in Frieden leben und nicht von Menschen benutzt werden. Wir blie
+ben hier und mußten für uns selber sorgen…(NEU)
+Aber die normalen Menschen haßten uns und glaubten, wir hätten den Krieg bego
+nnen.(END)
+
+[>Pointer 991<]
+STRAGO: Manche zogen los, um uns wie Tiere zu jagen. Es gab keine Gerichtsve
+rhandlungen…(NEU)
+TERRA: Obwohl der einzige Unterschied die Magie war…?(END)
+
+[>Pointer 992<]
+STRAGO: Einige wenige Magie-Ritter entkamen und gründeten dieses Dorf…unsere
+ Vorfahren.(NEU)
+Unsere Kraft wurde schwächer, aber etwas ist geblieben.(END)
+
+[>Pointer 993<]
+TERRA: Wenn es Euch interessiert, könntet Ihr uns helfen. <wait 60 frames>(NEU)
+STRAGO: Ihr seid hinter den Espern her, was?(END)
+
+[>Pointer 994<]
+STRAGO: Ihr habt RELM gerettet… <wait 60 frames>Ich werde Euch helfen, Eure 
+Esper zu finden.(END)
+
+[>Pointer 995<]
+RELM: Ich auch!(ABS)
+<wait 60 frames>STRAGO: Das glaube ich nicht…(END)
+
+[>Pointer 996<]
+RELM: Du alter Kauz…(END)
+
+[>Pointer 997<]
+LOCKE: Aber wo fangen wir an zu suchen?(NEU)
+STRAGO: Hmm…(ABS)
+<wait 60 frames>Wenn sie hier sind, dann verstecken sie sich in den Bergen we
+stlich von hier.(END)
+
+[>Pointer 998<]
+LOCKE: Warum?(ABS)
+STRAGO: Diese Berge haben unfaßbare magische Eigenschaften.(NEU)
+Man sagt, dort wurden die Esper erschaffen…(END)
+
+[>Pointer 999<]
+TERRA: Vielleicht sind sie dorthin zurückgegangen…(END)
+
+[>Pointer 1000<]
+LOCKE: Sehen wir nach.(END)
+
+[>Pointer 1001<]
+SHADOW: Augenblick mal. Ich wollte nur meinen Hund zurück.(END)
+
+[>Pointer 1002<]
+LOCKE: Du gehst weg?(ABS)
+SHADOW: Ich suche die Esper auf meine Weise.(END)
+
+[>Pointer 1003<]
+ULTROS: Hihihi… Diese glänzenden Statuen gehören mir!(ABS)
+Sie werden Ziegfried gefallen!(END)
+
+[>Pointer 1004<]
+ULTROS: Oh!(ABS)
+Sie leuchten!(ABS)
+Sie sind…wunderschön!(END)
+
+[>Pointer 1005<]
+LOCKE: He, Tintensack!(ABS)
+Du wirst es wohl nie lernen!(NEU)
+ULTROS: Oh, ich habe schon immer langsam gelernt…(ABS)
+…aber um so schneller gefressen!!(END)
+
+[>Pointer 1006<]
+RELM: Ha! Habt ihr das gesehen?(ABS)
+Bin ich nicht eine bessere Hilfe als mein Opi!?(NEU)
+STRAGO: Dein…OPI??(END)
+
+[>Pointer 1007<]
+TERRA: Ich glaube, es kann nicht schaden, dich dabeizuhaben…(END)
+
+[>Pointer 1008<]
+STRAGO: Ich fasse es nicht…(ABS)
+<wait 60 frames>Die Statuen…!(ABS)
+TERRA: DIE Statuen!?(END)
+
+[>Pointer 1009<]
+Die Geburt der Magie…(NEU)
+Drei Göttinnen wurden hierher verbannt. Sie begannen zu streiten, was zum to
+talen Krieg führte…(NEU)
+Die unglückseligen Menschen, die zwischen die Fronten gerieten, wurden in Es
+per verwandelt…(NEU)
+…und zum Kampf gezwungen.(END)
+
+[>Pointer 1010<]
+LOCKE: Da hinten ist undeutlich etwas eingraviert…(END)
+
+[>Pointer 1011<]
+LOCKE: Sag, alter Mann, was weißt du sonst noch über diese Göttinnen?(END)
+
+[>Pointer 1012<]
+STRAGO: Sie haben die Magie buchstäblich erschaffen, soweit wir wissen.(NEU)
+LOCKE: Sie sind also die Göttinnen der Magie?(ABS)
+STRAGO: Das könnte man sagen.(END)
+
+[>Pointer 1013<]
+TERRA: Ich fühle ihre Macht…(ABS)
+STRAGO: Die Statuen sind die Quelle aller Magie.(NEU)
+Es heißt, die Esper schufen diese Ehrenbilder, und stellten sie an einem spe
+ziellen Ort auf.(NEU)
+Sie stehen für Macht in unvorstellbarem Ausmaß…(END)
+
+[>Pointer 1014<]
+TERRA: Ohne Zweifel kamen die Esper hierher, um sich zu erholen!(END)
+
+[>Pointer 1015<]
+Die Göttinnen merkten, daß sie von denen, die sie verbannt hatten, ausgelach
+t wurden.(NEU)
+In einem seltenen Moment allseitiger Klarheit beschlossen sie, sich von der 
+Welt abzukapseln.(NEU)
+Mit dem letzten Rest ihrer Energie gaben sie den Espern ihren freien Willen 
+zurück und verwandelten sich daraufhin…(NEU)
+…in Stein.(ABS)
+Ihr eigener letzter Wille war, daß die Esper sie für alle Ewigkeit bewachen 
+sollten.(END)
+
+[>Pointer 1016<]
+Die Esper schufen diese Statuen als ein Symbol ihres Versprechens, die Göttin
+nen ruhen zu lassen.(NEU)
+Die Esper haben geschworen, die Macht der Göttinnen vor Mißbrauch zu bewahre
+n.(END)
+
+[>Pointer 1017<]
+LOCKE: Puh…(NEU)
+TERRA: Wenn diese Statuen die Esper angelockt haben, müssen sie sich noch hie
+r aufhalten!(END)
+
+[>Pointer 1018<]
+LOCKE: He, Alter, was ist aus den steinernen Göttinnen geworden?(NEU)
+STRAGO: Die Legende besagt, sie seien irgendwo jenseits menschlichen Zugriff
+s versteckt…(NEU)
+Vielleicht hinter dem versiegelten Tor…?(END)
+
+[>Pointer 1019<]
+TERRA: Ich frage mich, ob die Barriere, die die Esperwelt schützt, von den S
+teinstatuen kommt…?(END)
+
+[>Pointer 1020<]
+RELM: Sind das…Esper!?(END)
+
+[>Pointer 1021<]
+TERRA: Wie sie aussehen… <wait 60 frames>(NEU)
+LOCKE: Opa, nimm RELM und die Beine in die Hand!(END)
+
+[>Pointer 1022<]
+STRAGO: Huch!!!(END)
+
+[>Pointer 1023<]
+YURA: Halt!!!(END)
+
+[>Pointer 1024<]
+RELM: Was ist los?(NEU)
+STRAGO: Ich fühle immense magische Kraft in TERRA…(ABS)
+<wait 60 frames>Es macht mir Angst…!(END)
+
+[>Pointer 1025<]
+LOCKE: Ob sie wohl wieder ausrasten wird!?(END)
+
+[>Pointer 1026<]
+YURA: Irgendwie bist du anders…(ABS)
+<wait 60 frames>(NEU)
+Ich fühle, daß von dir eine vertraute Schwingung ausgeht…(NEU)
+TERRA: Ja.(END)
+
+[>Pointer 1027<]
+STRAGO: Ihr seid die Esper, die durch das Siegeltor geflohen sind?(NEU)
+YURA: Es ist uns verboten, unsere Welt zu besuchen.(NEU)
+Wir wenige hatten uns in der Nähe des Tores versammelt und fragten uns, wie w
+ir die Entführten retten könnten…(NEU)
+Es war purer Zufall, daß TERRA in dem Moment aufgetaucht ist…(END)
+
+[>Pointer 1028<]
+TERRA: Ich fühlte…eure Anwesenheit durch das Tor.(NEU)
+YURA: Wir flohen in dem Moment, als TERRA das Tor öffnete. Aber in eurer Wel
+t verloren wir die Kontrolle…(END)
+
+[>Pointer 1029<]
+YURA: Wir haben eine Stadt dem Erdboden gleichgemacht…und getötet…(END)
+
+[>Pointer 1030<]
+TERRA: Genauso ist es mir auch einmal ergangen…!(END)
+
+[>Pointer 1031<]
+STRAGO: In eurer Welt muß es etwas geben, das eure Macht um Zaum hält…(NEU)
+Bitte seid vorsichtig, solange ihr in unserer Welt seid.(END)
+
+[>Pointer 1032<]
+YURA: Wir sind untröstlich, daß wir euch Menschen solches Leid zugefügt habe
+n.(END)
+
+[>Pointer 1033<]
+LOCKE: Die Vergangenheit ist Geschichte. Das Imperium will den Frieden. Warum
+ kommt ihr nicht mit?(NEU)
+YURA: Sie vergeben uns so einfach?(END)
+
+
+[>DUMP END<]----------------------------------------------------------

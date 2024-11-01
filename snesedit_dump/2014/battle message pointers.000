@@ -1,0 +1,788 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - battle message pointers]
+TBL   [1-C:\Spiele\Rom-Translation\FF6jdtv2\battle_dialog.SE\battle_dialog.TBL]
+Start [00000200h]
+Size  [0000074Fh][00000BD5h][2]
+pStart[00000000h]
+pFirst[0200h-254]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Daneben!(END)
+
+[>Pointer 2<]
+Scheint nichts zu haben(END)
+
+[>Pointer 3<]
+Nicht geklappt!(END)
+
+[>Pointer 4<]
+<item> × 1 gestohlen!(END)
+
+[>Pointer 5<]
+Kontrolle nicht möglich!(END)
+
+[>Pointer 6<]
+Geht nicht!(END)
+
+[>Pointer 7<]
+Gestolpert!(END)
+
+[>Pointer 8<]
+Mugu mugu?(END)
+
+[>Pointer 9<]
+Kein Geld!(END)
+
+[>Pointer 10<]
+Kein Entkommen!!(END)
+
+[>Pointer 11<]
+Kein Entkommen(END)
+
+[>Pointer 12<]
+Schwach gegen Feuer!(END)
+
+[>Pointer 13<]
+Schwach gegen Eis!(END)
+
+[>Pointer 14<]
+Schwach gegen Donner!(END)
+
+[>Pointer 15<]
+Schwach gegen Gift!(END)
+
+[>Pointer 16<]
+Schwach gegen Wind!(END)
+
+[>Pointer 17<]
+Schwach gegen Heilig!(END)
+
+[>Pointer 18<]
+Schwach gegen Erde!(END)
+
+[>Pointer 19<]
+Schwach gegen Wasser!(END)
+
+[>Pointer 20<]
+Gleich bist du Staub!!!(END)
+
+[>Pointer 21<]
+Besitzen nicht möglich!(END)
+
+[>Pointer 22<]
+Schwach gegen Feuer!(END)
+
+[>Pointer 23<]
+Schwach gegen Eis!(END)
+
+[>Pointer 24<]
+Schwach gegen Donner!(END)
+
+[>Pointer 25<]
+Schwach gegen Gift!(END)
+
+[>Pointer 26<]
+Schwach gegen Wind!(END)
+
+[>Pointer 27<]
+Schwach gegen Heilig!(END)
+
+[>Pointer 28<]
+Schwach gegen Erde!(END)
+
+[>Pointer 29<]
+Schwach gegen Wasser!(END)
+
+[>Pointer 30<]
+Nimm <item> lieber weg!(END)
+
+[>Pointer 31<]
+<item> zerquetscht!(END)
+
+[>Pointer 32<]
+Klappt nicht!(END)
+
+[>Pointer 33<]
+<item> × 1 erhalten(WAIT)
+(END)
+
+[>Pointer 34<]
+<item> × 1 erhalten(WAIT)
+(END)
+
+[>Pointer 35<]
+Erstschlag!(END)
+
+[>Pointer 36<]
+Hinterhalt(END)
+
+[>Pointer 37<]
+Seitenangriff(END)
+
+[>Pointer 38<]
+Umzingelt(END)
+
+[>Pointer 39<]
+<VAR2> GS erhalten(WAIT)
+(END)
+
+[>Pointer 40<]
+<VAR1> Erfahrungspunkt(e)(WAIT)
+(END)
+
+[>Pointer 41<]
+MP leer(END)
+
+[>Pointer 42<]
+Besiegt…(WAIT)
+(END)
+
+[>Pointer 43<]
+Zorn des Schildes verraucht!(WAIT)
+(END)
+
+[>Pointer 44<]
+Level halbiert!(END)
+
+[>Pointer 45<]
+<monster> nicht scanbar!(END)
+
+[>Pointer 46<]
+<skill> gelernt(WAIT)
+(END)
+
+[>Pointer 47<]
+<actor> bekam Level-up(WAIT)
+(END)
+
+[>Pointer 48<]
+Kein Schwachpunkt(END)
+
+[>Pointer 49<]
+HP <VAR1>/<VAR2>(END)
+
+[>Pointer 50<]
+MP <VAR1>/<VAR2>(END)
+
+[>Pointer 51<]
+<actor> lernte <skill>(WAIT)
+(END)
+
+[>Pointer 52<]
+Neuen Blitz erdacht!(WAIT)
+(END)
+
+[>Pointer 53<]
+Level <VAR1>(END)
+
+[>Pointer 54<]
+<VAR1> Magiepunkt(e)(WAIT)
+(END)
+
+[>Pointer 55<]
+Banon ist gefallen…(END)
+
+[>Pointer 56<]
+Element Feuer ineffektiv(END)
+
+[>Pointer 57<]
+Element Eis ineffektiv(END)
+
+[>Pointer 58<]
+Element Gewitter ineffektiv(END)
+
+[>Pointer 59<]
+Element Gift ineffektiv(END)
+
+[>Pointer 60<]
+Element Wind ineffektiv(END)
+
+[>Pointer 61<]
+Element Heilig ineffektiv(END)
+
+[>Pointer 62<]
+Element Erde ineffektiv(END)
+
+[>Pointer 63<]
+Element Wasser ineffektiv(END)
+
+[>Pointer 64<]
+<VAR2> GS gestohlen!!(END)
+
+[>Pointer 65<]
+Neuen Tanz erlernt!(WAIT)
+(END)
+
+[>Pointer 66<]
+Geht nicht!!(END)
+
+[>Pointer 67<]
+Neue Technik erlernt!(WAIT)
+(END)
+
+[>Pointer 68<]
+Falsche Blitz-Eingabe!(END)
+
+[>Pointer 69<]
+“Ogerkeule” zerbrochen!(END)
+
+[>Pointer 70<]
+(END)
+
+[>Pointer 71<]
+(END)
+
+[>Pointer 72<]
+(END)
+
+[>Pointer 73<]
+(END)
+
+[>Pointer 74<]
+(END)
+
+[>Pointer 75<]
+(END)
+
+[>Pointer 76<]
+(END)
+
+[>Pointer 77<]
+(END)
+
+[>Pointer 78<]
+(END)
+
+[>Pointer 79<]
+(END)
+
+[>Pointer 80<]
+(END)
+
+[>Pointer 81<]
+(END)
+
+[>Pointer 82<]
+(END)
+
+[>Pointer 83<]
+(END)
+
+[>Pointer 84<]
+(END)
+
+[>Pointer 85<]
+(END)
+
+[>Pointer 86<]
+(END)
+
+[>Pointer 87<]
+(END)
+
+[>Pointer 88<]
+(END)
+
+[>Pointer 89<]
+(END)
+
+[>Pointer 90<]
+(END)
+
+[>Pointer 91<]
+(END)
+
+[>Pointer 92<]
+(END)
+
+[>Pointer 93<]
+(END)
+
+[>Pointer 94<]
+(END)
+
+[>Pointer 95<]
+(END)
+
+[>Pointer 96<]
+(END)
+
+[>Pointer 97<]
+(END)
+
+[>Pointer 98<]
+(END)
+
+[>Pointer 99<]
+(END)
+
+[>Pointer 100<]
+(END)
+
+[>Pointer 101<]
+(END)
+
+[>Pointer 102<]
+(END)
+
+[>Pointer 103<]
+(END)
+
+[>Pointer 104<]
+(END)
+
+[>Pointer 105<]
+(END)
+
+[>Pointer 106<]
+(END)
+
+[>Pointer 107<]
+(END)
+
+[>Pointer 108<]
+(END)
+
+[>Pointer 109<]
+(END)
+
+[>Pointer 110<]
+(END)
+
+[>Pointer 111<]
+(END)
+
+[>Pointer 112<]
+(END)
+
+[>Pointer 113<]
+(END)
+
+[>Pointer 114<]
+(END)
+
+[>Pointer 115<]
+(END)
+
+[>Pointer 116<]
+(END)
+
+[>Pointer 117<]
+(END)
+
+[>Pointer 118<]
+(END)
+
+[>Pointer 119<]
+(END)
+
+[>Pointer 120<]
+(END)
+
+[>Pointer 121<]
+(END)
+
+[>Pointer 122<]
+(END)
+
+[>Pointer 123<]
+(END)
+
+[>Pointer 124<]
+(END)
+
+[>Pointer 125<]
+(END)
+
+[>Pointer 126<]
+(END)
+
+[>Pointer 127<]
+(END)
+
+[>Pointer 128<]
+(END)
+
+[>Pointer 129<]
+(END)
+
+[>Pointer 130<]
+(END)
+
+[>Pointer 131<]
+(END)
+
+[>Pointer 132<]
+(END)
+
+[>Pointer 133<]
+(END)
+
+[>Pointer 134<]
+(END)
+
+[>Pointer 135<]
+(END)
+
+[>Pointer 136<]
+(END)
+
+[>Pointer 137<]
+(END)
+
+[>Pointer 138<]
+(END)
+
+[>Pointer 139<]
+(END)
+
+[>Pointer 140<]
+(END)
+
+[>Pointer 141<]
+(END)
+
+[>Pointer 142<]
+(END)
+
+[>Pointer 143<]
+(END)
+
+[>Pointer 144<]
+(END)
+
+[>Pointer 145<]
+(END)
+
+[>Pointer 146<]
+(END)
+
+[>Pointer 147<]
+(END)
+
+[>Pointer 148<]
+(END)
+
+[>Pointer 149<]
+“Fluch” auf 5er-Level-Personen(END)
+
+[>Pointer 150<]
+“Lodern” auf 4er-Level-Personen(END)
+
+[>Pointer 151<]
+“Wirren” auf 3er-Level-Personen(END)
+
+[>Pointer 152<]
+??? auf magiereflekt. Pers.(END)
+
+[>Pointer 153<]
+Magie Heilig auf ?er-Level-Pers.(END)
+
+[>Pointer 154<]
+(END)
+
+[>Pointer 155<]
+(END)
+
+[>Pointer 156<]
+Level halbiert(END)
+
+[>Pointer 157<]
+(END)
+
+[>Pointer 158<]
+(END)
+
+[>Pointer 159<]
+Status-Tausch(END)
+
+[>Pointer 160<]
+Verwirrung!!(END)
+
+[>Pointer 161<]
+(END)
+
+[>Pointer 162<]
+(END)
+
+[>Pointer 163<]
+(END)
+
+[>Pointer 164<]
+Imp…ppp…IMP!!(END)
+
+[>Pointer 165<]
+(END)
+
+[>Pointer 166<]
+(END)
+
+[>Pointer 167<]
+Als Zombie zurück!(END)
+
+[>Pointer 168<]
+(END)
+
+[>Pointer 169<]
+(END)
+
+[>Pointer 170<]
+(END)
+
+[>Pointer 171<]
+(END)
+
+[>Pointer 172<]
+(END)
+
+[>Pointer 173<]
+(END)
+
+[>Pointer 174<]
+(END)
+
+[>Pointer 175<]
+(END)
+
+[>Pointer 176<]
+(END)
+
+[>Pointer 177<]
+(END)
+
+[>Pointer 178<]
+(END)
+
+[>Pointer 179<]
+(END)
+
+[>Pointer 180<]
+(END)
+
+[>Pointer 181<]
+(END)
+
+[>Pointer 182<]
+(END)
+
+[>Pointer 183<]
+(END)
+
+[>Pointer 184<]
+(END)
+
+[>Pointer 185<]
+(END)
+
+[>Pointer 186<]
+(END)
+
+[>Pointer 187<]
+(END)
+
+[>Pointer 188<]
+(END)
+
+[>Pointer 189<]
+(END)
+
+[>Pointer 190<]
+(END)
+
+[>Pointer 191<]
+(END)
+
+[>Pointer 192<]
+(END)
+
+[>Pointer 193<]
+(END)
+
+[>Pointer 194<]
+(END)
+
+[>Pointer 195<]
+(END)
+
+[>Pointer 196<]
+(END)
+
+[>Pointer 197<]
+(END)
+
+[>Pointer 198<]
+Am besten…gefroren!(END)
+
+[>Pointer 199<]
+(END)
+
+[>Pointer 200<]
+Hilf mir!(END)
+
+[>Pointer 201<]
+(END)
+
+[>Pointer 202<]
+(END)
+
+[>Pointer 203<]
+(END)
+
+[>Pointer 204<]
+(END)
+
+[>Pointer 205<]
+(END)
+
+[>Pointer 206<]
+(END)
+
+[>Pointer 207<]
+Freunde bekämpfen Freunde! Hihi!(END)
+
+[>Pointer 208<]
+Am besten…gefroren!(END)
+
+[>Pointer 209<]
+(END)
+
+[>Pointer 210<]
+(END)
+
+[>Pointer 211<]
+(END)
+
+[>Pointer 212<]
+(END)
+
+[>Pointer 213<]
+(END)
+
+[>Pointer 214<]
+Mmmm…mampf, mampf!(END)
+
+[>Pointer 215<]
+(END)
+
+[>Pointer 216<]
+(END)
+
+[>Pointer 217<]
+(END)
+
+[>Pointer 218<]
+(END)
+
+[>Pointer 219<]
+(END)
+
+[>Pointer 220<]
+(END)
+
+[>Pointer 221<]
+Ein immerwährender Fluch!(END)
+
+[>Pointer 222<]
+(END)
+
+[>Pointer 223<]
+(END)
+
+[>Pointer 224<]
+(END)
+
+[>Pointer 225<]
+ww(END)
+
+[>Pointer 226<]
+Stiehlt dir Energie, bis……(END)
+
+[>Pointer 227<]
+(END)
+
+[>Pointer 228<]
+(END)
+
+[>Pointer 229<]
+(END)
+
+[>Pointer 230<]
+Am besten…ein Zombie!(END)
+
+[>Pointer 231<]
+(END)
+
+[>Pointer 232<]
+(END)
+
+[>Pointer 233<]
+(END)
+
+[>Pointer 234<]
+(END)
+
+[>Pointer 235<]
+(END)
+
+[>Pointer 236<]
+(END)
+
+[>Pointer 237<]
+(END)
+
+[>Pointer 238<]
+(END)
+
+[>Pointer 239<]
+(END)
+
+[>Pointer 240<]
+(END)
+
+[>Pointer 241<]
+(END)
+
+[>Pointer 242<]
+(END)
+
+[>Pointer 243<]
+(END)
+
+[>Pointer 244<]
+(END)
+
+[>Pointer 245<]
+(END)
+
+[>Pointer 246<]
+(END)
+
+[>Pointer 247<]
+(END)
+
+[>Pointer 248<]
+(END)
+
+[>Pointer 249<]
+(END)
+
+[>Pointer 250<]
+(END)
+
+[>Pointer 251<]
+(END)
+
+[>Pointer 252<]
+(END)
+
+[>Pointer 253<]
+(END)
+
+[>Pointer 254<]
+(END)
+
+
+[>DUMP END<]----------------------------------------------------------

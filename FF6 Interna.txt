@@ -1,0 +1,191 @@
+
+    FFFFFFFFFF                                        6666666666666666
+     FF        I    NN    N      AA     L               66   66   66
+     FF        II   NNN   NN    A  A    LL              66   66   66
+    FFFFFFF    II   NN NN NN   AA  AA   LL              66   66   66
+     FF        II   NN  N NN   AAAAAA   LL              66   66   66
+     FF        II   NN   NNN   AA  AA   LL               66 66    66
+     FF         I    N    NN   A    A   LLLLLLL           666     66
+     FF     _______________________________________        6      66
+     FF                                               6666666666666666
+     FF
+     FF     FFFFFFFFFF
+     FF      FF          AA     NN    N   TTTTTTTT    AA     SSSS   YY    YY   TM
+     FF      FF         A  A    NNN   NN     T       A  A   SS       YY  YY
+     FF     FFFFFFF    AA  AA   NN NN NN     TT     AA  AA  SS        Y  Y
+     FF      FF        AAAAAA   NN  N NN     TT     AAAAAA    SS       YY
+     FF      FF        AA  AA   NN   NNN     TT     AA  AA     SS      YY
+     FF      FF        A    A    N    NN      T     A    A  SSSS       YY
+     FF      FF     
+     FF      FF     __________________________________________________________
+     FF      FF
+     FF      F        FINAL FANTASY III (US/SNES) = Teil VI der Serie
+     FF               Deutsche Übersetzung von ManuLöwe (Manuel Charisius)
+     FF               Version 1.40 vom 05.01.2008 / Gesamtprojekt © 2000-2012
+     F              __________________________________________________________
+
+
+
+Hinweis: Bitte den automatischen Zeilenumbruch aktivieren!
+
+
+FF6 INTERNA
+===========
+
+Hallo zusammen! Schön, daß Ihr hier reinschaut! :-)
+
+Dieses Dokument enthält einige interessante Aspekte, darunter wahre Mysterien, über Final Fantasy 6 aka 3. Die meisten konnte ich erst dadurch entdecken, daß ich den Text des Spieles in einem Editor betrachten konnte. Daher release ich diese "Interna" zusammen mit meinem Übersetzungspatch.
+
+Ich wünsche Euch viel Spaß beim Lesen und Vertiefen in die Welt der Magie, der Esper und der Luftschiffe ...
+
+
+"SPIELBARE" GEHEIMNISSE
+=======================
+
+o GORGEOUS OPERA
+Wie Ihr wißt, muß sich Celes in der Oper als Maria verkleiden, da sie ihr so ähnlich sieht, und eine Arie singen. Ich hoffe, Ihr habt zuvor das Drehbuch gelesen, sonst wißt Ihr nämlich nicht, welcher Vers als nächstes kommt! ... Naja, ich bin ja auch noch da. Ich verrate Euch die Verse. Es reicht übrigens, wenn Ihr mit dem Cursor darauf zeigt (Ihr müßt nicht unbedingt den A-Knopf drücken). Hier sind sie:
+
+  Erste Strophe:
+  |> Oh my hero...              |> Oh mein Held...
+     Alas, Draco...                Mein lieber Draco...
+
+  Zweite Strophe:
+     I wish I...                   Ich wünschte...
+  |> I'm the darkness...        |> Hier ist es so dunkel...
+
+  Dritte Strophe:
+  |> Must I...                  |> Muß ich...
+     Prince Ralse...               Prinz Ralse...
+
+Aber beeilt Euch! Der Text folgt der Musik, und wenn Ihr nicht rechtzeitig gewählt habt bzw. falsch gewählt habt, beendet sich die Oper auf sehr ... öhm ... lustige Weise! :-/ Ihr habt insgesamt vier Versuche, wenn Ihr es bis dahin nicht schafft, sagt der Impresario, daß Ihr entsetzlich schlecht spielt und es kommt dieselbe Musik/Szene, wie wenn Ihr im Kampf besiegt werdet (Game Over). Danach geht es weiter, wo Ihr zuletzt gespeichert habt.
+
+Hier übrigens der komplette Text der "Aria Di Mezzo Carattere" und meine Übersetzung:
+
+  Oh my hero, so far away now.               O mein Held, so weit nun fort,
+  Will I ever see your smile?                dein Lächeln nur mehr im Bilde dort.
+  Love goes away, like night into day.       Liebe vergeht, Dämm'rung verweht.
+  It's just a fading dream...                Es schwindet der einsame Traum...
+  
+  I'm the darkness, you're the stars.        Hier ist es so dunkel, du bist
+  Our love is brighter than the sun.         mein Stern, dessen Liebe flammt
+  For eternity, for me there can be,         wie der Sonne Schein. Für immer
+  only you, my chosen one.                   und ewig bist du mein.
+
+  Must I forget you? Our solemn promise?     Muß ich dich vergessen? Unser Versprechen...
+  Will autumn take the place of spring?      Wird statt des Lenzen Wonnereigen
+  What shall I do? I'm lost without you.     nun Herbst in meine Seel' einziehn?
+  Speak to me once more!                     Laß bitte ein Wort zu mir fliehn!
+
+  We must part now. My life goes on.         Wir müssen uns trennen, weiterleben.
+  But my heart won't give you up.            Mein Herz wird dich nie vergessen.
+  Ere I walk away, let me hear you say.      Ich breche auf, doch wisse zuvor,
+  I meant as much to you...                  daß du mir warst so lieb...
+
+  So gently, you touched my heart.           So freundlich berührtest du mich.
+  I will be forever yours.                   Für immer dein, ich warte auf dich.
+  Come what may, I won't age a day,          Ich werde nicht altern,
+  I'll wait for you, always...               möge die Welt auch untergehn...
+
+Nach dem Ende der dritten Strophe habt Ihr's übrigens bereits fast geschafft. Ihr müßt nur noch Dracos Tanzschritt folgen, das ist nicht weiter schwer, dann jedoch möglichst schnell die Treppe hochgehen und die Rosen bis zur Brüstung links bringen. Seid Ihr zu früh, macht das nichts, dann wartet Celes sozusagen auf die Musik. Zu spät solltet Ihr allerdings nicht sein, sonst endet's wie beim Singen.
+Und jetzt viel Spaß dabei! :)
+  
+o PEACE TALKS WITH GESTAHL
+Ihr kennt sicher die Stelle, an der Ihr im brennenden Vector von Gestahl persönlich erwartet werdet (nachdem das Luftschiff abgestürzt ist). Er will den Frieden, und dazu soll ein klärendes Bankett/Gespräch abgehalten werden. Davor müßt Ihr jedoch mit möglichst vielen der 24 Wachen in Vector reden bzw. kämpfen, um sie vom Frieden zu überzeugen, dazu habt Ihr vier Minuten Zeit. Es ist knapp, aber wenn Ihr erst nach rechts geht und NICHT zu Kefka sprecht, durchaus zu schaffen. Auch die Schatztruhen könnt Ihr später noch holen.
+Während des Banketts schließlich wird Gestahl Euch verschiedene Fragen stellen. Je nachdem, wie Ihr antwortet und wie viele Soldaten Ihr angesprochen habt, bekommt Ihr nach dem Bankett eine Belohnung. Sie wird daraus errechnet, wie viele Punkte Ihr gesammelt habt. Die Punkteverteilung ist folgendermaßen:
+
+  - Wachen, mit denen Ihr redet       : je 1 Punkt (insgesamt 24 Punkte)
+  - Wachen, gegen die Ihr kämpfen müßt: je zusätzlich 4 Punkte (insgesamt 20 Punkte)
+  - Trinkspruch auf ...?
+      * das Imperium                  : +2 Punkte
+      * die Rebellen                  : +1 Punkt
+      * die Heimatstädte              : +5 Punkte
+  - Was mit Kefka geschehen soll ...?
+      * ihn im Gefängnis lassen       : +5 Punkte
+      * ihm verzeihen                 : +1 Punkt
+      * ihn hinrichten                : +3 Punkte
+  - Wegen dem Vorfall in Doma ...?
+      * es ist nun einmal geschehen   : +1 Punkt
+      * unentschuldbar                : +5 Punkte
+      * nochmals entschuldigen        : +3 Punkte
+  - Wegen Celes ...?
+      * war sie eine imp. Spionin?    : +1 Punkt
+      * Celes gehört zu uns           : +5 Punkte
+      * wir vertrauen Celes           : +3 Punkte
+  - Noch Fragen?                      : +2 Punkte pro Frage
+    (Allerdings 10 Punkte Abzug, wenn Ihr dieselbe Frage nochmals stellt.)
+  - Wegen der Esper ...?
+      * sie sind zu weit gegangen     : +5 Punkte
+      * IHR habt sie dazu gebracht    : +2 Punkte
+  - Welche Frage war die erste?       : +5 Punkte, wenn richtig
+  - Eine Pause machen                 : +5 Punkte
+    (Ihr dürft nicht vergessen, während der Pause mit den Truppenführern
+    zu kämpfen und zu gewinnen! Sonst bekommt Ihr nicht die volle Punktzahl.)
+  - Etwas Bestimmtes sagen ...?
+      * daß er Frieden will           : +3 Punkte
+      * daß der Krieg zu Ende ist     : +5 Punkte
+      * Entschuldigung                : +1 Punkt
+  - Ihm einen Gefallen tun ...?       : +3 Punkte, wenn Ihr sofort "ja" sagt
+  Die Belohnung für Eure gesammelten Punkte wird dann folgendermaßen errechnet:
+  -  0-49 Punkte: Die imperialen Truppen ziehen sich aus Figaro Süd zurück.
+  - 50-66 Punkte: Das obige, und die imperialen Truppen ziehen sich aus Doma zurück.
+    67-76 Punkte: Alles obige, und die verschlossene Tür in der imperialen Basis beim versiegelten
+                  Tor wird geöffnet, so daß Ihr die Schatztruhen plündern könnt.
+    77-89 Punkte: Alles obige, und Ihr bekommt ein Tintinabar (Katzenglocke).
+    90-93 Punkte: Alles obige, und Ihr bekommt ein Charm Bangle (Zauberreif).
+
+Nicht schlecht, was? Tja, für mich ist schon seit jeher eine der interessantesten Fragen um FF6: Wollte Imperator Gestahl WIRKLICH den Frieden ...?
+
+o AIRSHIP CUT SCENE
+Nachdem Ihr die "peace talks" also gut hinter Euch gebracht habt, geht auf jeden Fall zurück zur Basis und plündert die Schatztruhen (ich nehme an, Ihr habt die vollen 93 Punkte geholt, so daß der Truppenführer sagte, "Euer Benehmen war tadellos!"!?). Geht danach zurück zum Luftschiff, genauer gesagt in den Maschinenraum! Ihr werdet eine sehr interessante Zwischensequenz zu sehen bekommen, in der Ihr mehr über Setzers einstige Freundin Daryl/Darill erfahrt. Es lohnt sich!
+
+o CID'S HERITAGE
+Nachdem die Welt zusammengebrochen ist und Celes allein auf dem kleinen Inselchen mit Cid ausharrt, möchte er etwas essen. Bringt Ihr ihm alle Fische, die es gibt (oder gar keine), wird er sterben. Bringt Ihr ihm nur die, die SCHNELL herumschwimmen, wird er am Leben bleiben! Im ersten Fall stürzt sich Celes übrigens vom Felsen, überlebt jedoch. Was Ihr also tut, ist im Prinzip egal, aber ich finde, Cid hat es verdient, nur gute Fische zu essen zu kriegen. ;-)
+Noch ein Wort dazu. Es ist nicht so einfach, wie es klingt. Es ist nicht jedes Mal ein schneller Fisch da, wenn ihr wieder zum Strand geht. Und es erscheinen immer nur dann neue Fische, wenn Ihr mit Cid geredet habt. Wenn Ihr es aber zu oft macht, werden seine Sätze wieder pessimistischer, und Ihr müßt von vorne beginnen. Also beeilt Euch und hofft, daß Ihr Glück habt. Es kann dauern, aber irgendwann kommt Cid aus dem Bett heraus und zeigt Celes das Floß im Keller, anstatt daß sie einen Brief findet.
+
+o THE WORLD IS SQUARE
+In Daryl's Tomb (Darills Grab) gibt es einen Raum, in dem Ihr gefragt werdet, ob Ihr etwas auf den Grabstein eingravieren wollt. Wenn Ihr vorher in dem Raum mit den vier Grabsteinen wart, auf denen "ERAU", "QSSI", "DLRO" und "WEHT" stehen, dann könnt Ihr diese auf den ersten Blick seltsame Zeichenfolge auf den Grabstein einritzen. Probiert es einmal in der obenstehenden Reihenfolge (oder auch gerade umgekehrt, das weiß ich im Augenblick nicht mehr so genau ... ;-), und Ihr bekommt die Game-Over-Musik, zusammen mit einem Hinweis, wo Ihr das "Experience-Egg" (Erfahrungs-Ei) finden könnt - es ist in einem Geheimraum im ersten Keller. Es ist ein Relikt, das Eure Erfahrungspunkte (für die Person, die es trägt) verdoppelt - wirklich ein geniales Item, das man sich nicht entgehen lassen sollte.
+Habt Ihr übrigens mal den Satz, so wie ich ihn Euch hier hinschreibe: ERAUQSSIDLROWEHT rückwärts gelesen? Nein ...? Dann tut es mal! :-) Die Frage ist natürlich, warum ich das nicht übersetzt habe. Naja, ich dachte mir, ich respektiere, daß sich der Hersteller von FF6 irgendwie im Spiel versteckt nennen mußte, und beließ es deshalb dabei!
+
+o GAU'S FATHER
+Da gibt's doch diesen seltsamen Kerl, der von allen Leuten glaubt, sie seien Klempner ... Er stellt sich als Gaus Vater heraus, wenn Ihr ihm mit Gau und Sabin in der Gruppe einen Besuch abstattet. In der World of Ruin sogar möchten die anderen Gau seinem Vater vorstellen. Wenn Ihr die Cut Scene in voller Länge genießen wollt, rate ich Euch zu zwei Dingen: 1. Ihr müßt zuvor alle Charaktere geholt haben bis auf Mog, Gogo, Umaro und Shadow, die braucht Ihr nicht unbedingt. 2. Die Gruppe, mit der Ihr zu Gaus Vater geht, sollte aus Gau, Sabin, Edgar und Locke bestehen - ansonsten verpaßt Ihr das Witzigste. Ganz wichtig: Gau muß der "Leader" der Gruppe sein (sprich, im Menü muß er an erster Stelle stehen, so daß Ihr ihn auf dem Bildschirm sehen könnt). Habt Ihr alle diese Vorkehrungen getroffen, fliegt zu Gaus Vaters Haus (östlich von Narshe - Ihr werdet's finden) und genießt die Szene ... ist was zum Lachen! :)
+
+o A MAN ...? A WOMAN ...? OR SHOULD WE ASK ...?
+Kennt Ihr das "Triangular Island", die dreieckige Insel ganz im Nordosten der World of Ruin? Dort gibt es ein seltsames Monster namens Zone Eater (Zonenfrssr). Er hat eine Attacke "Engulf" (Fressen), mit der er Eure Charaktere nacheinander verschlingen wird. Wenn Ihr eine schwache Gruppe habt, hilft nur davonlaufen. Seid Ihr jedoch stark, dann laßt Euch einmal alle fressen. Ihr landet in einer geheimen Höhle! An ihrem Ende findet Ihr den Secret Character Gogo ... schon gewußt? :)
+Übrigens ... Setzers Freundin Daryl (Darill) ist mit ihrem Luftschiff über der Dreiecksinsel abgestürzt. Könnte sie vom Zonenfresser verschlungen worden sein? Könnte sie gar Gogo sein ...? In dem Zusammenhang gibt's noch eine interessante Tatsache: Der Hügel, auf dem Setzer auf Daryl gewartet hat, nachdem sie zu den Sternen fliegen wollte, ist derselbe Hügel, von dem sich Celes ins Meer stürzen will (siehe CID'S HERITAGE). Könnte da irgendein Zusammenhang bestehen ...? Oder ist es bloß Squares Art, Platz im ROM zu sparen? Das gehört wohl zu den vielen Geheimnissen von FF6, die nie endgültig aufgedeckt werden werden ... ;-)
+
+
+UNSPIELBARE GEHEIMNISSE, TEXT- UND SONSTIGE HINWEISE
+====================================================
+
+o PALADIN'S CURSE
+Vielleicht wißt Ihr, das man das "Cursed Shield" ("Verfluchtes Schild") zum "Paladin Shield" zurückverwandeln kann, wenn man es in 255 Kämpfen trägt (zum Ausgleich der verheerenden Statusveränderungen solltet Ihr gleichzeitig das Relikt "Ribbon"/"Schleife" tragen!). Jetzt gibt es aber noch ein anderes Item, nämlich das Relikt "Cursed Ring" ("Verfluchter Ring"). Man könnte annehmen, daß hier das Prinzip genauso funktioniert. Leider ist das nicht der Fall. Einen "Paladin Ring" gibt es nicht! Ich habe aber gehört, daß Square in Vorversionen von FF6 (vor 1994) einen "Paladin Ring" geplant hatte. Wahrscheinlich wäre der Kämpfer damit einfach zu gut geworden, deshalb haben sie ihn später nicht mehr mit reingenommen ... :-/
+
+o FF3 DIRECTOR'S GUT :-)
+Wußtet Ihr, daß es in FF3 einige Texte gibt, die entweder gar nicht oder nur unter bestimmten Bedingungen angezeigt werden? Da wäre beispielsweise der Text:
+"Error! Contact a supervisor. From: Development Team."
+Was ich übersetzt habe mit:
+"Fehler! Admin. konsultieren. -Entwicklungsteam"
+Ich kenne FF3 nun wirklich gut, aber SO ETWAS habe ich noch nie gesehen! Ob es in FF3 so etwas wie einen "programmer's room" gibt wie in Chrono Trigger ...? Sicher nicht, denn dann hätte ich die Texte dazu ja gefunden ...
+Außerdem gibt es eine Stelle, die SquareSoft herausgeschnitten hat. Sie erscheint bei der großen Beratung mit Banon im Returner's Hideout ("Löwen"-Versteck). Euch ist sicher aufgefallen, daß Banon ganz kurz erschrickt, als Edgar sagt, daß MagiTeks nur mit MagiTeks bekämpft werden können. Im ROM stehen noch zwei, drei Sätze danach, die allerdings nicht angezeigt werden. Und zwar sagt Banon, daß genau SO der "war of the Magi" begann, und Edgar fragt, was denn zu tun wäre. Darauf sagt Banon, daß sie mit einem Esper sprechen müssen. In meinem Bugfix Patch UND in meiner Übersetzung habe ich diese Texte selbstverständlich wieder integriert! :)
+Allerdings ging das nicht bei Texten, die einfach im Spiel nicht mehr vorkommen. Auch im Löwen-Versteck gibt es z. B. eine Szene, die offensichtlich entfernt wurde; Banon fragt nach einem Papierfetzen, der irgendwo herumliegt, wem er gehört usw., und der Spieler kann sogar auswählen, was mit dem Papier geschehen soll. Wenn irgend jemand Genaueres weiß (ob diese Szene vielleicht doch spielbar ist), laßt es mich bitte wissen.
+Weiterhin sagt Terra ganz am Anfang, als Kefka ihr die Sklavenkrone aufsetzen will: "No! Get away from me!"/"Nein! Geh weg von mir!" Aber der Text wurde komplett aus dem Spielprogramm entfernt, so daß ich ihn nicht mehr mit hineinnehmen kann ... Von dieser Sorte Text gibt es einige; auch in Figaro Süd sagt ein Kerl, daß er lieber versteckt bleiben möchte, und am Ende des Spieles gibt es seltsame Hinweise auf eine fragwürdige Beziehung zwischen Edgar und Relm, die ebenfalls herausgeschnitten wurden. Tja ...
+
+o THOUGHT OF CHANGING MY NAME ...
+Verrückterweise gibt es einige Charaktere in FF6, die gar nicht vorkommen! Im ROM sind die Namen aller Charaktere (Terra, Locke usw., aber auch Kefka, Wedge, Vicks/Biggs und Maduin/MaelDuin) an einer bestimmten Stelle hintereinander abgespeichert. Dahinter stehen noch mehr Namen! Hier habe ich sie notiert:
+  Tork           Jade
+  Custer         Fabian
+  Drake          Sara
+  Case           Siele
+  Ray            Reiker
+  Lance          Bob
+  Pepper         Tau
+  Victor         Ho
+Tja, klingen wie eine Zukunftsvision der Hauptpersonen von Final Fantasy XX, was? Oder Suikoden XI! :-) Diese Namen kommen übrigens sonst nirgendwo im ROM mehr vor. Hat Square ursprünglich vorgehabt, noch mehr Helden bei FF3 mitspielen zu lassen? Oder sind es NPCs (nicht-spielbare Charaktere), die SquareSoft später entfernt hat, weil es einfach zu viele waren? Oder vielleicht sogar spezielle Charaktere, die das Entwicklerteam beim Testen benötigte? Fragen über Fragen, die wohl nie ganz geklärt werden können.
+
+*
+
+Ein herzlicher Dank geht an The Mynock und an RabiteMan für einige der "spielbaren" Geheimnisse von FF6 (Bankett-Punktsystem, Cid)!
+
+-----------------------------------------------------------------------------
+| © 2000-2012 by ManuLöwe (Manuel Charisius)   |   http://www.manuloewe.de/ |
+-----------------------------------------------------------------------------
