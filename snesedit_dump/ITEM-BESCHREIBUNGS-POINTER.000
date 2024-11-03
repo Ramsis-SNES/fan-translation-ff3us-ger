@@ -1,0 +1,767 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - ITEM-BESCHREIBUNGS-POINTER]
+TBL   [3-E:\Spiele\temp\Ff3dt.SE\ff3menu.tbl]
+Start [002D6600h]
+Size  [0000137Ah][000017B4h][2]
+pStart[002D7CA2h]
+pFirst[0000h-253]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+(END)
+
+[>Pointer 2<]
+Weicht gegn. Angriff(ABS)
+zufällig aus(END)
+
+[>Pointer 3<]
+Element: Wind(END)
+
+[>Pointer 4<]
+Stiehlt Gegner Item(ABS)
+(zufällig)(END)
+
+[>Pointer 5<]
+Vernichtet Gegner (zufällig)(END)
+
+[>Pointer 6<]
+Verdoppelt Schaden bei(ABS)
+Menschen(END)
+
+[>Pointer 7<]
+Weicht gegn. Angriff(ABS)
+zufällig aus(END)
+
+[>Pointer 8<]
+Element: Heilig(END)
+
+[>Pointer 9<]
+Wird mit weniger HP stärker(END)
+
+[>Pointer 10<]
+
+[>Pointer 11<]
+(END)
+
+[>Pointer 12<]
+Verbraucht MP für tödl.(ABS)
+Treffer(END)
+
+[>Pointer 13<]
+"Feuer''-Zauber (zufällig)(END)
+
+[>Pointer 14<]
+"Eis''-Zauber (zufällig)(END)
+
+[>Pointer 15<]
+"Blitz''-Zauber (zufällig)(END)
+
+[>Pointer 16<]
+(END)
+
+[>Pointer 17<]
+"Pause''-Zauber (zufällig)(END)
+
+[>Pointer 18<]
+Absorbiert Schaden als HP(END)
+
+[>Pointer 19<]
+Mehr M-Kraft(END)
+
+[>Pointer 20<]
+
+[>Pointer 21<]
+(END)
+
+[>Pointer 22<]
+Absorbiert Schaden als MP(ABS)
+"Fluch''-Zauber (zuf.)(END)
+
+[>Pointer 23<]
+Bewirkt mit MP tödl. Treffer(ABS)
+Kann zerbrechen(END)
+
+[>Pointer 24<]
+Element "Heilig''(END)
+
+[>Pointer 25<]
+Zerhackt Gegner (zuf.)(END)
+
+[>Pointer 26<]
+Ein legendäres Schwert(END)
+
+[>Pointer 27<]
+"Lodern''-Zauber (zufällig)(END)
+
+[>Pointer 28<]
+Wandelt sich bei Level-up,(ABS)
+wird mit mehr HP stärker(END)
+
+[>Pointer 29<]
+
+[>Pointer 30<]
+
+[>Pointer 31<]
+
+[>Pointer 32<]
+(END)
+
+[>Pointer 33<]
+"Heilig''-Zauber (zufällig)(END)
+
+[>Pointer 34<]
+
+[>Pointer 35<]
+(END)
+
+[>Pointer 36<]
+??? wenn gerade ein Imp(END)
+
+[>Pointer 37<]
+
+[>Pointer 38<]
+
+[>Pointer 39<]
+
+[>Pointer 40<]
+(END)
+
+[>Pointer 41<]
+Vernichtet Gegner (zufällig)(END)
+
+[>Pointer 42<]
+"Stop''-Zauber (zuf.)(END)
+
+[>Pointer 43<]
+
+[>Pointer 44<]
+
+[>Pointer 45<]
+(END)
+
+[>Pointer 46<]
+Bewirkt "Windstoß'' (zuf.)(END)
+
+[>Pointer 47<]
+
+[>Pointer 48<]
+
+[>Pointer 49<]
+
+[>Pointer 50<]
+(END)
+
+[>Pointer 51<]
+Füllt HP des Ziels(END)
+
+[>Pointer 52<]
+(END)
+
+[>Pointer 53<]
+Bewirkt "Feuer2''-Zauber und(ABS)
+zerbricht (als Item)(END)
+
+[>Pointer 54<]
+Bewirkt "Eis 2''-Zauber und(ABS)
+zerbricht (als Item)(END)
+
+[>Pointer 55<]
+Bewirkt "Blitz2''-Zauber und(ABS)
+zerbricht (als Item)(END)
+
+[>Pointer 56<]
+Bewirkt "Gift''-Zauber und(ABS)
+zerbricht (als Item)(END)
+
+[>Pointer 57<]
+Bewirkt "Heilig''-Zauber und(ABS)
+zerbricht (als Item)(END)
+
+[>Pointer 58<]
+Bewirkt "Quartr''-Zauber und(ABS)
+zerbricht (als Item)(END)
+
+[>Pointer 59<]
+Bewirkt mit MP tödl. Treffer(END)
+
+[>Pointer 60<]
+Mehr M-Kraft(END)
+
+[>Pointer 61<]
+
+[>Pointer 62<]
+
+[>Pointer 63<]
+
+[>Pointer 64<]
+(END)
+
+[>Pointer 65<]
+Mit Befehl "Werfen'' verw.(END)
+
+[>Pointer 66<]
+Mit Befehl "Werfen'' verw.(END)
+
+[>Pointer 67<]
+Mit Befehl "Werfen'' verw.(END)
+
+[>Pointer 68<]
+Gleiche Kraft in hinterer Reihe(END)
+
+[>Pointer 69<]
+Gleiche Kraft in hinterer Reihe(END)
+
+[>Pointer 70<]
+Gleiche Kraft in hinterer Reihe(END)
+
+[>Pointer 71<]
+
+[>Pointer 72<]
+
+[>Pointer 73<]
+Gleiche Kraft in hinterer Reihe(END)
+
+[>Pointer 74<]
+Kunstvoll geschnitzt(END)
+
+[>Pointer 75<]
+Gleiche Kraft in hinterer Reihe(END)
+
+[>Pointer 76<]
+Gleiche Kraft in hinterer Reihe,(ABS)
+schlägt zuf. vernichtend zu    (END)
+
+[>Pointer 77<]
+
+[>Pointer 78<]
+(END)
+
+[>Pointer 79<]
+"Fluch''-Zauber (zufällig)(END)
+
+[>Pointer 80<]
+Vernichtet Gegner (zufällig)(END)
+
+[>Pointer 81<]
+
+[>Pointer 82<]
+
+[>Pointer 83<]
+
+[>Pointer 84<]
+
+[>Pointer 85<]
+(END)
+
+[>Pointer 86<]
+Vergiftet Gegner (zufällig)(END)
+
+[>Pointer 87<]
+"Feuer''-Zauber (zufällig)(END)
+
+[>Pointer 88<]
+Element: Heilig(END)
+
+[>Pointer 89<]
+
+[>Pointer 90<]
+
+[>Pointer 91<]
+
+[>Pointer 92<]
+
+[>Pointer 93<]
+(END)
+
+[>Pointer 94<]
+Weicht Magieangriff zufällig(ABS)
+aus(END)
+
+[>Pointer 95<]
+(END)
+
+[>Pointer 96<]
+Absorbiert "Feuer''-Angriffe(END)
+
+[>Pointer 97<]
+Absorbiert "Eis''-Angriffe(END)
+
+[>Pointer 98<]
+Absorbiert "Blitz''-Angriffe(END)
+
+[>Pointer 99<]
+
+[>Pointer 100<]
+(END)
+
+[>Pointer 101<]
+??? wenn gerade ein Imp(END)
+
+[>Pointer 102<]
+Ist verflucht(END)
+
+[>Pointer 103<]
+Beinhaltet Seele eines Helden(END)
+
+[>Pointer 104<]
+Schützt gegen Magieangriffe(END)
+
+[>Pointer 105<]
+
+[>Pointer 106<]
+
+[>Pointer 107<]
+(END)
+
+[>Pointer 108<]
+Erhöht Erfolgsquote von(ABS)
+"Porträt''(END)
+
+[>Pointer 109<]
+
+[>Pointer 110<]
+
+[>Pointer 111<]
+(END)
+
+[>Pointer 112<]
+Erhöht Erfolgsquote von(ABS)
+"Kontrolle''(END)
+
+[>Pointer 113<]
+Erhöht geringfügig MP(END)
+
+[>Pointer 114<]
+Erhöht geringfügig HP(END)
+
+[>Pointer 115<]
+
+[>Pointer 116<]
+
+[>Pointer 117<]
+
+[>Pointer 118<]
+
+[>Pointer 119<]
+(END)
+
+[>Pointer 120<]
+Erhöht HP um 1/4(END)
+
+[>Pointer 121<]
+
+[>Pointer 122<]
+
+[>Pointer 123<]
+
+[>Pointer 124<]
+
+[>Pointer 125<]
+
+[>Pointer 126<]
+
+[>Pointer 127<]
+(END)
+
+[>Pointer 128<]
+Sammelt möglichst viele GS(END)
+
+[>Pointer 129<]
+(END)
+
+[>Pointer 130<]
+Dornen bewirken Schmerz(END)
+
+[>Pointer 131<]
+??? wenn gerade ein Imp(END)
+
+[>Pointer 132<]
+
+[>Pointer 133<]
+
+[>Pointer 134<]
+
+[>Pointer 135<]
+
+[>Pointer 136<]
+
+[>Pointer 137<]
+
+[>Pointer 138<]
+
+[>Pointer 139<]
+
+[>Pointer 140<]
+(END)
+
+[>Pointer 141<]
+Absorbiert erdbasierte(ABS)
+Angriffe(END)
+
+[>Pointer 142<]
+Schafft Trugbild des Trägers(END)
+
+[>Pointer 143<]
+
+[>Pointer 144<]
+
+[>Pointer 145<]
+
+[>Pointer 146<]
+(END)
+
+[>Pointer 147<]
+Beinhaltet Geist eines (ABS)
+legendären Ringers(END)
+
+[>Pointer 148<]
+Mehr MVertd.(END)
+
+[>Pointer 149<]
+
+[>Pointer 150<]
+
+[>Pointer 151<]
+
+[>Pointer 152<]
+
+[>Pointer 153<]
+
+[>Pointer 154<]
+(END)
+
+[>Pointer 155<]
+??? wenn gerade ein Imp(END)
+
+[>Pointer 156<]
+Erhöht MP um 1/4(END)
+
+[>Pointer 157<]
+Erinnert an getigerte Katze(END)
+
+[>Pointer 158<]
+Der Chocobo in uns...(END)
+
+[>Pointer 159<]
+Ein Moglie sein! Kupo!(END)
+
+[>Pointer 160<]
+Eichhörnchenkostüm(END)
+
+[>Pointer 161<]
+Aus Moloch-Leder(END)
+
+[>Pointer 162<]
+Wie behaglich!(END)
+
+[>Pointer 163<]
+Verwirrt mehrere Gegner(ABS)
+(Befehl "Geräte'') (END)
+
+[>Pointer 164<]
+Vergiftet mehrere Gegner(ABS)
+(Befehl "Geräte'') (END)
+
+[>Pointer 165<]
+Blendet mehrere Gegner(ABS)
+(Befehl "Geräte'') (END)
+
+[>Pointer 166<]
+Vernichtet Gegner zufällig   (ABS)
+(Befehl "Geräte'') (END)
+
+[>Pointer 167<]
+Sucht nach Schwachpunkt(ABS)
+(Befehl "Geräte'') (END)
+
+[>Pointer 168<]
+Durchbricht gegn. Verteidigung(ABS)
+(Befehl "Geräte'') (END)
+
+[>Pointer 169<]
+Gegner wird autodestruktiv(ABS)
+(Befehl "Geräte'')             (END)
+
+[>Pointer 170<]
+Trifft mehrere Gegner(ABS)
+(Befehl "Geräte'')          (END)
+
+[>Pointer 171<]
+Feuer-Angriff (mehrere), mit(ABS)
+Befehl "Werfen'' verwenden(END)
+
+[>Pointer 172<]
+Wasser-Angriff (mehrere), mit(ABS)
+Befehl "Werfen'' verwenden(END)
+
+[>Pointer 173<]
+Blitz-Angriff (mehrere), mit(ABS)
+Befehl "Werfen'' verwenden(END)
+
+[>Pointer 174<]
+Macht Werfer durchsichtig, mit(ABS)
+Befehl "Werfen'' verwenden(END)
+
+[>Pointer 175<]
+Schafft Trugbild des Werfers,(ABS)
+mit Befehl "Werfen'' verw.    (END)
+
+[>Pointer 176<]
+Schützt gegen "Blind''(END)
+
+[>Pointer 177<]
+Schützt gegen "Gift''(END)
+
+[>Pointer 178<]
+Schützt gegen "Toben'',(ABS)
+"Verwirrt''(END)
+
+[>Pointer 179<]
+Schützt gegen "Gift'',(ABS)
+"Blind'', "Zombie''(END)
+
+[>Pointer 180<]
+Schützt gegen "Imp'', "Stumm''(END)
+
+[>Pointer 181<]
+Schützt gegen "Stein''(ABS)
+        (END)
+
+[>Pointer 182<]
+Schützt gegen "Gift'',(ABS)
+"Blind''(END)
+
+[>Pointer 183<]
+"MSchutz''-Zauber bei wenig HP(END)
+
+[>Pointer 184<]
+"ASchutz''-Zauber bei wenig HP(END)
+
+[>Pointer 185<]
+"ASchutz''-Zauber (END)
+
+[>Pointer 186<]
+"Hast''-Zauber(END)
+
+[>Pointer 187<]
+"Rflekt''-Zauber(END)
+
+[>Pointer 188<]
+"Schwebe''-Zauber(END)
+
+[>Pointer 189<]
+"Regen''-Zauber(END)
+
+[>Pointer 190<]
+Schützt Gruppenmitglieder(ABS)
+mit wenig HP(END)
+
+[>Pointer 191<]
+Ändert "Kampf'' in "Sprung''(END)
+
+[>Pointer 192<]
+Ermöglicht leichteres(ABS)
+Ausweichen(END)
+
+[>Pointer 193<]
+"ASchutz''- und "MSchutz''-(ABS)
+Zauber bei wenig HP(END)
+
+[>Pointer 194<]
+Ist verflucht(END)
+
+[>Pointer 195<]
+Erhöht Magie-Effekt(ABS)
+(doppelt noch wirksamer)(END)
+
+[>Pointer 196<]
+Erhöht Kampfkraft(END)
+
+[>Pointer 197<]
+
+[>Pointer 198<]
+Für ein Pelzwesen...(END)
+
+[>Pointer 199<]
+Erhöht Erfolgsquote von(ABS)
+"Stehlen''(END)
+
+[>Pointer 200<]
+"ASchutz''- und "MSchutz''-(ABS)
+Zauber(END)
+
+[>Pointer 201<]
+Erhöht magische und(ABS)
+Kampfkraft(END)
+
+[>Pointer 202<]
+Verhindert Statusänderungen(END)
+
+[>Pointer 203<]
+Erhöht HP um 1/2(END)
+
+[>Pointer 204<]
+Erhöht MP um 1/2(END)
+
+[>Pointer 205<]
+Halbiert MP-Verbrauch(END)
+
+[>Pointer 206<]
+Nur 1 MP wird verbraucht(END)
+
+[>Pointer 207<]
+Ändert "Stehlen'' in "übrfall''(END)
+
+[>Pointer 208<]
+Eine Waffe kann mit zwei(ABS)
+Händen gehalten werden(END)
+
+[>Pointer 209<]
+Jede Hand kann eine eigene(ABS)
+Waffe halten(END)
+
+[>Pointer 210<]
+Erhöht "Stärke''(END)
+
+[>Pointer 211<]
+Ändert "Kampf'' in "X Kampf''(END)
+
+[>Pointer 212<]
+Weicht zufällig Angriffen aus(END)
+
+[>Pointer 213<]
+Ermöglicht zufälligen   (ABS)
+Gegenangriff(END)
+
+[>Pointer 214<]
+Ändert "Spielen'' in "GSRegen''(END)
+
+[>Pointer 215<]
+Ändert "Porträt'' in "Kontrolle''(END)
+
+[>Pointer 216<]
+Ändert "Magie'' in "X Magie''(END)
+
+[>Pointer 217<]
+"Sprung'' wird dauerhaft(END)
+
+[>Pointer 218<]
+Schwere Rüstungen etc.(ABS)
+dürfen benutzt werden(END)
+
+[>Pointer 219<]
+Mutterliebe schützt vor(ABS)
+tödlichen Magieangriffen(END)
+
+[>Pointer 220<]
+Schützt vor tödlichen(ABS)
+Magieangriffen(END)
+
+[>Pointer 221<]
+Macht Körper kalt(END)
+
+[>Pointer 222<]
+Keine zufälligen Kämpfe(END)
+
+[>Pointer 223<]
+Weniger zufällige Kämpfe(END)
+
+[>Pointer 224<]
+Wirkt sich vielfältig aus(END)
+
+[>Pointer 225<]
+Unterdrückt Hinterhalte und(ABS)
+Umzingeln durch Gegner(END)
+
+[>Pointer 226<]
+Erhöht Rate der Frontal-(ABS)
+angriffe(END)
+
+[>Pointer 227<]
+"Kampf'' trifft Gegner 100%ig(END)
+
+[>Pointer 228<]
+Verdoppelt Erfahrungspunkte(END)
+
+[>Pointer 229<]
+Füllt HP mit jedem Schritt(END)
+
+[>Pointer 230<]
+Ermöglicht Dauerlauf(END)
+
+[>Pointer 231<]
+Geheimes Item(END)
+
+[>Pointer 232<]
+Füllt 50 HP(END)
+
+[>Pointer 233<]
+Füllt 250 HP (END)
+
+[>Pointer 234<]
+Füllt HP komplett  (END)
+
+[>Pointer 235<]
+Füllt 50 MP(END)
+
+[>Pointer 236<]
+Füllt 150 MP(END)
+
+[>Pointer 237<]
+Füllt MP komplett(END)
+
+[>Pointer 238<]
+Füllt HP/MP komplett(END)
+
+[>Pointer 239<]
+Füllt HP/MP der Gruppe(ABS)
+komplett  (END)
+
+[>Pointer 240<]
+Heilt Verwundungen(END)
+
+[>Pointer 241<]
+Heilt Status "Zombie''(END)
+
+[>Pointer 242<]
+Heilt Status "Gift''(END)
+
+[>Pointer 243<]
+Heilt Status "Blind''(END)
+
+[>Pointer 244<]
+Heilt Status "Stein''(END)
+
+[>Pointer 245<]
+Heilt jeden Status,(ABS)
+"Zombie'' ausgenommen(END)
+
+[>Pointer 246<]
+Füllt HP/MP komplett(END)
+
+[>Pointer 247<]
+Füllt HP/MP der Gruppe(ABS)
+komplett(END)
+
+[>Pointer 248<]
+Heilt Status "Imp''(END)
+
+[>Pointer 249<]
+Ruft zufälligen Esper auf(END)
+
+[>Pointer 250<]
+Dopsender Angriff(END)
+
+[>Pointer 251<]
+Heilt Status "Stumm''(END)
+
+[>Pointer 252<]
+Läßt Gruppe aus Kampf fliehen(END)
+
+[>Pointer 253<]
+Gleicher Effekt wie "Warp''(END)
+
+
+[>DUMP END<]----------------------------------------------------------

@@ -1,0 +1,760 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - KAMPFDIALOG-POINTER PART 2]
+TBL   [3-E:\Spiele\temp\Ff3dt.SE\ff3menu.tbl]
+Start [000FE3E0h]
+Size  [00001256h][00001BF9h][2]
+pStart[000FE1E0h]
+pFirst[E1E0h-141]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Systemfehler!(KNOPF)
+(END)
+
+[>Pointer 2<]
+Ultros wurde transformiert!(KNOPF)
+(ABS)
+Achtung: 3-Elemente-Angriff!!! (KNOPF)
+(END)
+
+[>Pointer 3<]
+Weg da!(KNOPF)
+(ABS)
+Ich zerstampf' euch! (KNOPF)
+(END)
+
+[>Pointer 4<]
+Gibt's das...?(KNOPF)
+(ABS)
+Ich bin...unbesiegbar!(KNOPF)
+(END)
+
+[>Pointer 5<]
+Was ein Unglückstag!(KNOPF)
+(ABS)
+Adios!(KNOPF)
+(END)
+
+[>Pointer 6<]
+Gruuu......(KNOPF)
+(END)
+
+[>Pointer 7<]
+Dadaluma pfeift!  (KNOPF)
+(END)
+
+[>Pointer 8<]
+Belebt...(KNOPF)
+(END)
+
+[>Pointer 9<]
+Oh...hohh!!(KNOPF)
+(END)
+
+[>Pointer 10<]
+Das ist alles, Freunde!(KNOPF)
+(END)
+
+[>Pointer 11<]
+Na los doch.(KNOPF)
+(ABS)
+Was ist denn? (KNOPF)
+(END)
+
+[>Pointer 12<]
+Jiauutsch!(KNOPF)
+(ABS)
+Muschelsuppe!(KNOPF)
+(END)
+
+[>Pointer 13<]
+Chi, hi, hi...!(KNOPF)
+(ABS)
+Ende der Fahrt!(KNOPF)
+(ABS)
+Nicht den Oktopus reizen!(KNOPF)
+(END)
+
+[>Pointer 14<]
+Ein Leckerbissen!(KNOPF)
+(ABS)
+Wo ist mein Latz!? (KNOPF)
+(END)
+
+[>Pointer 15<]
+Ich hasse Muskelhelden!(KNOPF)
+(END)
+
+[>Pointer 16<]
+Zyklon-Angriff(KNOPF)
+(END)
+
+[>Pointer 17<]
+Stiehlt GS!   (KNOPF)
+(END)
+
+[>Pointer 18<]
+Chuuhh......!(KNOPF)
+(END)
+
+[>Pointer 19<]
+Puh!...(KNOPF)
+(ABS)
+Das macht müde!(KNOPF)
+(END)
+
+[>Pointer 20<]
+Lange nicht gesehen!(KNOPF)
+(ABS)
+Ihr seid gewachsen!(KNOPF)
+(ABS)
+Süß!    (KNOPF)
+(END)
+
+[>Pointer 21<]
+Pa, (KNOPF)
+pai, (KNOPF)
+Autsch!(KNOPF)
+(END)
+
+[>Pointer 22<]
+Ihr habt nicht gewonnen.(KNOPF)
+(ABS)
+Bis bald!(KNOPF)
+(END)
+
+[>Pointer 23<]
+Hier! Hierher!  (KNOPF)
+(END)
+
+[>Pointer 24<]
+Spaßig?(KNOPF)
+(END)
+
+[>Pointer 25<]
+Habt ihr's gelesen? (KNOPF)
+(END)
+
+[>Pointer 26<]
+Ich bin kein...(KNOPF)
+(ABS)
+gewöhnlicher Oktopus!(KNOPF)
+(END)
+
+[>Pointer 27<]
+Wie süß er ist! (KNOPF)
+(END)
+
+[>Pointer 28<]
+Wer seid Ihr?(KNOPF)
+(END)
+
+[>Pointer 29<]
+Ich spüre Freundlichkeit...(KNOPF)
+(END)
+
+[>Pointer 30<]
+Ihr habt Ramas Kraft...!?(KNOPF)
+(ABS)
+Halt! Wir sind...Esper...  (KNOPF)
+(END)
+
+[>Pointer 31<]
+Ich kann noch nicht...    (KNOPF)
+(END)
+
+[>Pointer 32<]
+Kräne schütteln das Deck!(KNOPF)
+(END)
+
+[>Pointer 33<]
+Bugobo......(KNOPF)
+(ABS)
+Chuaah!!(KNOPF)
+(END)
+
+[>Pointer 34<]
+Chuuhh!!(KNOPF)
+(END)
+
+[>Pointer 35<]
+LuftWaffe benutzt Funken.(KNOPF)
+(ABS)
+Funke absorbiert Magie! (KNOPF)
+(END)
+
+[>Pointer 36<]
+Ooh...ich Hunger!(KNOPF)
+(END)
+
+[>Pointer 37<]
+Uwauh, ahu!(KNOPF)
+ Ich Gau!(KNOPF)
+(ABS)
+Ich euer Freund!(KNOPF)
+(ABS)
+Ich euch begleiten!(KNOPF)
+(END)
+
+[>Pointer 38<]
+Von Hidon absorbiert!(KNOPF)
+(END)
+
+[>Pointer 39<]
+Elektr. Energie frei!     (KNOPF)
+(END)
+
+[>Pointer 40<]
+Du verdammter Dieb!(KNOPF)
+(ABS)
+Dir werde ich's zeigen!(KNOPF)
+(END)
+
+[>Pointer 41<]
+Chuuhh!!(KNOPF)
+(END)
+
+[>Pointer 42<]
+Gegner nutzt Kampftech. A(END)
+
+[>Pointer 43<]
+Gegner nutzt Kampftech. B(END)
+
+[>Pointer 44<]
+Gegner nutzt Kampftech. C (END)
+
+[>Pointer 45<]
+Elektrisiert LV 1(END)
+
+[>Pointer 46<]
+Elektrisiert LV 2(END)
+
+[>Pointer 47<]
+Nichts!(KNOPF)
+(END)
+
+[>Pointer 48<]
+Nichts!(KNOPF)
+(END)
+
+[>Pointer 49<]
+Kein Durchkommen!!!(KNOPF)
+(END)
+
+[>Pointer 50<]
+Elektrisiert LV 3(END)
+
+[>Pointer 51<]
+Wärmeenergie freigesetzt!(KNOPF)
+(END)
+
+[>Pointer 52<]
+Hitzequelle LV 1(END)
+
+[>Pointer 53<]
+Wellenkanone! Countdown!(KNOPF)
+(ABS)
+Läuft... 10(KNOPF)
+(END)
+
+[>Pointer 54<]
+Läuft... 9(KNOPF)
+(END)
+
+[>Pointer 55<]
+Läuft... 8(KNOPF)
+(END)
+
+[>Pointer 56<]
+Läuft... 7(KNOPF)
+(END)
+
+[>Pointer 57<]
+Läuft... 6(KNOPF)
+(END)
+
+[>Pointer 58<]
+Läuft... 5(KNOPF)
+(END)
+
+[>Pointer 59<]
+Läuft... 4(KNOPF)
+(END)
+
+[>Pointer 60<]
+Läuft... 3(KNOPF)
+(END)
+
+[>Pointer 61<]
+Läuft... 2(KNOPF)
+(END)
+
+[>Pointer 62<]
+Todesblick wurde geheilt! (KNOPF)
+(ABS)
+Eis-Angriff wurde wiederhergestellt!(KNOPF)
+(END)
+
+[>Pointer 63<]
+Chuuh!(END)
+
+[>Pointer 64<]
+Todesblick wurde blind!(KNOPF)
+(ABS)
+"Fluch'' wirkt nicht!(KNOPF)
+(END)
+
+[>Pointer 65<]
+Todesblick wurde stumm!(KNOPF)
+(ABS)
+Kann Eis-Angriff nicht benutzen!(KNOPF)
+(END)
+
+[>Pointer 66<]
+Todesblick verlor Giftklaue!(KNOPF)
+(ABS)
+Kann "Gift'' nicht benutzen!(KNOPF)
+(END)
+
+[>Pointer 67<]
+GENUG!!!(KNOPF)
+(ABS)
+Fort mit euch!!!(KNOPF)
+(END)
+
+[>Pointer 68<]
+Komm schon, Sabin!(KNOPF)
+(ABS)
+Kein Zurück mehr!! (KNOPF)
+(END)
+
+[>Pointer 69<]
+Alarm schrillt!!(KNOPF)
+(END)
+
+[>Pointer 70<]
+Läuft... 1(KNOPF)
+(END)
+
+[>Pointer 71<]
+Hitzequelle LV 2(END)
+
+[>Pointer 72<]
+Hitzequelle LV 3(END)
+
+[>Pointer 73<]
+Todesblick wurde geheilt!(KNOPF)
+(ABS)
+"Fluch'' wiederhergestellt!(KNOPF)
+(END)
+
+[>Pointer 74<]
+A-Kraft (mal)
+ 100! (KNOPF)
+(ABS)
+AVertd. (O)
+ (KNOPF)
+(ABS)
+MVertd. (O)
+ (KNOPF)
+(ABS)
+Tempo (O)
+ (KNOPF)
+(ABS)
+Ausdauer (O)
+ (KNOPF)
+(END)
+
+[>Pointer 75<]
+Hidonit wird zu Hidon.   (KNOPF)
+(END)
+
+[>Pointer 76<]
+Schaut!(KNOPF)
+(ABS)
+Das Tor öffnet sich!!!  (KNOPF)
+(END)
+
+[>Pointer 77<]
+Hua, ha ha...(KNOPF)
+(ABS)
+Menschen und ihre Wünsche!(KNOPF)
+(ABS)
+Endlich frei!!  (KNOPF)
+(ABS)
+Ich bringe Zerstörung...  (KNOPF)
+(ABS)
+Ich bringe Terror... (KNOPF)
+(ABS)
+Ich bin Drache Zar...(KNOPF)
+(ABS)
+Seid bereit!(KNOPF)
+(END)
+
+[>Pointer 78<]
+I...ich hab' Angst!(KNOPF)
+(END)
+
+[>Pointer 79<]
+Bin ich etwa eine Nervensäge?(KNOPF)
+(ABS)
+Chihihihi!(KNOPF)
+ 'Tschuldigt!(KNOPF)
+(END)
+
+[>Pointer 80<]
+Hab gerade an euch gedacht! (KNOPF)
+(ABS)
+Ich habe mehr Leben als Arme!(KNOPF)
+(END)
+
+[>Pointer 81<]
+Wie kann das sein?(KNOPF)
+(ABS)
+Ich bin nur ein dummer... (KNOPF)
+(ABS)
+...Oktopus!(KNOPF)
+(END)
+
+[>Pointer 82<]
+Nein, wirklich,(KNOPF)
+(ABS)
+dies ist unser LETZTER Kampf!        (KNOPF)
+(END)
+
+[>Pointer 83<]
+Ultros:(KNOPF)
+(ABS)
+Reizt ihn lieber nicht! (KNOPF)
+(ABS)
+Sonst wird er nämlich(KNOPF)
+(ABS)
+hungrig...(KNOPF)
+(END)
+
+[>Pointer 84<]
+Ultros:(KNOPF)
+(ABS)
+Schon wieder verloren!(KNOPF)
+(ABS)
+Aber heute hilft mir jemand!(KNOPF)
+(ABS)
+Mr. Chupon! Komm runter!(KNOPF)
+(END)
+
+[>Pointer 85<]
+Ultros:(KNOPF)
+(ABS)
+Mr. Chupon ist schweigsam,(KNOPF)
+(ABS)
+aber furchtbar stark!(KNOPF)
+(END)
+
+[>Pointer 86<]
+Meine Mission...(END)
+
+[>Pointer 87<]
+Ultros:(KNOPF)
+(ABS)
+Ich habe gedöst,(KNOPF)
+(ABS)
+als Mr. Chupon an meinem(KNOPF)
+(ABS)
+Kopf nagte!(KNOPF)
+(ABS)
+Er brauchte etwas,(KNOPF)
+(ABS)
+um seine Zähne zu polieren!   (KNOPF)
+(END)
+
+[>Pointer 88<]
+Chupon:(KNOPF)
+(ABS)
+Fungahhh!(KNOPF)
+(END)
+
+[>Pointer 89<]
+Ein Reisegefährte!(KNOPF)
+(END)
+
+[>Pointer 90<]
+Jemand hat sich für mich(KNOPF)
+(ABS)
+ausgegeben und Schätze(KNOPF)
+(ABS)
+geraubt!(KNOPF)
+(ABS)
+Laßt Euch nicht hereinlegen!(KNOPF)
+(ABS)
+Selbstlose Leute(KNOPF)
+(ABS)
+sollen belohnt werden.(KNOPF)
+(ABS)
+Fangen wir an!(KNOPF)
+(END)
+
+[>Pointer 91<]
+Effekt "Rflekt'' verschwunden(END)
+
+[>Pointer 92<]
+Moe ist geflohen.(KNOPF)
+(END)
+
+[>Pointer 93<]
+Solche...Kraft!(KNOPF)
+ Cyan...(KNOPF)
+(ABS)
+Unfaßbar......(KNOPF)
+(END)
+
+[>Pointer 94<]
+Los,(KNOPF)
+ ihr!(KNOPF)
+(ABS)
+[>Pointer 95<]
+Hahaha!!(KNOPF)
+(ABS)
+Gebt ihr auf?(KNOPF)
+(END)
+
+[>Pointer 96<]
+Dämon:(KNOPF)
+(ABS)
+Das Mädchen in dem Bild(KNOPF)
+(ABS)
+gehört mir! Nicht euch!!!   (KNOPF)
+(END)
+
+[>Pointer 97<]
+Was ist los? (KNOPF)
+(ABS)
+Du siehst krank aus.(KNOPF)
+(ABS)
+Soll ich helfen?(KNOPF)
+(END)
+
+[>Pointer 98<]
+Er kommt...(KNOPF)
+(ABS)
+...um uns zu kontrollieren!(KNOPF)
+(END)
+
+[>Pointer 99<]
+Imp! Kumpel!(KNOPF)
+(END)
+
+[>Pointer 100<]
+KatanaSeel hat mehr Kraft!(KNOPF)
+(END)
+
+[>Pointer 101<]
+Moe kam zurück. (KNOPF)
+(END)
+
+[>Pointer 102<]
+Gewaltige Energie gebündelt!(KNOPF)
+(END)
+
+[>Pointer 103<]
+Buahaha...(KNOPF)
+ Kein Entkommen!(KNOPF)
+(END)
+
+[>Pointer 104<]
+Wellenkanone! Countdown!(KNOPF)
+(ABS)
+3!(KNOPF)
+(END)
+
+[>Pointer 105<]
+Basisprogramm gestartet!(KNOPF)
+(END)
+
+[>Pointer 106<]
+Gegn. Angriffe summieren sich! (KNOPF)
+(END)
+
+[>Pointer 107<]
+Eisdrache rief seinen Freund... (KNOPF)
+(ABS)
+Schädeldrache!(KNOPF)
+(END)
+
+[>Pointer 108<]
+Sturmdrache rief seinen Freund...(KNOPF)
+(ABS)
+Ekeldrache!(KNOPF)
+(END)
+
+[>Pointer 109<]
+Ekeldrache rief seinen Freund...(KNOPF)
+(ABS)
+Golddrache!    (KNOPF)
+(END)
+
+[>Pointer 110<]
+Golddrache rief seinen Freund...(KNOPF)
+(ABS)
+Strumdrache!    (KNOPF)
+(END)
+
+[>Pointer 111<]
+Schädeldrache rief seinen Freund...(KNOPF)
+(ABS)
+Blauer Drache! (KNOPF)
+(END)
+
+[>Pointer 112<]
+Blauer Drache rief seinen Freund...(KNOPF)
+(ABS)
+Ekeldrache!(KNOPF)
+(END)
+
+[>Pointer 113<]
+Roter Drache rief seinen Freund...(KNOPF)
+(ABS)
+Eisdrache!(KNOPF)
+(END)
+
+[>Pointer 114<]
+Weißer Drache rief seinen Freund...    (KNOPF)
+(ABS)
+Roter Drache!     (KNOPF)
+(END)
+
+[>Pointer 115<]
+Sturmdrache durchläuft Veränderung!  (KNOPF)
+(END)
+
+[>Pointer 116<]
+Golddrache speichert Energie!  (KNOPF)
+(END)
+
+[>Pointer 117<]
+Ekeldrache wurde wild!(KNOPF)
+(END)
+
+[>Pointer 118<]
+Schädeldrache lebt von MKraft!(KNOPF)
+(END)
+
+[>Pointer 119<]
+Entferne "Rflekt''...  (END)
+
+[>Pointer 120<]
+Ihh!(KNOPF)
+(END)
+
+[>Pointer 121<]
+Oje!(KNOPF)
+ Mein Körper verschwindet!(KNOPF)
+(END)
+
+[>Pointer 122<]
+Sie ist...(KNOPF)
+ mein......(KNOPF)
+(END)
+
+[>Pointer 123<]
+Ich...(KNOPF)
+(ABS)
+Es kann nicht sein...(KNOPF)
+(END)
+
+[>Pointer 124<]
+Vorsicht!...(KNOPF)
+ Geh weg...! (KNOPF)
+(END)
+
+[>Pointer 125<]
+Gegner kommen von hinten!(KNOPF)
+(END)
+
+[>Pointer 126<]
+Noch ein Monster erschienen!(KNOPF)
+(END)
+
+[>Pointer 127<]
+Ultros' Kampfprog. gestartet!(KNOPF)
+(END)
+
+[>Pointer 128<]
+Kampfprog. gestartet!(KNOPF)
+(END)
+
+[>Pointer 129<]
+Kampfprog. der Luftwaffe gestartet!(KNOPF)
+(END)
+
+[>Pointer 130<]
+Atmans Kampfprog. gestartet!(KNOPF)
+(END)
+
+[>Pointer 131<]
+Kampfprog. einbezogen!(KNOPF)
+(END)
+
+[>Pointer 132<]
+Licht umgibt Atman!(KNOPF)
+(END)
+
+[>Pointer 133<]
+Atmans Kraft (O)
+(KNOPF)
+(END)
+
+[>Pointer 134<]
+Mein Name ist Atman...(KNOPF)
+(ABS)
+Ich bin reine Energie...(KNOPF)
+(ABS)
+...und so alt wie der Kosmos...(KNOPF)
+(ABS)
+Geht,(KNOPF)
+ schwache Kreaturen!(KNOPF)
+(END)
+
+[>Pointer 135<]
+Rafft etwas zusammen(KNOPF)
+(END)
+
+[>Pointer 136<]
+Arbeitslast (mal)
+ 10!(KNOPF)
+(END)
+
+[>Pointer 137<]
+Verderbens Aura zittert!(KNOPF)
+(END)
+
+[>Pointer 138<]
+Wächter rief seinen Freund!(KNOPF)
+(END)
+
+[>Pointer 139<]
+4 Angriffe!(END)
+
+[>Pointer 140<]
+Ich bin Atman...(KNOPF)
+(ABS)
+Seit meiner Geburt...(KNOPF)
+(ABS)
+...im Fluß der Zeit vergessen...(KNOPF)
+(ABS)
+Für ewig auf geistiger Suche(KNOPF)
+(ABS)
+nach dem Sinn...(KNOPF)
+(ABS)
+Ich habe eine Antwort...(KNOPF)
+(END)
+
+[>Pointer 141<]
+Das Ende kommt...(KNOPF)
+(ABS)
+...jenseits des Chaos.(KNOPF)
+(END)
+
+
+[>DUMP END<]----------------------------------------------------------

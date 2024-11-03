@@ -1,0 +1,68 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - ESPER-BONUS-BESCHR.-POINTER]
+TBL   [3-E:\Spiele\temp\Ff3dt.SE\ff3menu.tbl]
+Start [002E0000h]
+Size  [000001C6h][0000021Ah][2]
+pStart[002E01D0h]
+pFirst[0000h-17]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+10% Bonus für HP-Zunahme(END)
+
+[>Pointer 2<]
+30% Bonus für HP-Zunahme(END)
+
+[>Pointer 3<]
+50% Bonus für HP-Zunahme(END)
+
+[>Pointer 4<]
+10% Bonus für MP-Zunahme(END)
+
+[>Pointer 5<]
+30% Bonus für MP-Zunahme(END)
+
+[>Pointer 6<]
+50% Bonus für MP-Zunahme(END)
+
+[>Pointer 7<]
+Doppel-Bonus für HP-Zunahme(END)
+
+[>Pointer 8<]
+Nicht verwendbar(END)
+
+[>Pointer 9<]
+Nichts(END)
+
+[>Pointer 10<]
+Stärke+1 bei nächstem Level-up(END)
+
+[>Pointer 11<]
+Stärke+2 bei nächstem Level-up(END)
+
+[>Pointer 12<]
+Tempo+1 bei nächstem Level-up(END)
+
+[>Pointer 13<]
+Tempo+2 bei nächstem Level-up(END)
+
+[>Pointer 14<]
+Ausdauer+1 bei nächstem(ABS)
+Level-up(END)
+
+[>Pointer 15<]
+Ausdauer+2 bei nächstem(ABS)
+Level-up(END)
+
+[>Pointer 16<]
+M-Kraft+1 bei nächstem(ABS)
+Level-up(END)
+
+[>Pointer 17<]
+M-Kraft+2 bei nächstem(ABS)
+Level-up(END)
+
+
+[>DUMP END<]----------------------------------------------------------

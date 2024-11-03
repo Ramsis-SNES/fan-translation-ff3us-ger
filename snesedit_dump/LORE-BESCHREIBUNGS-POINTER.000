@@ -1,0 +1,95 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - LORE-BESCHREIBUNGS-POINTER]
+TBL   [3-E:\Spiele\temp\Ff3dt.SE\ff3menu.tbl]
+Start [002D79A0h]
+Size  [0000029Dh][00000338h][2]
+pStart[002D7C70h]
+pFirst[0000h-23]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Startet Fluch-Countdown(END)
+
+[>Pointer 2<]
+Startet Fluch-Roulette(END)
+
+[>Pointer 3<]
+Angriffselement: Wasser(END)
+
+[>Pointer 4<]
+Angriffselemente: Wasser/(ABS)
+Wind(END)
+
+[>Pointer 5<]
+Angriffselement: Wind(END)
+
+[>Pointer 6<]
+1000 HP Schaden(END)
+
+[>Pointer 7<]
+ASchutz/MSchutz (Gruppe)(END)
+
+[>Pointer 8<]
+Vermindert HP(END)
+
+[>Pointer 9<]
+Eigene HP helfen Gruppe(END)
+
+[>Pointer 10<]
+"Fluch'' auf Gegner mit(ABS)
+LV 5, 10, ...(END)
+
+[>Pointer 11<]
+"Lodern'' auf Gegner mit(ABS)
+LV 4, 8, ...(END)
+
+[>Pointer 12<]
+"Wirren'' auf Gegner mit(ABS)
+LV 3, 6, ...(END)
+
+[>Pointer 13<]
+Status-Angriff auf(ABS)
+"Rflekt''-Gegner(END)
+
+[>Pointer 14<]
+"Heilig''-Angriff auf Gegner(ABS)
+mit LV ?(END)
+
+[>Pointer 15<]
+Schaden proportional zur(ABS)
+Schrittzahl(END)
+
+[>Pointer 16<]
+Baut Anti-elementar-Barriere(ABS)
+auf(END)
+
+[>Pointer 17<]
+Vermindert gegn. LV(ABS)
+um 50%(END)
+
+[>Pointer 18<]
+Verändert Status eines(ABS)
+Gegners(END)
+
+[>Pointer 19<]
+Rettet Gruppe mit eigenen HP(END)
+
+[>Pointer 20<]
+Tauscht Status mit Gegner(END)
+
+[>Pointer 21<]
+Schadet Gegner und verwirrt(ABS)
+ihn(END)
+
+[>Pointer 22<]
+Angriff bricht gegnerische(ABS)
+Abwehr(END)
+
+[>Pointer 23<]
+Tödl. Angriff bricht(ABS)
+gegnerische Abwehr(END)
+
+
+[>DUMP END<]----------------------------------------------------------

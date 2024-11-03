@@ -1,0 +1,29 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - LADEN-POINTER]
+TBL   [3-E:\Spiele\temp\Ff3dt.SE\ff3menu.tbl]
+Start [0003C4FCh]
+Size  [00000021h][00000039h][2]
+pStart[0003C20Eh]
+pFirst[C2FCh-4]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+>H<0D79
+Waffen(END)
+
+[>Pointer 2<]
+>H<0F79
+Rüstg(END)
+
+[>Pointer 3<]
+>H<0F79
+Item(END)
+
+[>Pointer 4<]
+>H<0D79
+Relikt(END)
+
+
+[>DUMP END<]----------------------------------------------------------

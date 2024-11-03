@@ -1,0 +1,81 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - RARE-ITEM-BESCHR. POINTER]
+TBL   [3-E:\Spiele\temp\Ff3dt.SE\ff3menu.tbl]
+Start [000EFEB0h]
+Size  [0000022Fh][000002ACh][2]
+pStart[000EFD60h]
+pFirst[0000h-20]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Schnaps, von einem Händler(ABS)
+geklaut(END)
+
+[>Pointer 2<]
+Alter Uhrenschlüssel(ABS)
+von einem Soldaten(END)
+
+[>Pointer 3<]
+Ein saftiger Fisch(END)
+
+[>Pointer 4<]
+Nur ein Fisch(END)
+
+[>Pointer 5<]
+Faulender Fisch(END)
+
+[>Pointer 6<]
+Fisch(END)
+
+[>Pointer 7<]
+Schweres Gewicht.(ABS)
+Legt es in eine Truhe...(END)
+
+[>Pointer 8<]
+Danke für all die Blumen!(ABS)
+Ich bin so besorgt...(END)
+
+[>Pointer 9<]
+Stück Koralle aus der(ABS)
+Höhle beim Eboshi-Felsen(END)
+
+[>Pointer 10<]
+Buch über Maschinen...(ABS)
+Und "Buch der Geheimnisse''...(END)
+
+[>Pointer 11<]
+Bei einem sternenförmigen(ABS)
+Gebirge...(END)
+
+[>Pointer 12<]
+Löst Rost(END)
+
+[>Pointer 13<]
+Autogramm einer Sängerin (END)
+
+[>Pointer 14<]
+Schöne rote Maniküre(END)
+
+[>Pointer 15<]
+Mit kleinem Kratzer(END)
+
+[>Pointer 16<]
+Konvexe Linse(END)
+
+[>Pointer 17<]
+Unbekannter Stein(END)
+
+[>Pointer 18<]
+Sehr merkwürdiges Bild!(END)
+
+[>Pointer 19<]
+Ein gewöhnliches Bild...(END)
+
+[>Pointer 20<]
+Amulett der Frau, die die(ABS)
+MagiTek-Rüstung steuerte    (END)
+
+
+[>DUMP END<]----------------------------------------------------------

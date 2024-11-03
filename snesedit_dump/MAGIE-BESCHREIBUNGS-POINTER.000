@@ -1,0 +1,178 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - MAGIE-BESCHREIBUNGS-POINTER]
+TBL   [3-E:\Spiele\temp\Ff3dt.SE\ff3menu.tbl]
+Start [0018CBA0h]
+Size  [000004B0h][0000059Dh][2]
+pStart[0018D180h]
+pFirst[0000h-53]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Feuer-Angriff        (END)
+
+[>Pointer 2<]
+Eis-Angriff         (END)
+
+[>Pointer 3<]
+Blitz-Angriff             (END)
+
+[>Pointer 4<]
+Vergiftet Gegner(END)
+
+[>Pointer 5<]
+Stiehlt gegnerische HP (END)
+
+[>Pointer 6<]
+Verbrennt Gegner     (END)
+
+[>Pointer 7<]
+Vereist Gegner      (END)
+
+[>Pointer 8<]
+Erschlägt Gegner          (END)
+
+[>Pointer 9<]
+Toxischer Angriff      (END)
+
+[>Pointer 10<]
+Massive Feuerattacke (END)
+
+[>Pointer 11<]
+Massiver Eis-Angriff(END)
+
+[>Pointer 12<]
+Gewitter der Zerstörung   (END)
+
+[>Pointer 13<]
+Versteinert Gegner     (END)
+
+[>Pointer 14<]
+Vernichtet Gegner  (END)
+
+[>Pointer 15<]
+Heilig-Angriff        (END)
+
+[>Pointer 16<]
+Durchschlägt Barrieren (END)
+
+[>Pointer 17<]
+Halbiert HP des Gegners(END)
+
+[>Pointer 18<]
+Leert 3/4 der HP des Gegners(END)
+
+[>Pointer 19<]
+Schickt Gegner in die X-Zone  (END)
+
+[>Pointer 20<]
+Schadet mehreren Gegnern(END)
+
+[>Pointer 21<]
+Schadet mehreren Gegnern(END)
+
+[>Pointer 22<]
+Angriff mit Element Erde,(ABS)
+ziellos(END)
+
+[>Pointer 23<]
+Verzweiflungsangriff,(ABS)
+ziellos(END)
+
+[>Pointer 24<]
+Bohrender Feuerangriff,(ABS)
+ziellos(END)
+
+[>Pointer 25<]
+Ermittelt Schwachpunkt/HP(ABS)
+des Gegners(END)
+
+[>Pointer 26<]
+Verlangsamt Ziel(END)
+
+[>Pointer 27<]
+Leert MP(END)
+
+[>Pointer 28<]
+Ziel verstummt(END)
+
+[>Pointer 29<]
+Erhöht AVertd.(END)
+
+[>Pointer 30<]
+Schläfert Ziel ein(END)
+
+[>Pointer 31<]
+Verwirrt Ziel(END)
+
+[>Pointer 32<]
+Erhöht Geschwindigkeit(END)
+
+[>Pointer 33<]
+Stoppt Gegner(END)
+
+[>Pointer 34<]
+Ziel wird Berserker(END)
+
+[>Pointer 35<]
+Läßt Ziel schweben(END)
+
+[>Pointer 36<]
+Ändert Status von/nach(ABS)
+"Imp''(END)
+
+[>Pointer 37<]
+Ziel erhält magische Barriere(END)
+
+[>Pointer 38<]
+Erhöht MVertd.(END)
+
+[>Pointer 39<]
+Macht Ziel unsichtbar(END)
+
+[>Pointer 40<]
+Ganze Gruppe wird schneller(END)
+
+[>Pointer 41<]
+Verlangsamt mehrere Gegner(END)
+
+[>Pointer 42<]
+Entzieht Gegner MP(END)
+
+[>Pointer 43<]
+Ermöglicht Flucht aus Höhlen/(ABS)
+Kämpfen(END)
+
+[>Pointer 44<]
+Ermöglicht Doppelbefehle(END)
+
+[>Pointer 45<]
+Heilt schlechten Status(END)
+
+[>Pointer 46<]
+Füllt HP(END)
+
+[>Pointer 47<]
+Füllt HP(END)
+
+[>Pointer 48<]
+Füllt HP(END)
+
+[>Pointer 49<]
+Spendet Leben(END)
+
+[>Pointer 50<]
+Spendet Leben und füllt HP   (END)
+
+[>Pointer 51<]
+Heilt Vergiftungen(END)
+
+[>Pointer 52<]
+Heilt alle Statusveränderungen(END)
+
+[>Pointer 53<]
+Füllt HP nach und nach(END)
+
+
+[>DUMP END<]----------------------------------------------------------

@@ -1,0 +1,1686 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Pointer-Dump - KAMPFDIALOG-POINTER PART 1]
+TBL   [3-E:\Spiele\temp\Ff3dt.SE\ff3menu.tbl]
+Start [0010D400h]
+Size  [00002A6Bh][000041EBh][2]
+pStart[0010D200h]
+pFirst[D200h-254]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Pointer 1<]
+Wedge:(ABS)
+He! Was ist mit dir?   (WAIT)
+(ABS)
+Weißt du etwas, was wir (ABS)
+nicht...?(WAIT)
+(END)
+
+[>Pointer 2<]
+Mädchen:(ABS)
+...(WAIT)
+(END)
+
+[>Pointer 3<]
+Wedge:(ABS)
+Woher kommt denn(ABS)
+dieses Licht!? (WAIT)
+Uaaaaaahh!!!!(WAIT)
+(END)
+
+[>Pointer 4<]
+Ein unheimliches Licht(ABS)
+erstrahlt von dem Esper...   (WAIT)
+(END)
+
+[>Pointer 5<]
+Mädchen: ... (WAIT)
+... (WAIT)
+... (WAIT)
+(END)
+
+[>Pointer 6<]
+Biggs:(ABS)
+He!(WAIT)
+(ABS)
+Wedge......wo bist du?(ABS)
+W......was passiert(ABS)
+mit mir!?(WAIT)
+(END)
+
+[>Pointer 7<]
+Biggs:(ABS)
+Warte!(WAIT)
+(ABS)
+Denk an unsere(ABS)
+Instruktionen......(WAIT)
+(END)
+
+[>Pointer 8<]
+Wedge:(ABS)
+Was ist damit!?(WAIT)
+(END)
+
+[>Pointer 9<]
+Biggs:(ABS)
+(WAIT)
+Weißt du noch das mit(ABS)
+dem Monster, das Blitze(ABS)
+fressen......   (WAIT)
+(END)
+
+[>Pointer 10<]
+Wedge:(ABS)
+...und im Schneckenhaus(ABS)
+speichern kann?(WAIT)
+(END)
+
+[>Pointer 11<]
+Biggs:(ABS)
+Genau. Also niemals das Haus (ABS)
+angreifen,(WAIT)
+ niemals! (WAIT)
+(END)
+
+[>Pointer 12<]
+Wedge:(ABS)
+Gut, in Ordnung!(WAIT)
+(END)
+
+[>Pointer 13<]
+Die sind ein wenig klein,(WAIT)
+(ABS)
+aber der Preis war fein.(WAIT)
+(END)
+
+[>Pointer 14<]
+Die sind ein wenig zu groß,(WAIT)
+(ABS)
+aber es geht.(WAIT)
+(END)
+
+[>Pointer 15<]
+Locke:(ABS)
+Also los!(WAIT)
+(END)
+
+[>Pointer 16<]
+Seine Kleider gestohlen!(WAIT)
+(END)
+
+[>Pointer 17<]
+Gib es auf, Vargas!(WAIT)
+(END)
+
+[>Pointer 18<]
+Vargas:(ABS)
+Bist da das, Sabin!?(WAIT)
+(END)
+
+[>Pointer 19<]
+Sabin:(ABS)
+Vargas, warum hast du das(ABS)
+getan?(WAIT)
+(ABS)
+Wie konntest du deinen(ABS)
+eigenen Vater töten!? (WAIT)
+(END)
+
+[>Pointer 20<]
+Vargas:(ABS)
+Ha! Er beging den Fehler,(ABS)
+DICH zu seinem Nachfolger(ABS)
+zu machen(WAIT)
+ statt mich, (WAIT)
+(ABS)
+seinen Sohn!!(WAIT)
+(END)
+
+[>Pointer 21<]
+Sabin:(ABS)
+Aber...(WAIT)
+(ABS)
+...er wählte doch dich!(WAIT)
+(END)
+
+[>Pointer 22<]
+Vargas:(ABS)
+Du bist ein Lügner!(WAIT)
+(END)
+
+[>Pointer 23<]
+Sabin:(ABS)
+Duncan wollte, daß DU sein(ABS)
+Nachfolger wirst, nicht ich.(WAIT)
+(ABS)
+Er schätzte deine Gesinnung...(WAIT)
+(END)
+
+[>Pointer 24<]
+Vargas:(ABS)
+Genug gelogen! (ABS)
+(WAIT)
+Jetzt wirst du meine(ABS)
+überlegene Technik(ABS)
+kosten!(WAIT)
+(END)
+
+[>Pointer 25<]
+Todesangriff! Sturmesfaust!!!(WAIT)
+(END)
+
+ 
+[>Pointer 26<]
+Vargas:(ABS)
+Ah, Sabin! (WAIT)
+(ABS)
+Duncan hat dich viel(ABS)
+gelehrt!(WAIT)
+(END)
+
+[>Pointer 27<]
+Sabin:(ABS)
+Es geht wohl nicht(ABS)
+anders...!    (WAIT)
+(END)
+
+[>Pointer 28<]
+Vargas:(ABS)
+Ironie des Schicksals -(WAIT)
+(ABS)
+wir lernten zusammen,(WAIT)
+(ABS)
+und ich töte dich!(WAIT)
+(END)
+
+[>Pointer 29<]
+Vargas:(ABS)
+W......was zum......!? Er......(WAIT)
+(ABS)
+lehrte dich bereits DIES!?(WAIT)
+(END)
+
+[>Pointer 30<]
+Sabin:(ABS)
+Wenn du nicht so macht-(ABS)
+hungrig gewesen wärst...(WAIT)
+...  (WAIT)
+(END)
+
+ 
+[>Pointer 31<]
+(END)
+
+[>Pointer 32<]
+Kefka:(ABS)
+Chi, hi, hi! Sehr gut!(KNOPF)
+(WAIT)
+(ABS)
+Alles niederbrennen!(KNOPF)
+(KNOPF)
+(END)
+
+[>Pointer 33<]
+Sabin:(ABS)
+Wir haben's vernichtet.(WAIT)
+(END)
+
+[>Pointer 34<]
+Edgar:(ABS)
+Glaube ich kaum......(WAIT)
+(ABS)
+Es versteckt sich bloß(ABS)
+vor uns......!  (WAIT)
+(END)
+
+[>Pointer 35<]
+Terra:(ABS)
+Aaaaaahh!!!(ABS)
+(WAIT)
+Es ist an meinem Bein! (WAIT)
+(END)
+
+[>Pointer 36<]
+Edgar:(ABS)
+Terra! Komm her! (WAIT)
+(END)
+
+[>Pointer 37<]
+Banon:(ABS)
+Alles in Ordnung.(WAIT)
+(END)
+
+[>Pointer 38<]
+Sabin:(ABS)
+Paßt auf!!(WAIT)
+(ABS)
+Ich werd's mit einem(ABS)
+"Blitz'' töten!(WAIT)
+(END)
+
+[>Pointer 39<]
+Edgar:(ABS)
+Sabin! Warte!(WAIT)
+(END)
+
+[>Pointer 40<]
+Sabin:(ABS)
+Lenk mich nicht ab, Bruder!!(WAIT)
+(END)
+
+[>Pointer 41<]
+Edgar:(ABS)
+Er war schon immer(ABS)
+ehrgeizig......(WAIT)
+(END)
+
+[>Pointer 42<]
+Terra:(ABS)
+Sabin!!!(WAIT)
+(END)
+
+[>Pointer 43<]
+Banon:(ABS)
+Sorgt euch nicht um ihn!(WAIT)
+(END)
+
+[>Pointer 44<]
+Edgar:(ABS)
+Meinst du, er hat's(ABS)
+geschafft?(WAIT)
+(END)
+
+[>Pointer 45<]
+Banon:(ABS)
+Das solltest DU am besten(ABS)
+wissen!(WAIT)
+(ABS)
+Jeden Moment wird er hier(ABS)
+auf dem Floß landen! (WAIT)
+(END)
+
+[>Pointer 46<]
+(END)
+
+[>Pointer 47<]
+(END)
+
+[>Pointer 48<]
+Kefka:(ABS)
+Autsch!!(WAIT)
+(END)
+
+[>Pointer 49<]
+Sabin:(ABS)
+Kefka! (WAIT)
+Halt!!!(WAIT)
+(END)
+
+[>Pointer 50<]
+Kefka:(ABS)
+"Halt'' sagt er......(WAIT)
+(ABS)
+Seh ich etwa so aus!? (WAIT)
+(END)
+
+[>Pointer 51<]
+Locke:(ABS)
+Sie sind zornig...auf uns?(WAIT)
+(END)
+
+[>Pointer 52<]
+Setzer:(ABS)
+Was soll's! (ABS)
+Aber dieses Vibrieren...!?(WAIT)
+(ABS)
+Sind das etwa die Esper? (WAIT)
+(END)
+
+[>Pointer 53<]
+Sabin:(ABS)
+Was zum...!?(KNOPF)
+(END)
+
+[>Pointer 54<]
+Banon:(ABS)
+......(WAIT)
+ ......(WAIT)
+(END)
+
+[>Pointer 55<]
+Edgar:(ABS)
+Der ist aber munter......(WAIT)
+(ABS)
+Ha...!     (WAIT)
+(END)
+
+[>Pointer 56<]
+Terra:(ABS)
+Sabin!!!!!(WAIT)
+(END)
+
+[>Pointer 57<]
+Edgar:(ABS)
+Sabin!!!!(WAIT)
+(ABS)
+Paß auf dich auf, ja!?(WAIT)
+(END)
+
+[>Pointer 58<]
+Gau:(ABS)
+Uwauu!! (WAIT)
+Wauuh......uh~!(WAIT)
+(ABS)
+Ihr......Fremde... (WAIT)
+Geht weg!(WAIT)
+(ABS)
+Ihr Tiere ängstigen! (WAIT)
+(END)
+
+[>Pointer 59<]
+Sabin:(ABS)
+Was zum...... (WAIT)
+(END)
+
+[>Pointer 60<]
+Cyan:(ABS)
+Ich Cyan und er Sabin.  (WAIT)
+(END)
+
+[>Pointer 61<]
+Gau:(ABS)
+Du Sabin... Du Cyan,(WAIT)
+(ABS)
+Gau will mehr Essen!!  (WAIT)
+(END)
+
+[>Pointer 62<]
+Sabin:(ABS)
+Nichts da!(WAIT)
+(END)
+
+[>Pointer 63<]
+Gau:(ABS)
+Du gehen...für mich mehr(ABS)
+holen!(WAIT)
+(END)
+
+[>Pointer 64<]
+Sabin:(ABS)
+Du bist ein Vielfraß!(WAIT)
+(END)
+
+[>Pointer 65<]
+Sabin:(ABS)
+Du wollen kämpfen?(WAIT)
+(END)
+
+[>Pointer 66<]
+Gau:(ABS)
+Ich dich nicht verletzen...(WAIT)
+(END)
+
+[>Pointer 67<]
+Sabin:(ABS)
+Hör auf, mich so anzustarren!(WAIT)
+(END)
+
+[>Pointer 68<]
+Gau:(ABS)
+Ich gerne tanzen!(WAIT)
+(ABS)
+Du gut führen!(WAIT)
+(END)
+
+[>Pointer 69<]
+Sabin:(ABS)
+Klappe!!(WAIT)
+(END)
+
+[>Pointer 70<]
+Cyan:(ABS)
+Beruhigt Euch, Sirs!(WAIT)
+(ABS)
+Sagt an, o wilder Kerl......(ABS)
+Wer seid Ihr, Sir?(WAIT)
+(END)
+
+[>Pointer 71<]
+Gau:(ABS)
+Sir? (WAIT)
+(END)
+
+[>Pointer 72<]
+Gau:(ABS)
+Sir! Sir!  (WAIT)
+(END)
+
+[>Pointer 73<]
+Gau:(ABS)
+Du böse?  (WAIT)
+(END)
+
+[>Pointer 74<]
+Gau:(ABS)
+Cyan!(WAIT)
+(ABS)
+Du böse......ich? (WAIT)
+(END)
+
+[>Pointer 75<]
+Sabin:(ABS)
+Weißt du, seine Familie(ABS)
+wurde...(WAIT)
+(END)
+
+[>Pointer 76<]
+Gau:(ABS)
+Gau verstehen......leid tun.(WAIT)
+(ABS)
+Nicht böse meinen...... (WAIT)
+(END)
+
+[>Pointer 77<]
+Cyan:(ABS)
+Ihr seid seltsam...(WAIT)
+(END)
+
+[>Pointer 78<]
+Sabin:(ABS)
+Keuch...schnauf...!(ABS)
+Du bist echt zäh!(WAIT)
+(END)
+
+[>Pointer 79<]
+Etwas Glänzendes...?(WAIT)
+(ABS)
+Da wird Locke aber staunen,(ABS)
+wenn wir ihm davon(ABS)
+erzählen, nicht? (WAIT)
+(END)
+
+[>Pointer 80<]
+(END)
+
+[>Pointer 81<]
+(END)
+
+[>Pointer 82<]
+(END)
+
+[>Pointer 83<]
+Vargas:(ABS)
+Wir sollten das beenden!(WAIT)
+(END)
+
+[>Pointer 84<]
+Sabin:(ABS)
+Die Lehren des Meisters...(WAIT)
+(ABS)
+Muß einen "Blitz'' benutzen......(WAIT)
+(END)
+
+[>Pointer 85<]
+Wähle "Blitz'' und drücke(WAIT)
+(ABS)
+links, (WAIT)
+rechts, (WAIT)
+links(WAIT)
+ auf(ABS)
+dem Steuerkreuz,(WAIT)
+(ABS)
+dann Knopf A!(WAIT)
+(END)
+
+[>Pointer 86<]
+"Blitz'' geht so:   (WAIT)
+(END)
+
+[>Pointer 87<]
+Sabin:(ABS)
+Wähle Blitz und drücke(WAIT)
+(ABS)
+links, (WAIT)
+rechts, (WAIT)
+links(WAIT)
+(ABS)
+auf dem Steuerkreuz! (WAIT)
+(END)
+
+[>Pointer 88<]
+Kefka:(ABS)
+Es ist offen!(WAIT)
+(END)
+
+[>Pointer 89<]
+Kefka:(ABS)
+Erdbeben......?(WAIT)
+(END)
+
+[>Pointer 90<]
+Terra!!!(WAIT)
+(END)
+
+[>Pointer 91<]
+Kefka:(ABS)
+Ich, (WAIT)
+ich, (WAIT)
+ich bin aufgeregt.(WAIT)
+(END)
+
+[>Pointer 92<]
+Da kommt etwas!!!(WAIT)
+(END)
+
+[>Pointer 93<]
+Kefka:(ABS)
+Furchtbare Energie!!!(WAIT)
+(END)
+
+[>Pointer 94<]
+Kefka:(ABS)
+Uaaah!(KNOPF)
+(END)
+
+[>Pointer 95<]
+Terra:(ABS)
+......(WAIT)
+(END)
+
+[>Pointer 96<]
+"K...Kefka!!!(WAIT)
+(ABS)
+Du bist uns gefolgt!''(WAIT)
+(END)
+
+[>Pointer 97<]
+Kefka:(ABS)
+Jahahihihihi!!!(WAIT)
+(ABS)
+Der Imperator hatte recht!(WAIT)
+(ABS)
+Terra brauchte nur(ABS)
+in eure Hände fallen,(WAIT)
+(ABS)
+und ihr würdet das Tor(ABS)
+für uns öffnen!(WAIT)
+(END)
+
+[>Pointer 98<]
+......!(WAIT)
+(END)
+
+[>Pointer 99<]
+Kefka:(ABS)
+Ihr habt also für uns(ABS)
+gearbeitet!!!(WAIT)
+(END)
+
+[>Pointer 100<]
+Kefka:(ABS)
+Aber ich fürchte, jetzt(ABS)
+habt ihr euch überlebt...(WAIT)
+(END)
+
+[>Pointer 101<]
+"Denk lieber nochmal nach,(ABS)
+Kefka!''(WAIT)
+(END)
+
+[>Pointer 102<]
+Kefka:(ABS)
+Oje......(WAIT)
+(ABS)
+Ihr wollt kämpfen!?(WAIT)
+(ABS)
+Das ist ja furchtbar!(WAIT)
+(END)
+
+[>Pointer 103<]
+Halte Kefka in Schach, (WAIT)
+(ABS)
+bis Terra durch das Tor(ABS)
+geflohen ist!  (WAIT)
+(END)
+
+[>Pointer 104<]
+Locke: Was ist, Terra?(WAIT)
+(END)
+
+[>Pointer 105<]
+Terra:(ABS)
+Ich fühle es...(WAIT)
+(ABS)
+Es kommt näher und näher...(WAIT)
+(END)
+
+[>Pointer 106<]
+Locke:(ABS)
+Was meinst du,(ABS)
+du "fühlst es''?(WAIT)
+(END)
+
+[>Pointer 107<]
+Terra:(ABS)
+Es glüht...!(WAIT)
+(END)
+
+[>Pointer 108<]
+Locke:(ABS)
+Aber was ist es?(WAIT)
+(END)
+
+[>Pointer 109<]
+Locke:(ABS)
+Das kann nicht sein......!(WAIT)
+(ABS)
+Ein Esper???(WAIT)
+(END)
+
+[>Pointer 110<]
+Locke:(ABS)
+Er kommt!!!   (WAIT)
+(ABS)
+Paß auf, Terra!!  (WAIT)
+(END)
+
+[>Pointer 111<]
+Setzer:(ABS)
+Was war das!?(WAIT)
+(END)
+
+[>Pointer 112<]
+Locke:(ABS)
+Setzer, duck dich!!(WAIT)
+(END)
+
+[>Pointer 113<]
+Setzer:(ABS)
+Huch......Esper......? (WAIT)
+(END)
+
+[>Pointer 114<]
+Locke:(ABS)
+Wohin gehen sie denn?(WAIT)
+(END)
+
+[>Pointer 115<]
+Terra:(ABS)
+Sie sind wütend...(WAIT)
+(END)
+
+[>Pointer 116<]
+Terra:(ABS)
+Nein...!(WAIT)
+ Bitte, (WAIT)
+bleibt hier!!!(WAIT)
+(END)
+
+[>Pointer 117<]
+Edgar:(ABS)
+Äh......Setzer...!?(WAIT)
+(END)
+
+[>Pointer 118<]
+(WAIT)
+DAS SCHIFF HAVARIERT!!!(WAIT)
+(END)
+
+[>Pointer 119<]
+Relm:(ABS)
+Opa!(WAIT)
+(ABS)
+Ich bin hier...!(WAIT)
+(END)
+
+[>Pointer 120<]
+Strago:(ABS)
+Relm!(WAIT)
+(ABS)
+Du solltest doch zu Hause(ABS)
+bleiben!(WAIT)
+(END)
+
+[>Pointer 121<]
+Relm:(ABS)
+Aber ich mußte doch(ABS)
+Malen üben!(WAIT)
+(END)
+
+[>Pointer 122<]
+Sag, Schätzchen,(ABS)
+wer bist du?(WAIT)
+(END)
+
+[>Pointer 123<]
+Ultros:(ABS)
+Du wagst es!(WAIT)
+(ABS)
+Ich bin Ultros!!!(WAIT)
+(END)
+
+[>Pointer 124<]
+Locke:(ABS)
+Relm und Ultros......(WAIT)
+(ABS)
+Was tut ihr da......?(WAIT)
+(END)
+
+[>Pointer 125<]
+Relm:(ABS)
+Hör zu, Ulti......(WAIT)
+(ABS)
+Warum stehst du(ABS)
+nicht mal Modell?(WAIT)
+(END)
+
+[>Pointer 126<]
+Ultros:(ABS)
+Ich bin keiner deiner(ABS)
+kindischen Freunde!(WAIT)
+(ABS)
+Also rede nicht so(ABS)
+mit mir!(WAIT)
+(ABS)
+Ich will kein Porträt!(WAIT)
+(END)
+
+[>Pointer 127<]
+Relm:(ABS)
+Vergiß es!(WAIT)
+(ABS)
+Jetzt will ich's auch(ABS)
+nicht mehr!(WAIT)
+(END)
+
+[>Pointer 128<]
+Relm:(ABS)
+Also gut......(WAIT)
+(ABS)
+Ich spring' einfach(ABS)
+hier runter.(KNOPF)
+(END)
+
+[>Pointer 129<]
+Terra:(ABS)
+NEIN!!!(ABS)
+Das darfst du nicht!(WAIT)
+(END)
+
+[>Pointer 130<]
+Flüsterflüster...(WAIT)
+(END)
+
+[>Pointer 131<]
+Terra:(ABS)
+Du wagst es,(WAIT)
+(ABS)
+dieses kleine Mädchen(ABS)
+zu ängstigen! (WAIT)
+(ABS)
+Wenn du ihr wehtust,(ABS)
+dann...!!!(WAIT)
+(END)
+
+[>Pointer 132<]
+Ultros:(ABS)
+Aber was soll ich(ABS)
+denn tun?(WAIT)
+(END)
+
+[>Pointer 133<]
+Locke:(ABS)
+Frag sie, ob sie dein(ABS)
+Porträt malen könnte.(WAIT)
+(ABS)
+Darin ist sie wirklich(ABS)
+sehr begabt!   (WAIT)
+(END)
+
+[>Pointer 134<]
+Kefka:(ABS)
+Ah...Leo...immer der(ABS)
+vollkommene Soldat...(WAIT)
+(END)
+
+[>Pointer 135<]
+Leo:(ABS)
+Wo bist du, Kefka...?(WAIT)
+(ABS)
+Zeig dich!!!(WAIT)
+(END)
+
+[>Pointer 136<]
+Kefka:(ABS)
+I(WAIT)
+M(WAIT)
+P(WAIT)
+E(WAIT)
+R(WAIT)
+A(WAIT)
+T(WAIT)
+O(WAIT)
+R (WAIT)
+G(WAIT)
+E(WAIT)
+S(WAIT)
+T(WAIT)
+H(WAIT)
+A(WAIT)
+L......(ABS)
+(WAIT)
+Ich brauche Euch hier...(WAIT)
+(END)
+
+[>Pointer 137<]
+Imperator Gesthal:(ABS)
+Leo...(WAIT)
+(END)
+
+[>Pointer 138<]
+Leo:(ABS)
+Majestät!(WAIT)
+(END)
+
+[>Pointer 139<]
+Verzeiht, daß ich sogar Euch(ABS)
+getäuscht habe, Leo.(ABS)
+(WAIT)
+Ich mußte Magizit sammeln(ABS)
+und Macht gewinnen...(ABS)
+(WAIT)
+Bitte versteht das...(WAIT)
+(END)
+
+[>Pointer 140<]
+Leo:(ABS)
+Aber Imperator...!(WAIT)
+(END)
+
+[>Pointer 141<]
+Gesthal:(ABS)
+Sagt nichts.(WAIT)
+(ABS)
+Ich verstehe Eure Gefühle.(WAIT)
+(END)
+
+[>Pointer 142<]
+Kefka:(ABS)
+Chi, hi, hi......(WAIT)
+(ABS)
+Das ist wahr!(ABS)
+(WAIT)
+Was wir jetzt tun müssen,(ABS)
+ist Magizit sammeln!    (WAIT)
+(END)
+
+[>Pointer 143<]
+Leo:(ABS)
+Aber Majestät......(ABS)
+Wofür habe ich gekämpft...?(WAIT)
+(END)
+
+[>Pointer 144<]
+Gesthal:(ABS)
+Leo, ich möchte, daß Ihr(ABS)
+lange und gut schlaft...!(WAIT)
+(ABS)
+SEHR lange! Uahahahaha!(WAIT)
+(END)
+
+[>Pointer 145<]
+Leo:(ABS)
+!!!(WAIT)
+(END)
+
+[>Pointer 146<]
+Kefka:(ABS)
+Du dachtest...daß du mich(ABS)
+getroffen hast!?(WAIT)
+(ABS)
+Das war mein Schatten!(WAIT)
+(ABS)
+Und wie war mein(ABS)
+Gesthal?(WAIT)
+(ABS)
+Ich sollte zum Theater(ABS)
+gehen!!(ABS)
+(WAIT)
+Tja, General......(WAIT)
+(END)
+
+[>Pointer 147<]
+Du bist so ein prima Kerl!(WAIT)
+(END)
+
+[>Pointer 148<]
+Leo:(ABS)
+Halt den Mund, Kefka!(WAIT)
+(ABS)
+Ich werde......(WAIT)
+(END)
+
+[>Pointer 149<]
+Kefka:(ABS)
+Oh!(ABS)
+Du drohst mir?(WAIT)
+(ABS)
+Du bist ja brutaler als(ABS)
+ich dachte!(ABS)
+(WAIT)
+Ich werde "Majestät''(ABS)
+erzählen, daß ein Verräter(ABS)
+sterben mußte!(WAIT)
+(END)
+
+[>Pointer 150<]
+Kefka:(ABS)
+HASS...!!(WAIT)
+(END)
+
+[>Pointer 151<]
+(END)
+
+[>Pointer 152<]
+Terra:(ABS)
+Was!? (WAIT)
+Was fühle ich da!?! (WAIT)
+(END)
+
+[>Pointer 153<]
+Terra:(ABS)
+Huch? (WAIT)
+W...was passiert mir...?(WAIT)
+(END)
+
+[>Pointer 154<]
+Terra:(ABS)
+Bitte...sag es mir!(WAIT)
+(ABS)
+WER BIN ICH!?!?(WAIT)
+(END)
+
+[>Pointer 155<]
+Locke:(ABS)
+Terra!(WAIT)
+(END)
+
+[>Pointer 156<]
+Celes:(ABS)
+Ein Esper...(WAIT)
+(ABS)
+Ich kann seinen Geist fühlen......(WAIT)
+(END)
+
+[>Pointer 157<]
+Edgar:(ABS)
+Terra......(WAIT)
+(ABS)
+Geh weg von dem Esper......!  (WAIT)
+(END)
+
+[>Pointer 158<]
+Und nun setze Deine Reise(ABS)
+bitte fort!(WAIT)
+(END)
+
+[>Pointer 159<]
+Cyan:(ABS)
+Seht! Ihr könnt doch nicht(ABS)
+ständig herumtanzen!(WAIT)
+(ABS)
+Gau, ich denke, wir(ABS)
+kommen gut miteinander aus.(WAIT)
+(ABS)
+Warum kommst du nicht mit? (WAIT)
+(END)
+
+[>Pointer 160<]
+Gau:(ABS)
+Ah! Ich euch schenken! (WAIT)
+(ABS)
+Gau gibt Cyan und(ABS)
+Sabin schönes Geschenk(ABS)
+für Essen!  (WAIT)
+(END)
+
+ 
+[>Pointer 161<]
+Sabin:(ABS)
+Was für einen Müll wird(ABS)
+er uns wohl andrehen...?(WAIT)
+(END)
+
+Gau:(ABS)
+[>Pointer 162<]
+Gau's Schatz......(ABS)
+...glänzend, glänzend!(WAIT)
+(ABS)
+Glänzend, glänzend!!! (WAIT)
+(END)
+
+[>Pointer 163<]
+Sabin:(ABS)
+Tatsächlich SO glänzend?   (WAIT)
+(END)
+
+[>Pointer 164<]
+Gau:(ABS)
+Mag Mr. Sir glänzende(ABS)
+Dinge?   (WAIT)
+(END)
+
+[>Pointer 165<]
+Sabin:(ABS)
+Mr. Sir ist DER DA,(ABS)
+da drüben!!(WAIT)
+(END)
+
+[>Pointer 166<]
+Gau:(ABS)
+Wer Locke?(ABS)
+Böser Mann?(WAIT)
+ Vielleicht er(ABS)
+stehlen meinen Schatz!(WAIT)
+(END)
+
+[>Pointer 167<]
+Sabin:(ABS)
+Locke? Also, er ist...(WAIT)
+(END)
+
+[>Pointer 168<]
+Sabin:(ABS)
+Hör zu, wenn jemand(ABS)
+mit dir spricht!(WAIT)
+(END)
+
+[>Pointer 169<]
+Cyan:(ABS)
+Ich glaube, er will uns etwas(ABS)
+mitteilen! (WAIT)
+(END)
+
+[>Pointer 170<]
+Sabin:(ABS)
+Ach...(ABS)
+In Ordnung...(WAIT)
+(ABS)
+Mach weiter.(WAIT)
+(END)
+
+[>Pointer 171<]
+Gau:(ABS)
+Hier! Hier!(WAIT)
+(ABS)
+Glänzendes Ding!(WAIT)
+(END)
+
+[>Pointer 172<]
+Gau:(ABS)
+Sabin,(WAIT)
+(ABS)
+Dorf, wo du Essen kaufen...(ABS)
+...heißen Mobliz! (WAIT)
+(END)
+
+[>Pointer 173<]
+Gau:(ABS)
+Cyan,(WAIT)
+(ABS)
+Stelle, wo du stehen......(ABS)
+Fluß brachte dich da hin...... (WAIT)
+(END)
+
+[>Pointer 174<]
+Jetzt gehen wir zum(ABS)
+Sichelberg!(WAIT)
+(ABS)
+Glänzendes Ding! (WAIT)
+(END)
+
+[>Pointer 175<]
+Cyan:(ABS)
+(WAIT)
+Gehen wir doch einfach(ABS)
+mit ihm zu diesem(ABS)
+Sichelberg.        (WAIT)
+(END)
+
+[>Pointer 176<]
+Sabin:(ABS)
+Puh......(WAIT)
+warum nehmen wir ihn(ABS)
+überhaupt mit...?(WAIT)
+(END)
+
+[>Pointer 177<]
+Gau:(ABS)
+Mr. Sir! Beeilung!(WAIT)
+(ABS)
+Wir gehen los!! (WAIT)
+(END)
+
+[>Pointer 178<]
+Sabin:(ABS)
+He! Ich sag dir,(ABS)
+Ich bin NICHT Mr. Sir!!!(WAIT)
+(END)
+
+ 
+[>Pointer 179<]
+1. Wähle "Lernen'', ein   (ABS)
+Befehl, der nur hier auf(ABS)
+dem Veldt erscheint. (WAIT)
+(END)
+
+[>Pointer 180<]
+2. Kämpfe so lange weiter, bis(ABS)
+Gau wieder erscheint.(ABS)
+Er wird die Angriffe...   (WAIT)
+(END)
+
+[>Pointer 181<]
+3. ...der Gegner gelernt haben,(ABS)
+die Du ihn zuvor hast(ABS)
+"verfolgen'' lassen!  (WAIT)
+(END)
+
+[>Pointer 182<]
+Uwauuh~!(WAIT)
+(END)
+
+[>Pointer 183<]
+4. Wähle den Befehl "Wüten'',(ABS)
+und Du kannst die gelernten(ABS)
+Angriffe benutzen.  (WAIT)
+(END)
+
+[>Pointer 184<]
+Kappa:(ABS)
+So werden Gau's(ABS)
+Fähigkeiten genutzt...(WAIT)
+(END)
+
+[>Pointer 185<]
+Locke:(ABS)
+Edgar, was ist mit dir?(ABS)
+Du bist irgendwie(ABS)
+be-GEIST-ert!(WAIT)
+(END)
+
+[>Pointer 186<]
+Edgar:(ABS)
+H-h-h-hast du das gerade(ABS)
+gesehen...!?(WAIT)
+(END)
+
+[>Pointer 187<]
+Locke:(ABS)
+Jaja... Dieses Kind scheint(ABS)
+begnadet zu...(WAIT)
+(END)
+
+[>Pointer 188<]
+Edgar:(ABS)
+Sie ist SUPER!(WAIT)
+(ABS)
+Das war Magie!! (WAIT)
+M(WAIT)
+A(WAIT)
+G(WAIT)
+I(WAIT)
+E!(WAIT)
+(END)
+
+[>Pointer 189<]
+Locke:(ABS)
+M(WAIT)
+(ABS)
+M(ABS)
+M(ABS)
+M(ABS)
+M(ABS)
+M(ABS)
+M(ABS)
+MAGIE!?(WAIT)
+(ABS)
+Sie benutzt M...?(WAIT)
+(END)
+
+[>Pointer 190<]
+Edgar/Locke:(ABS)
+Pswswswsw!(WAIT)
+(ABS)
+pswswswsw!!!(WAIT)
+(END)
+
+[>Pointer 191<]
+Edgar:(ABS)
+Terra......wo im Himmel(ABS)
+hast du DAS gelernt? (WAIT)
+(END)
+
+[>Pointer 192<]
+Terra:(ABS)
+.........(WAIT)
+(ABS)
+Ich...äh...oh...(WAIT)
+(ABS)
+hm......(WAIT)
+(END)
+
+[>Pointer 193<]
+Locke:(ABS)
+He, ich wollt's ja nicht so(ABS)
+wahnsinnig aufbauschen...... (WAIT)
+(END)
+
+[>Pointer 194<]
+Edgar:(ABS)
+Ich auch nicht... (WAIT)
+Aber ich(ABS)
+habe Magie noch nie zuvor(ABS)
+GESEHEN! (WAIT)
+(ABS)
+Wo hast du das...?   (WAIT)
+(END)
+
+[>Pointer 195<]
+Terra:(ABS)
+......(WAIT)
+(END)
+
+[>Pointer 196<]
+Locke:(ABS)
+Edgar, Terra kann Magie(ABS)
+benutzen, wir nicht. (WAIT)
+Nur DAS(ABS)
+unterscheidet uns.(WAIT)
+(ABS)
+Tatsache ist, wir könnten(ABS)
+ihre Hilfe brauch...(WAIT)
+(END)
+
+[>Pointer 197<]
+Terra:(ABS)
+Danke, Locke!(WAIT)
+(END)
+
+[>Pointer 198<]
+Terra:(ABS)
+Danke, Edgar!(WAIT)
+(END)
+
+[>Pointer 199<]
+Nicht ohnmächtig werden! (KNOPF)
+(END)
+
+[>Pointer 200<]
+Edgar:(ABS)
+......!(WAIT)
+(END)
+
+[>Pointer 201<]
+Celes:(ABS)
+TunnelPanzer!!(WAIT)
+(ABS)
+Er kann uns nichts tun.(WAIT)
+(ABS)
+Ich BEHERRSCHE Magie!(WAIT)
+(END)
+
+[>Pointer 202<]
+Locke:(ABS)
+Wie bitte!?!(WAIT)
+(END)
+
+[>Pointer 203<]
+Celes:(ABS)
+Ich absorbiere Magie(ABS)
+mit meiner Runen-(ABS)
+Klinge!(WAIT)
+(END)
+
+[>Pointer 204<]
+Locke:(ABS)
+Bist du sicher? Klappt das!? (WAIT)
+(END)
+
+[>Pointer 205<]
+Celes:(ABS)
+Sieh nur gut zu!(WAIT)
+(END)
+
+[>Pointer 206<]
+Kefka:(ABS)
+Daß du überhaupt daran(ABS)
+denkst, (WAIT)
+mich besiegen(ABS)
+zu können!  (WAIT)
+(ABS)
+Hihihaha!!(WAIT)
+(END)
+
+[>Pointer 207<]
+Kefka:(ABS)
+Und jetzt, meine lieben(ABS)
+Magizitsternchen......(WAIT)
+(ABS)
+Kommt und helft mir,(ABS)
+mein magisches Imperium(ABS)
+aufzubauen!(WAIT)
+(END)
+
+[>Pointer 208<]
+Kefka:(ABS)
+Hohoho...(WAIT)
+(ABS)
+Ich hab euch zum(ABS)
+Fressen gern!(WAIT)
+ Ihr Süßen!(WAIT)
+(END)
+
+[>Pointer 209<]
+Wartet! Wir helfen Euch! (KNOPF)
+(END)
+
+[>Pointer 210<]
+Los!(KNOPF)
+(END)
+
+[>Pointer 211<]
+Beeilung!(KNOPF)
+(END)
+
+[>Pointer 212<]
+Keine Zeit zu verlieren! (KNOPF)
+(END)
+
+[>Pointer 213<]
+1. Wähle "Blitz'' und drücke(ABS)
+den A-Knopf. (WAIT)
+(END)
+
+[>Pointer 214<]
+2. Wenn die Hand erscheint,(ABS)
+gib die Technik ein. (WAIT)
+(END)
+
+[>Pointer 215<]
+3. Auf dem Steuerkreuz links,(ABS)
+rechts und links drücken.     (WAIT)
+(END)
+
+[>Pointer 216<]
+4. Zum Schluß den A-Knopf(ABS)
+zur Bestätigung drücken.(WAIT)
+(END)
+
+[>Pointer 217<]
+5. Wenn Du einen Fehler(ABS)
+machst, passiert gar nichts.(ABS)
+Und: Mit Ruhe geht alles!(WAIT)
+(END)
+
+[>Pointer 218<]
+Gesthal:(ABS)
+Kefka! Spinnst du!?(WAIT)
+(END)
+
+[>Pointer 219<]
+Kefka:(ABS)
+Spinnen!? (WAIT)
+Imperator!(ABS)
+Halt mich nicht ab!(WAIT)
+(ABS)
+Ich zeige ihnen die(ABS)
+Bedeutung von Macht!(WAIT)
+(END)
+
+[>Pointer 220<]
+Gesthal:(ABS)
+Wohl eher nicht, mein Freund.(WAIT)
+(ABS)
+Du bist gefeuert.(WAIT)
+(END)
+
+[>Pointer 221<]
+Gesthal:(ABS)
+Entspanne dich...(WAIT)
+(ABS)
+Du wirst jetzt schlafen.(WAIT)
+(ABS)
+Und zwar dank der Kraft,(ABS)
+die du heraufbeschworen(ABS)
+hast...(WAIT)
+(END)
+
+[>Pointer 222<]
+Gesthal: Was ist so lustig?(WAIT)
+(END)
+
+[>Pointer 223<]
+Gesthal:(ABS)
+Gut. (WAIT)
+Es paßt zu dir,(ABS)
+daß du lachend einschläfst.(WAIT)
+(END)
+
+[>Pointer 224<]
+Feuer3!!!(KNOPF)
+(END)
+
+[>Pointer 225<]
+Lodern!!!(KNOPF)
+(END)
+
+[>Pointer 226<]
+Gesthal:(ABS)
+N...nein!!!(WAIT)
+(ABS)
+Warum versagt meine Magie!?(WAIT)
+(END)
+
+[>Pointer 227<]
+Merton!!!(KNOPF)
+(END)
+
+[>Pointer 228<]
+Gesthal:(ABS)
+K...Kefka!!!!!(WAIT)
+(ABS)
+W...wie...!?(WAIT)
+(END)
+
+[>Pointer 229<]
+Gesthal:(ABS)
+Wie machst du das!?(WAIT)
+(END)
+
+[>Pointer 230<]
+Kefka:(ABS)
+Wie!? (WAIT)
+Ganz einfach!(WAIT)
+(ABS)
+Ich stehe im Feld der(ABS)
+Statuen! (WAIT)
+(ABS)
+Dieses Feld absorbiert(ABS)
+jegliche Magie in seiner(ABS)
+Nähe!(WAIT)
+(ABS)
+Hast du das noch nicht(ABS)
+gemerkt!? (WAIT)
+(END)
+
+ 
+[>Pointer 231<]
+Gesthal:(ABS)
+............!!!(WAIT)
+(END)
+
+[>Pointer 232<]
+Kefka:(ABS)
+Und jetzt, Statuen!(ABS)
+Ihr habt mir ein Zeichen(ABS)
+gegeben!(WAIT)
+(ABS)
+Zeigt dem alten Mann(ABS)
+einmal Eure wahre Macht!(WAIT)
+(END)
+
+[>Pointer 233<]
+Gesthal:(ABS)
+Nein! Kefka!(WAIT)
+(ABS)
+Tu nichts Unüberlegtes...(WAIT)
+(END)
+
+[>Pointer 234<]
+Kefka:(ABS)
+Ich befehle es Euch,(ABS)
+Statuen!!!(KNOPF)
+(END)
+
+[>Pointer 235<]
+Kefka:(ABS)
+U...unglaublich!(WAIT)
+(END)
+
+[>Pointer 236<]
+Kefka:(ABS)
+Völlig daneben!!!(WAIT)
+(ABS)
+Gleich nochmal!(WAIT)
+(END)
+
+[>Pointer 237<]
+Kefka:(ABS)
+Oh! Weiter nach rechts! (WAIT)
+(END)
+
+[>Pointer 238<]
+Kefka:(ABS)
+Renn! Renn!(WAIT)
+(ABS)
+Oder du wirst...!(WAIT)
+(END)
+
+[>Pointer 239<]
+Kefka:(ABS)
+JAWOLL!!!(KNOPF)
+(END)
+
+[>Pointer 240<]
+Kefka:(ABS)
+Armer alter...(WAIT)
+(ABS)
+Was für ein jämmerlicher(ABS)
+Imperator!!!(WAIT)
+(END)
+
+[>Pointer 241<]
+Locke:(ABS)
+Sei doch nicht so herzlos!(WAIT)
+(END)
+
+[>Pointer 242<]
+Ultros:(ABS)
+.........(WAIT)
+(ABS)
+.........(WAIT)
+(ABS)
+.........(WAIT)
+(ABS)
+.........(WAIT)
+(ABS)
+.........(WAIT)
+(ABS)
+.........(WAIT)
+(ABS)
+.........(WAIT)
+(ABS)
+.........(WAIT)
+(ABS)
+Also gut, Onkel Ulti möchte(ABS)
+SOOOO gerne ein Porträt(ABS)
+von dir gemalt bekommen!(WAIT)
+(END)
+
+[>Pointer 243<]
+Relm: Tihihi...(WAIT)
+(ABS)
+Es wird dir gefallen!(WAIT)
+(END)
+
+[>Pointer 244<]
+Strago:(ABS)
+Wie auch immer, komm her!(WAIT)
+(END)
+
+[>Pointer 245<]
+Wrackseele:(ABS)
+Ich besetze deinen Körper!(WAIT)
+(ABS)
+In dieser Form werde ich(ABS)
+erst wieder erscheinen,(ABS)
+wenn du stirbst!(WAIT)
+(END)
+
+[>Pointer 246<]
+Kefka:(ABS)
+Leben... (KNOPF)
+Träume... (KNOPF)
+Hoffnung... (KNOPF)
+(KNOPF)
+(END)
+
+[>Pointer 247<]
+Woher kommen sie?(KNOPF)
+(ABS)
+Und wohin gehen sie...?(KNOPF)
+(KNOPF)
+(KNOPF)
+(END)
+
+[>Pointer 248<]
+Ich werde diese Dinge...(KNOPF)
+(KNOPF)
+(ABS)
+...alle zerstören!!!(KNOPF)
+(END)
+
+[>Pointer 249<]
+Gau:(ABS)
+Und du......Angst vor mir!(WAIT)
+(END)
+
+[>Pointer 250<]
+Gau:(ABS)
+Uah, ha!(WAIT)
+(ABS)
+Das lustig! Du stark!(WAIT)
+(END)
+
+[>Pointer 251<]
+(END)
+
+[>Pointer 252<]
+Shadow:(ABS)
+Ich bin fertig.(WAIT)
+(ABS)
+Damit sind wir quitt!  (WAIT)
+(END)
+
+[>Pointer 253<]
+Shadow:(ABS)
+Ta-ta......!(WAIT)
+(END)
+
+[>Pointer 254<]
+(END)
+
+
+[>DUMP END<]----------------------------------------------------------
