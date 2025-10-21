@@ -21,12 +21,13 @@
      FF      FF
      FF      F        FINAL FANTASY III (US/SNES) = Teil VI der Serie
      FF               Deutsche Übersetzung von ManuLöwe (Manuel Charisius)
-     FF               Version 1.40 vom 05.01.2008 / Gesamtprojekt © 2000-2012
+     FF               Version 1.50 vom XX.XX.20XX / Gesamtprojekt © 2000-2012
      F              __________________________________________________________
 
 
 
 Hinweis: Bitte den automatischen Zeilenumbruch aktivieren!
+
 
 
 INHALT MIT SUCHCODES:
@@ -49,16 +50,11 @@ Euer Lieblings-Rollenspiel für Super Nintendo, Final Fantasy III (US), in deutsc
 
 Ihr dachtet, das sei nicht möglich? Ist es aber!
 
-Mit diesem ZIP-Archiv bekommt Ihr zwei xdelta-Dateien. Sie sind identisch und erlauben es Euch, FF3 komplett in deutscher Sprache zu zocken. Nebenbei bügeln sie ein paar Fehler im Spiel aus, lassen fehlerfreies Zocken im PAL-Modus zu und, und, und. Hinsichtlich ihrer Funktionalität sind beide Patches identisch. Der einzige Unterschied ist folgender:
+Dieses ZIP-Archiv enthält einen sogenannten BPS-Patch, der es euch erlaubt, FF3 komplett in deutscher Sprache zu spielen. Nebenbei bügelt er ein paar Fehler im Spiel aus, ermöglicht fehlerfreies Zocken im PAL-Modus und, und, und. Weiter unten wird erklärt, wie der Patch anzuwenden ist. Bitte lest euch den folgenden Text bei Gelegenheit durch, insbesondere wenn ihr vorhaben solltet, mir Fehler, Verbesserungsvorschläge und dergleichen mitzuteilen.
 
-- ff3_deutsch_v140_newfont_noheader.xdelta "verschnörkelt" die Schriftart, mit der der Text dargestellt wird.
-- ff3_deutsch_v140_oldfont_noheader.xdelta beläßt die Schriftart wie im englischen Original.
+In diesem Sinne wünsche ich euch viel Spaß mit der Übersetzung!
 
-Wählt also mit Bedacht, aber seid gewiß, daß sich die beiden Patches ansonsten in nichts unterscheiden. Wendet deshalb unbedingt nur EINEN der beiliegenden Patches an! Weiter unten wird beschrieben, wie sie zu benutzen sind. Bitte lest Euch den folgenden Text bei Gelegenheit durch, insbesondere wenn Ihr vorhaben solltet, mir Fehler, Verbesserungsvorschläge, Fragen und dergleichen zu mailen.
-
-In diesem Sinne wünsche ich Euch viel Spaß mit der Übersetzung!
-
-Haftungsausschluß (bitte beachtet hierzu auch die rechtlichen Hinweise am Ende dieser Datei): Es sei hiermit ausdrücklich betont, daß ich diesen Übersetzungspatch vollständig aus freien Stücken angefertigt habe und er weder von Squaresoft/Square Enix noch von Nintendo in Auftrag gegeben wurde. Er ist daher nicht offiziell. Ich übernehme des weiteren keinerlei Haftung für Schäden, die Euch durch die Benutzung dieses Patches entstehen mögen. Für solche Schäden seid Ihr als Nutzer vollständig selbst verantwortlich und akzeptiert dies mit der Inbetriebnahme des Patches.
+Haftungsausschluss (bitte beachtet hierzu auch die rechtlichen Hinweise am Ende dieser Datei): Es sei hiermit ausdrücklich betont, dass ich diesen Übersetzungspatch vollständig aus freien Stücken angefertigt habe und er weder von Squaresoft/Square Enix noch von Nintendo in Auftrag gegeben wurde. Er ist daher nicht offiziell. Ich übernehme des weiteren keinerlei Haftung für Schäden, die euch durch die Benutzung dieses Patches entstehen mögen. Für solche Schäden seid ihr als Nutzer vollständig selbst verantwortlich und akzeptiert dies mit der Inbetriebnahme des Patches.
 
 
 
@@ -67,18 +63,28 @@ W W W
 WW WW  A S   I S T   N E U   ?
 
 
-HINWEIS VOM 20.05.2012
-----------------------
+Neuerungen in v1.50 vom XX.XX.20XX
+----------------------------------
 
-Die neuen xdelta-Patches enthalten die bisherige Version 1.40 der Übersetzung. AM SPIELTEXT WURDE NICHTS VERÄNDERT! Habt Ihr bereits ein gepatchtes ROM mit v1.40 der Übersetzung, könnt Ihr dieses bedenkenlos weiterverwenden, es ist kein Update nötig.
+- Kleine (?) Fehlerkorrekturen und Verbesserungen.
 
-Ich bin lediglich auf ein völlig anderes, verläßliches Patch-Format umgestiegen: xdelta3. Eine Schritt-für-Schritt-Anleitung des Patchvorgangs mit Link zum passenden Tool findet Ihr in der entsprechenden Rubrik weiter unten. Ab sofort wird zwingend ein ROM der Revision 1.1 benötigt, die Übersetzung ist mit Revision 1.0 nicht mehr kompatibel. Ach ja, und das Logo am Anfang dieser Datei habe ich auch noch neugestaltet. :-) Viel Spaß!
+- Der Patch wird ab sofort im BPS-Format angeboten, da sich dieses in den letzten Jahren als IPS-Nachfolger quasi etabliert hat.
+
+- Ein Patch mit einer anderen als der Standardschriftart wird nicht mehr angeboten.
+
+
+Hinweis zum Release vom 20.05.2012
+----------------------------------
+
+Die neuen xdelta-Patches enthalten die bisherige Version 1.40 der Übersetzung. AM SPIELTEXT WURDE NICHTS VERÄNDERT! Habt ihr bereits ein gepatchtes ROM mit v1.40 der Übersetzung, könnt ihr dieses bedenkenlos weiterverwenden, es ist kein Update nötig.
+
+Ich bin lediglich auf ein völlig anderes, verlässliches Patch-Format umgestiegen: xdelta3. Eine Schritt-für-Schritt-Anleitung des Patchvorgangs mit Link zum passenden Tool findet ihr in der entsprechenden Rubrik weiter unten. Ab sofort wird zwingend ein ROM der Revision 1.1 benötigt, die Übersetzung ist mit Revision 1.0 nicht mehr kompatibel. Ach ja, und das Logo am Anfang dieser Datei habe ich auch noch neugestaltet. :-) Viel Spaß!
 
 
 Neuerungen in v1.40 vom 05.01.2008
 ----------------------------------
 
-- Einen Textformatierungsfehler mit häßlichen Folgen bei der Wiederbegegnung mit Cyan (World of Ruin) beseitigt.
+- Einen Textformatierungsfehler mit hässlichen Folgen bei der Wiederbegegnung mit Cyan (World of Ruin) beseitigt.
 
 - Gau sagt nun zu Sabin, Cyan (und einigen anderen) nicht mehr "Mr. Ihr", sondern "Mr. Sir". Diese Lösung erscheint mir (nicht nur) vom linguistischen Standpunkt aus gesehen organischer. Ich verdanke sie übrigens RPGOne Translations. ;-)
 
@@ -132,11 +138,11 @@ Neuerungen in v1.40 vom 05.01.2008
 
 - Terii Senshis "Psycho Cyan Bug Fix" (siehe http://www.rpglegion.com/ff6/hack/psycho.htm) ist auf die Version 1.1 aktualisiert (dabei wurden natürlich alle Reste der fehlerhaften Version 1.0 entfernt).
 
-- Der häßliche gelbe Streifen in Gogos Statusmenü wird endlich entfernt! Ein Dank geht an Assassin (http://www14.brinkster.com/assassin17/patches.htm#anchor21) für seinen Hack ("That Damn Yellow Streak Fix")! (Version dieses speziellen Hacks: Beta 0.25)
+- Der hässliche gelbe Streifen in Gogos Statusmenü wird endlich entfernt! Ein Dank geht an Assassin (http://www14.brinkster.com/assassin17/patches.htm#anchor21) für seinen Hack ("That Damn Yellow Streak Fix")! (Version dieses speziellen Hacks: Beta 0.25)
 
-- Wieder dank Assassin konnte ein Schönheitsfehler bezüglich Stragos Lore "Step Mine" beseitigt werden ("Step Mine's missing digit Fix")! Falls Ihr diesen Fehler nicht kennen solltet, so ist er Euch vermutlich nie untergekommen, da er recht selten ist. Auf Assassins Homepage (http://www14.brinkster.com/assassin17/patches.htm#anchor16) wird er aber genau beschrieben. (Version dieses speziellen Hacks: Beta 0.22)
+- Wieder dank Assassin konnte ein Schönheitsfehler bezüglich Stragos Lore "Step Mine" beseitigt werden ("Step Mine's missing digit Fix")! Falls ihr diesen Fehler nicht kennen solltet, so ist er euch vermutlich nie untergekommen, da er recht selten ist. Auf Assassins Homepage (http://www14.brinkster.com/assassin17/patches.htm#anchor16) wird er aber genau beschrieben. (Version dieses speziellen Hacks: Beta 0.22)
 
-- Die beiden Patches wurden gegeneinander abgeglichen um sicherzustellen, daß sie sich wirklich nur in der Schriftart voneinander unterscheiden (es gab nur äußerst geringfügige Abweichungen, zumeist in der Textformatierung).
+- Die beiden Patches wurden gegeneinander abgeglichen um sicherzustellen, dass sie sich wirklich nur in der Schriftart voneinander unterscheiden (es gab nur äußerst geringfügige Abweichungen, zumeist in der Textformatierung).
 
 - Zu guter Letzt habe ich dieses Dokument komplett neugestaltet. Yay. :-)
 
@@ -157,7 +163,7 @@ Neuerungen in v1.30
 
 - Einige wenige verkehrt gesetzte Tilden "~" in Schrägstriche "/" geändert.
 
-- Der PAL-Fix von d4s (http://www.dforce3000.de/) wurde integriert! Das heißt, Ihr könnt den Übersetzungspatch jetzt auch im 50-Hz-Modus (PAL) zocken, ohne daß das Ending stehenbleibt, und außerdem sind die Menüs auch auf der Weltkarte immer intakt! Großer Dank an d4s zum einen für die Arbeit und zum anderen für die Erlaubnis, diese in meine Patches zu integrieren! :)
+- Der PAL-Fix von d4s (http://www.dforce3000.de/) wurde integriert! Das heißt, ihr könnt den Übersetzungspatch jetzt auch im 50-Hz-Modus (PAL) zocken, ohne dass das Ending hängenbleibt, und außerdem sind die Menüs auch auf der Weltkarte immer intakt! Großer Dank an d4s zum einen für die Arbeit und zum anderen für die Erlaubnis, diese in mein Projekt zu integrieren! :)
 
 
 Features des Patches bzw. Neuerungen vor v1.30
@@ -181,18 +187,18 @@ Features des Patches bzw. Neuerungen vor v1.30
 
 - Terii Senshis "Evade Bugfix Patch" ist implementiert. Er ist für folgendes gut (übernommen von seiner Website http://www.rpglegion.com/ff6/hack/patches.htm):
   "The way the game is supposed to work is that Evade increases your chance of dodging physical attacks, and MBlock increases your chance of dodging magical attacks. Due to a bug, MBlock helps increase the chance to dodge both physical and magical attacks, and Evade has no use. The same bug also disables other features that were meant to be in the game, such as the Blind (=Dark) status and the Beads relic, which due to this bug also have no effect."
-  Das heißt grob übersetzt, daß "ABlock" eigentlich dazu beitragen soll, physischen Angriffen auszuweichen, und "MBlock" eben magischen. Aufgrund des Bugs allerdings erhöht "MBlock" Eure Chance, sowohl physischen als auch magischen Angriffen auszuweichen, und "ABlock" hat gar keinen Effekt. Außerdem setzt dieser Bug auch andere Dinge außer Kraft, wie den Status "Blind" und das Relikt "Perlenschnur".
+  Das heißt grob übersetzt, dass "ABlock" eigentlich dazu beitragen soll, physischen Angriffen auszuweichen, und "MBlock" eben magischen. Aufgrund des Bugs allerdings erhöht "MBlock" eure Chance, sowohl physischen als auch magischen Angriffen auszuweichen, und "ABlock" hat gar keinen Effekt. Außerdem setzt dieser Bug auch andere Dinge außer Kraft, wie den Status "Blind" und das Relikt "Perlenschnur".
   Okay, nachdem wir das verdaut haben, möchten wir den Bugfix kennenlernen. So arbeitet er:
   "Evade now helps dodge physical attacks. For physical attacks, if the attacker has Blind status, their hit rate is cut in half. For physical attacks, if the target is equipped with Beads, the attacker's hit rate is cut in half. If the target has Confuse (=Muddle), Blind, Zombie, Life 3, or Slow status, the attacker's hit rate is increased by 25%. If the target has Seizure, Weak, Poison, or Haste status, the attacker's hit rate is reduced by 25%."
-  Das heißt auf gut Deutsch, daß "ABlock" nun hilft, physischen Angriffen auszuweichen (wer hätte das gedacht!?). Für physische Angriffe gilt: Wenn der Angreifer den Status "Blind" hat, halbiert sich seine Trefferquote; wenn das Ziel eines Angriffs das Relikt "Perlenschnur" trägt, halbiert sich die Trefferquote des Angreifers; wenn das Ziel den Status "Verrückt", "Blind", "Zombie", "Leben 3" oder "Langsam" hat, erhöht sich die Trefferquote des Angreifers um 25%. Wenn das Ziel den Status "Packen", "Schwach" (was immer damit gemeint ist, wahrscheinlich wenig HP), "Gift" oder "Hast" hat, verringert sich die Trefferquote des Angreifers um 25%. 
+  Das heißt auf gut Deutsch, dass "ABlock" nun hilft, physischen Angriffen auszuweichen (wer hätte das gedacht!?). Für physische Angriffe gilt: Wenn der Angreifer den Status "Blind" hat, halbiert sich seine Trefferquote; wenn das Ziel eines Angriffs das Relikt "Perlenschnur" trägt, halbiert sich die Trefferquote des Angreifers; wenn das Ziel den Status "Verrückt", "Blind", "Zombie", "Leben 3" oder "Langsam" hat, erhöht sich die Trefferquote des Angreifers um 25%. Wenn das Ziel den Status "Packen", "Schwach" (was immer damit gemeint ist, wahrscheinlich wenig HP), "Gift" oder "Hast" hat, verringert sich die Trefferquote des Angreifers um 25%. 
 
 - Terii Senshis "Psycho Cyan Glitch Fix Patch" ist implementiert. Er tut folgendes (übernommen von seiner Website http://www.rpglegion.com/ff6/hack/patches.htm):
   "If you don't know what the Psycho Cyan glitch is, here's how it works. Have Cyan use Retort. Kill off Cyan, and then revive him. Turn Cyan into an Imp (you can turn Cyan into an Imp before you kill him, too). Now the next time anyone attacks (including Cyan), Cyan will keep attacking all the enemies until they're dead."
-  Also, der Fehler kann folgendermaßen reproduziert werden: Laßt Cyan die Schwert-Technik "Erwidern" benutzen. Tötet Cyan und wiederbelebt ihn. Verwandelt ihn in einen Imp (Ihr könnt ihn auch in einen Imp verwandeln, bevor Ihr ihn tötet), und nun wird er, wenn das nächste Mal jemand (oder er selbst) angreift, alle Gegner angreifen, bis sie tot sind. (Das Ganze ist ziemlich schwer zu machen. Ich hab's allerdings nach einigem Spielen geschafft, und es ist tatsächlich der Fall. Eigentlich ist es ja ziemlich witzig, aber es ist definitiv ein Fehler!)
+  Also, der Fehler kann folgendermaßen reproduziert werden: Lasst Cyan die Schwert-Technik "Erwidern" benutzen. Tötet Cyan und wiederbelebt ihn. Verwandelt ihn in einen Imp (ihr könnt ihn auch in einen Imp verwandeln, bevor ihr ihn tötet), und nun wird er, wenn das nächste Mal jemand (oder er selbst) angreift, alle Gegner angreifen, bis sie tot sind. (Das Ganze ist ziemlich schwer zu machen. Ich hab's allerdings nach einigem Spielen geschafft, und es ist tatsächlich der Fall. Eigentlich ist es ja ziemlich witzig, aber es ist definitiv ein Fehler!)
   "This bug is actually two bugs in one. The first bug is that after Cyan has died in battle and then been revived, he will use Retort against any attacks, not just attacks that hit him. He'll even counter with Retort if he himself attacks."
-  Nun erfahren wir, daß es sich hier eigentlich um zwei Fehler in einem handelt. Der erste ist der, daß Cyan, wenn er im Kampf draufging und wiederbelebt wurde, "Erwidern" gegen JEDEN Angriff benutzt, nicht bloß gegen Angriffe, die ihn treffen. Er wird sogar mit "Erwidern" reagieren, wenn er selbst angreift.
+  Nun erfahren wir, dass es sich hier eigentlich um zwei Fehler in einem handelt. Der erste ist der, dass Cyan, wenn er im Kampf draufging und wiederbelebt wurde, "Erwidern" gegen JEDEN Angriff benutzt, nicht bloß gegen Angriffe, die ihn treffen. Er wird sogar mit "Erwidern" reagieren, wenn er selbst angreift.
   "The second bug is that if Cyan uses Retort and then turns into an Imp and someone hits him, he'll counter with a standard attack instead of Retort. Since he didn't use Retort, his Retort "status" will stay, and every time he's hit with an attack he'll counter by attacking."
-  Der zweite Fehler besteht darin, daß Cyan, wenn er "Erwidern" benutzt und sich dann in einen Imp verwandelt, mit einem Standard-Angriff reagiert, und nicht mit "Erwidern". Da er aber dann "Erwidern" nicht benutzt hat, bleibt quasi sein "Erwidern"-"Status" erhalten, und er wird jedes Mal, wenn er getroffen wird, mit einem normalen Angriff reagieren.
+  Der zweite Fehler besteht darin, dass Cyan, wenn er "Erwidern" benutzt und sich dann in einen Imp verwandelt, mit einem Standard-Angriff reagiert, und nicht mit "Erwidern". Da er aber dann "Erwidern" nicht benutzt hat, bleibt quasi sein "Erwidern"-"Status" erhalten, und er wird jedes Mal, wenn er getroffen wird, mit einem normalen Angriff reagieren.
   "Combine these two bugs and you have Cyan constantly countering his own attack."
   Werden diese beiden Fehler nun logisch kombiniert, so wird Cyan, wenn das Timing stimmt und die Fehlerschleife startet, ständig auf seinen eigenen Angriff reagieren, so lange, bis alle Gegner weg sind.
   "This patch only fixes the first bug, and not the second, but that's good enough to stop the Psycho Cyan Glitch."
@@ -203,7 +209,7 @@ Features des Patches bzw. Neuerungen vor v1.30
 
 - Unzählige Schönheitsfehler werden ausgemerzt, wie z. B. die Tilden im Kampf zwischen den momentanen und den maximalen Lebenspunkten (diese werden zu Schrägstrichen, was der Darstellung im Menü entspricht), die sich überlappenden Bezeichnungen im Talent-Menü - und viele, viele mehr!
 
-- Die Schriftart von Dialogen, Menüs, Trefferpunkten im Kampf etc. wird verschnörkelt. (Dank an Sky Render von RPGOne Translations!). Beim Spielen seht Ihr demnach nicht die originale FF3-Schrift, sondern die aus "Romance of the Three Kingdoms 3" gerippte (und von mir noch ein wenig modifizierte) Font. Sie ist von archaischer Ästhetik und paßt auch atmosphärisch gut zum Spiel, finde ich. Dies gilt jedoch *NUR* für den Patch mit dem "A" hinter der Versionsnummer! Im "B"-Patch, den ich auf vielfachen Wunsch hin zusätzlich herausgebe, bleibt die Original-Schriftart von Final Fantasy III erhalten!
+- Die Schriftart von Dialogen, Menüs, Trefferpunkten im Kampf etc. wird verschnörkelt. (Dank an Sky Render von RPGOne Translations!). Beim Spielen seht ihr demnach nicht die originale FF3-Schrift, sondern die aus "Romance of the Three Kingdoms 3" gerippte (und von mir noch ein wenig modifizierte) Font. Sie ist von archaischer Ästhetik und passt auch atmosphärisch gut zum Spiel, finde ich. Dies gilt jedoch *NUR* für den Patch mit dem "A" hinter der Versionsnummer! Im "B"-Patch, den ich auf vielfachen Wunsch hin zusätzlich herausgebe, bleibt die Original-Schriftart von Final Fantasy III erhalten!
 
 - Der interne ROM-Name wird in "FF6 German ManuLoewe" geändert.
 
@@ -227,7 +233,7 @@ Vorspann:               0%
 Abspann:                0%
 --------------------------
 
-Wie Ihr seht, ist der Patch so gut wie komplett. Bis es allerdings soweit war, verging viel Zeit! Angefangen, mich mit Final Fantasy III zu beschäftigen, habe ich im Februar des Jahres 2000. Damals hatte ich vom ROM-Hacking so gut wie keine Ahnung, und es gab noch keinen annähernd vollständigen deutschen Patch für FF3. So beschloß ich, mich der Sache anzunehmen. Es fiel mir nicht schwer, mich in die notwendigen technischen Grundlagen einzuarbeiten. Mit den Möglichkeiten wuchsen sowohl mein Eifer als auch mein Anspruch an das Endergebnis.
+Wie ihr seht, ist der Patch so gut wie komplett. Bis es allerdings soweit war, verging viel Zeit! Angefangen, mich mit Final Fantasy III zu beschäftigen, habe ich im Februar des Jahres 2000. Damals hatte ich vom ROM-Hacking so gut wie keine Ahnung, und es gab noch keinen annähernd vollständigen deutschen Patch für FF3. So beschloss ich, mich der Sache anzunehmen. Es fiel mir nicht schwer, mich in die notwendigen technischen Grundlagen einzuarbeiten. Mit den Möglichkeiten wuchsen sowohl mein Eifer als auch mein Anspruch an das Endergebnis.
 
 Es dauerte bis zum Oktober 2002, bis ich - nach zahlreichen Rückschlägen, mit vielen Pausen und nicht ohne Anfeindungen, aber auch dank zahlreicher Tips und Hilfen netter Leute - die Dialoge komplett übersetzt hatte und einen Beta-Patch veröffentlichen konnte, der den Spieltext erstmals vollständig ins Deutsche übersetzte.
 
@@ -235,19 +241,19 @@ Danach gab es natürlich noch viel zu korrigieren und zu verbessern, außerdem hat
 
 Hinzu kamen dann noch Sahnehäubchen wie der originale FF6-Titelbildschirm, die Beseitigung zahlreicher Schönheits- und sogar einiger Programmierfehler (letztere wurden hauptsächlich dank Terii Senshi und Assassin beseitigt), d4s' PAL-Fix und vieles mehr - von den Korrekturen in den deutschen Texten, die den E-Mails vieler Tester und Spieler meines Patches zu verdanken sind, ganz zu schweigen.
 
-Mittlerweile hat der Patch ein sehr hohes - ich möchte fast wagen zu sagen: professionelles - Niveau erreicht, was mir auch durch das erfreuliche, weil lobende Feedback der letzten Monate und Jahre immer wieder bestätigt wurde. Dafür möchte ich Euch, den Spielern meiner Übersetzung, ebenfalls ein herzliches Dankeschön aussprechen! :-)
+Mittlerweile hat der Patch ein sehr hohes - ich möchte fast wagen zu sagen: professionelles - Niveau erreicht, was mir auch durch das erfreuliche, weil lobende Feedback der letzten Monate und Jahre immer wieder bestätigt wurde. Dafür möchte ich euch, den Spielern meiner Übersetzung, ebenfalls ein herzliches Dankeschön aussprechen! :-)
 
 Im folgenden noch ein paar Worte zur Übersetzung als solcher. (Weniger an sprachlichen Feinheiten Interessierte dürfen diese gerne überspringen.)
 
 
 RECHTSCHREIBUNG:
-Wundert Euch bitte nicht, wenn Ihr Kommasetzungen (z. B. vor Infinitiv mit "zu"), Schreibweisen (z. B. "daß", "Alptraum" etc.) oder andere Dinge findet, die Euch seltsam vorkommen: Diese Übersetzung folgt den Regeln der *alten* Rechtschreibung, welche bis zur Reform von 1996 gültig waren. Habt Ihr einen Duden (20. Auflage!) zur Hand, solltet Ihr mutmaßliche "Fehler" darin bitte verifizieren, bevor Ihr mich darauf ansprecht.
+Wundert euch bitte nicht, wenn ihr Kommasetzungen (z. B. vor Infinitiv mit "zu"), Schreibweisen (z. B. "daß", "Alptraum" etc.) oder andere Dinge findet, die euch seltsam vorkommen: Diese Übersetzung folgt den Regeln der *alten* Rechtschreibung, welche bis zur Reform von 1996 gültig waren. Habt ihr einen Duden (20. Auflage!) zur Hand, solltet ihr mutmaßliche "Fehler" darin bitte verifizieren, bevor ihr mich darauf ansprecht.
 
 
 ANREDE:
-Wenn jemand mit "Ihr" (groß geschrieben) angesprochen wird, so ist das eine Höflichkeitsanrede (Einzahl und Mehrzahl). Wenn "ihr" klein geschrieben ist, so ist die ganz normale Mehrzahl gemeint (d.h. einzelne Personen der angesprochenen Gruppe würden geduzt werden). Beachtet, daß sich die Figuren im Laufe des Spieles kennenlernen und "Ihr" deshalb zu "du" werden kann. Außerdem gibt es Stellen, an denen gewissen Figuren einfach der gehörige Respekt fehlt; dies habe ich zu verdeutlichen versucht, indem ich diese Figur stets "du"/"ihr" verwenden ließ. Achtet also auf die jeweilige Schreibweise der Anrede, und Ihr erhaltet einen Eindruck davon, wie die Figuren miteinander kommunizieren.
+Wenn jemand mit "Ihr" (groß geschrieben) angesprochen wird, so ist das eine Höflichkeitsanrede (Einzahl und Mehrzahl). Wenn "ihr" klein geschrieben ist, so ist die ganz normale Mehrzahl gemeint (d.h. einzelne Personen der angesprochenen Gruppe würden geduzt werden). Beachtet, dass sich die Figuren im Laufe des Spieles kennenlernen und "Ihr" deshalb zu "du" werden kann. Außerdem gibt es Stellen, an denen gewissen Figuren einfach der gehörige Respekt fehlt; dies habe ich zu verdeutlichen versucht, indem ich diese Figur stets "du"/"ihr" verwenden ließ. Achtet also auf die jeweilige Schreibweise der Anrede, und ihr erhaltet einen Eindruck davon, wie die Figuren miteinander kommunizieren.
 
-Manchmal mußte ich den Spieler direkt anreden ("Wähle XXX, dann kannst Du..." usw.). Das "Du" habe ich dann groß geschrieben, weil es quasi wie in einem Brief verwendet wird.
+Manchmal musste ich den Spieler direkt anreden ("Wähle XXX, dann kannst Du..." usw.). Das "Du" habe ich dann groß geschrieben, weil es quasi wie in einem Brief verwendet wird.
 
 
 INTERPUNKTION:
@@ -258,9 +264,9 @@ Beispiele:
 "Wir müssen einen Weg finden... Wir müssen Kefka besiegen!"
 
 Will man einen Namen mit dem Genitiv (Besitzfall) markieren, so setzt man im Deutschen normalerweise kein Apostroph vor dem Genitiv-S (Beispiel: "ManuLöwes Übersetzung", also nicht: "ManuLöwe's Übersetzung"). Nun kann man bei FF3, wie bei vielen Spielen dieser Art, die Charaktere jedoch umbenennen. Sollte der Spieler einen Namen wählen, an dessen Ende beispielsweise ein S, X oder Z steht, so würde ein angehängtes Genitiv-S sehr merkwürdig aussehen (z. B. "Alexs Freundin", "Tobiass Luftschiff"). Aud diesem Grund habe ich zwischen den Namensvariablen und dem Genitiv-S IMMER ein Apostroph eingefügt. Das ist im Rahmen der alten Rechtschreiberegeln sogar zulässig, vorausgesetzt, man will einen Namen besonders hervorheben, was in diesem Fall zutrifft.
-Also heißt es im Spiel nun "Locke's Freundin", "Setzer's Luftschiff", "Gau's Vater" und so fort. Bei den unveränderlichen Namen wie Kefka, Gesthal, Cid, Leo usw. habe ich mir und Euch diese Krücke selbstverständlich erspart.
+Also heißt es im Spiel nun "Locke's Freundin", "Setzer's Luftschiff", "Gau's Vater" und so fort. Bei den unveränderlichen Namen wie Kefka, Gesthal, Cid, Leo usw. habe ich mir und euch diese Krücke selbstverständlich erspart.
 
-Anführungs- und Schlußzeichen haben, wie auch im Original, verschiedenes Aussehen. Sie haben nicht nur die Funktion, Worte hervorzuheben, sondern ersetzen manchmal auch die Voranstellung von Name und Doppelpunkt - gerade z. B. in der World of Ruin, wo es dem Spieler überlassen ist, welche Personen er in welcher Reihenfolge abholt, oder im Dialog mit Kefka, kurz vor dem letzten Kampf.
+Anführungs- und Schlusszeichen haben, wie auch im Original, verschiedenes Aussehen. Sie haben nicht nur die Funktion, Worte hervorzuheben, sondern ersetzen manchmal auch die Voranstellung von Name und Doppelpunkt - gerade z. B. in der World of Ruin, wo es dem Spieler überlassen ist, welche Personen er in welcher Reihenfolge abholt, oder im Dialog mit Kefka, kurz vor dem letzten Kampf.
 
 
 DIALOGE MIT AUSWAHL:
@@ -274,27 +280,27 @@ Wahl nach "(Was tun wir?)" o. ä.            --> Keine spezielle Markierung
 MENÜ:
 Bei den drei Werten "Zeit", "Weg" und "GS" habe ich Doppelpunkte angefügt.
 
-"Zeit" dürfte klar sein. Das Spiel zählt die Sekunden, die Ihr damit verbringt, und stellt sie im Format Stunden:Minuten dar.
+"Zeit" dürfte klar sein. Das Spiel zählt die Sekunden, die ihr damit verbringt, und stellt sie im Format Stunden:Minuten dar.
 
-"Weg" ist die von Eurer Spielfigur zurückgelegte Strecke, gemessen in Schritten.
+"Weg" ist die von eurer Spielfigur zurückgelegte Strecke, gemessen in Schritten.
 
 "GS" ist die Währung in Final Fantasy VI. Im englischen Original wird mit "GP" = "gold pieces" = Goldstücken bezahlt, weshalb ich die Abkürzung "GS" gewählt habe. Das in späteren Teilen der Final-Fantasy-Reihe vorherrschende "Gil" hier einzufügen wäre wohl diskutabel bzw. Geschmackssache gewesen.
 
 "Item" ist ein englisches Wort für "Punkt", "Posten" (= Objekt). Das alles erschien mir aber zu dem Zeitpunkt, als ich mit der Übersetzung des Menüs beschäftigt war, wenig passend. Daher habe ich das Wort vorläufig (?) beibehalten.
 
-"Save" (engl.) bedeutet "sichern", "speichern". Ich hoffe, Ihr seid mir nicht böse, daß ich aus Platzgründen "Save" habe stehen lassen. "Save points" heißen daher auch "SavePunkte" - das klingt reichlich bescheuert, wie ich zugeben muß, aber was soll's. ;-)
+"Save" (engl.) bedeutet "sichern", "speichern". Ich hoffe, ihr seid mir nicht böse, dass ich aus Platzgründen "Save" habe stehen lassen. "Save points" heißen daher auch "SavePunkte" - das klingt reichlich bescheuert, wie ich zugeben muss, aber was soll's. ;-)
 
 "Relic" wurde zu "Relikt". Im japanischen Original steht "Accessory" (= Zubehör, Extraausstattung), aber das ist platzmäßig keine Option.
 
-Falls Ihr in irgendeiner dieser Kategorien Abweichungen von den hier festgelegten Normen entdecken solltet, dürft Ihr mich dies gerne wissen lassen. :-)
+Falls ihr in irgendeiner dieser Kategorien Abweichungen von den hier festgelegten Normen entdecken solltet, dürft ihr mich dies gerne wissen lassen. :-)
 
 
 UNÜBERSETZTES UND FEHLER:
 Die schlechte Nachricht zuerst: Es gibt immer noch Fehler, sowohl im Spiel als auch in der Übersetzung. Vermutlich wird beides niemals fehlerfrei sein. Die gute Nachricht: Es sind wenige. ;-)
 
 Zwei (aus dem Original bekannte) Fehler sind folgende:
-- Besucht Ihr Duncan in der World of Ruin ohne Sabin, übt er in seinem Haus. Geht Ihr ein paar Mal ins Menü und wieder raus, springt Duncan immer wieder von vorn los - allerdings von der Stelle aus, an der er gerade war. Er landet deshalb nach einiger Zeit im Bereich außerhalb der Hausmauer.
-- Wenn Ihr Shadow im Kolosseum abholt, prangt unter seinem Namen der Schriftzug "Chupon".
+- Besucht ihr Duncan in der World of Ruin ohne Sabin, übt er in seinem Haus. Geht ihr ein paar Mal ins Menü und wieder raus, springt Duncan immer wieder von vorn los - allerdings von der Stelle aus, an der er gerade war. Er landet deshalb nach einiger Zeit im Bereich außerhalb der Hausmauer.
+- Wenn ihr Shadow im Kolosseum abholt, prangt unter seinem Namen der Schriftzug "Chupon".
 
 Des weiteren enthält FF3 einige Programmierfehler, die teilweise mit meinem Übersetzungspatch behoben werden. Umfangreiche Listen samt Patches gibt es im Internet bei diesen beiden netten Leuten:
 - Assassin: http://www14.brinkster.com/assassin17/patches.htm
@@ -307,17 +313,17 @@ Davon habe ich insgesamt vier Patches in meine Übersetzung integriert. Es sind d
 - Step Mine's missing digit Fix (Beta 0.22) (Assassin)
 
 Die zahlreichen anderen Patches habe ich vor allem aus dem Grund *nicht* implementiert, weil sie entweder nicht in mein Konzept passen (manche "Fehler" sind für den Spieler gezielt ausnutzbar) oder weil sie mir in ihrer Modifikation des Originals zu weit gehen.
-Ich kann deshalb leider keinen Support geben, wenn Ihr eigenmächtig Patches von den obigen Internetseiten herunterladet und auf meine Übersetzung anwendet, und weise überdies darauf hin, daß sich mancher Patch davon mit meinem ohnehin schon "aufgebohrten" übersetzten ROM nicht vertragen und daher Fehler, Abstürze sowie unerwünschtes Verhalten des Spiels bis hin zu einem komplett unbrauchbaren ROM verursachen könnte.
+Ich kann deshalb leider keinen Support geben, wenn ihr eigenmächtig Patches von den obigen Internetseiten herunterladet und auf meine Übersetzung anwendet, und weise überdies darauf hin, dass sich mancher Patch davon mit meinem ohnehin schon "aufgebohrten" übersetzten ROM nicht vertragen und daher Fehler, Abstürze sowie unerwünschtes Verhalten des Spiels bis hin zu einem komplett unbrauchbaren ROM verursachen könnte.
 
-Übrigens, wenn Ihr ZSNES oder einen anderen Mainstream-Emulator benutzt, kann es passieren, daß beim Spielen
+Übrigens, wenn ihr ZSNES oder einen anderen Mainstream-Emulator benutzt, kann es passieren, dass beim Spielen
 - am unteren Bildschirmrand eine Zeile "flackert" und/oder
 - in den (Kampf-)Menüs der Cursor halb oder ganz verschwindet und/oder
 - beim Fliegen mit dem Luftschiff krasse Grafikfehler auftreten und/oder
-- sonstige unvorhergesehene Fehler Euren Spielspaß trüben.
+- sonstige unvorhergesehene Fehler euren Spielspaß trüben.
 
-Mein Rat zur Lösung dieser Probleme: Eine Flashcart und das echte Super Nintendo zum Spielen verwenden, zumal dieser Patch für die Originalhardware optimiert ist. Oder Ihr benutzt einen möglichst akkuraten Emulator, z. B. bsnes (http://byuu.org/bsnes/).
+Mein Rat zur Lösung dieser Probleme: Eine Flashcart und das echte Super Nintendo zum Spielen verwenden, zumal dieser Patch für die Originalhardware optimiert ist. Oder ihr benutzt einen möglichst akkuraten Emulator, z. B. bsnes (http://byuu.org/bsnes/).
 
-Nun noch zu den (wenigen) unübersetzten Elementen. Hierzu gehören praktisch nur die Credits des Vor- und Abspanns ("PRODUCER" usw.). Problematisch dabei ist zum einen, daß erstere mit einem LZ77-Derivat o. ä. komprimiert sind. Zum anderen fehlt bei beiden der notwendige Platz im ROM sowie die Möglichkeit, die feste zentrierte Positionierung zu überwinden ("REGIE" hat weniger Zeichen als "DIRECTOR" und müßte deshalb eingerückt werden).
+Nun noch zu den (wenigen) unübersetzten Elementen. Hierzu gehören praktisch nur die Credits des Vor- und Abspanns ("PRODUCER" usw.). Problematisch dabei ist zum einen, dass erstere mit einem LZ77-Derivat o. ä. komprimiert sind. Zum anderen fehlt bei beiden der notwendige Platz im ROM sowie die Möglichkeit, die feste zentrierte Positionierung zu überwinden ("REGIE" hat weniger Zeichen als "DIRECTOR" und müsste deshalb eingerückt werden).
 
 
 
@@ -326,93 +332,33 @@ P P
 P   A T C H E N   D E S   R O M S
 
 
-Ein Patch beinhaltet nicht das Spiel, sondern nur die Änderungen, die jemand daran vorgenommen hat. Das bedeutet, Ihr benötigt zuerst das originale Super-Nintendo-ROM von "Final Fantasy III" in der englischsprachigen US-Version. (Bitte beachtet zu diesem Thema die rechtlichen Hinweise am Ende dieses Dokuments!)
+Ein Patch beinhaltet nicht das Spiel, sondern nur die Änderungen, die jemand daran vorgenommen hat. Das bedeutet, ihr benötigt zuerst das originale Super-Nintendo-ROM von "Final Fantasy III" in der englischsprachigen US-Version, und zwar Revision v1.1. (Bitte beachtet zu diesem Thema die rechtlichen Hinweise am Ende dieses Dokuments!)
 
-Nachdem Ihr Euch das ROM beschafft habt, solltet Ihr dessen Integrität mit der neuesten Version von NSRT überprüfen (derzeit v3.4, erhältlich unter http://www.romhacking.net/community/782/ - dort sind Versionen für alle gängigen Betriebssysteme aufgeführt). Startet das GUI (NF.EXE), navigiert zum Ordner mit dem ROM und klickt dieses doppelt an. Ihr solltet folgendes Ergebnis erhalten:
+Das ROM sollte eine Dateigröße von exakt 3.145.728 Bytes haben. Dies ist insofern wichtig, als ROMs früher oft einen sogenannten, 512 Byte großen Copier-Header hatten, der heute in den meisten Nutzungsszenarien obsolet ist (Emulatoren und aktuelle Flashcarts benötigen ihn nicht) und vor dem Patchen entfernt werden muss. Wenn ihr euch ein bisschen auskennt, könnt ihr außerdem die Integrität des headerlosen ROMs mittels Prüfsummen sicherstellen:
 
+- CRC32  : C0FA0464
+- SHA-1  : 057ada1c641e3e0b3ca34e6e4f4eb1b05a87143a
+- SHA-256: 10eccc5d2fab81346dd759f6be478dcb682eef981e8d3d662da176e1f9a996bc
+- intern : 0x8A60
 
-                  ---------------------Internal ROM Info----------------------
-                         File: final_fantasy_3_v1.1.sfc
-                         Name: FINAL FANTASY 3          Company: Square
-                       Header: None                        Bank: HiROM
-                  Interleaved: None                        SRAM: 64 Kb
-                         Type: Normal + Batt                ROM: 24 Mb
-                      Country: USA                        Video: NTSC
-                    ROM Speed: 120ns (FastROM)         Revision: 1.1
-                     Checksum: Good 0x8A60            Game Code: F6  
-                  ---------------------------Hashes---------------------------
-                        CRC32: C0FA0464
-                  --------------------------Database--------------------------
-                         Name: Final Fantasy III
-                      Country: USA                     Revision: 1.1
-                       Port 1: Gamepad                   Port 2: Gamepad
-                      Genre 1: RPG                      Genre 2: Turn Based
+Erhaltet ihr andere Resultate als oben angezeigt, so ist euer ROM unbrauchbar und ihr müsst ein anderes finden. Als nächstes braucht ihr ein Programm, das BPS-Patches verarbeiten kann. Ich empfehle flips von Alcaro (Download: https://www.smwcentral.net/?p=section&a=details&id=11474 oder https://github.com/Alcaro/Flips).
 
+Entpackt das Programmarchiv in einen beliebigen Ordner, gebt das Original-ROM und den BPS-Patch hinzu und geht Schritt für Schritt nach folgender Anleitung vor:
 
-Erhaltet Ihr ein anderes Resultat als oben angezeigt (den Dateinamen ausgenommen), vor allem aber wenn NSRT das Spiel nicht in seiner Datenbank findet und als "possible bad dump" ausgibt, so ist Euer ROM unbrauchbar und Ihr müßt ein anderes suchen.
+  1. Startet flips, klickt auf "Apply Patch" und wählt den BPS-Patch aus.
 
-Drei Dinge sind kritisch:
-  * Das ROM darf keinen Header haben.
-  * Das ROM darf nicht "interleaved" sein.
-  * Das ROM muß in "Revision 1.1" vorliegen.
+  2. Wählt im nächsten Dialogfeld das Original-ROM aus.
 
-Der meist 512 Byte lange und den eigentlichen ROM-Daten unmittelbar vorangestellte Header stammt aus der Ära der sogenannten Kopierstationen. Emulatoren und heutige Flashcarts benötigen ihn nicht, und für das verwendete Format meines Patches ist ein Header schon deshalb unerwünscht, weil er je nach Format (SWC-Header sind anders aufgebaut als FIG-Header) die CRC-Überprüfung der Gesamtdatei stört. Ein vorhandener Header kann deshalb dazu führen, daß Ihr Euer ROM nicht patchen könnt, obwohl NSRT es als korrekt erkannt hat.
-(Um Mißverständnissen vorzubeugen: Was NSRT unter "CRC32" ausgibt, bezieht sich immer nur auf die ROM-Daten OHNE 512-Byte-Header, egal ob das ROM einen besitzt oder nicht. Im Gegensatz dazu berechnet das Patch-Tool vor dem Patchen immer die CRC32 der GESAMTEN Datei, egal ob mit Header oder ohne!)
+  3. Im dritten und letzten Dialogfeld gebt ihr einen Dateinamen für euer gepatchtes, deutsch übersetztes ROM an.
 
-Mit NF/NSRT könnt Ihr einen evtl. vorhandenen Header entfernen, indem Ihr das ROM mit der rechten Maustaste anklickt und im erscheinenden Menü "Header von Markierte löschen" wählt. Klickt das ROM danach zur Überprüfung nochmals doppelt an: Nun sollte bei "Header" korrekterweise "None" gemeldet werden.
+  4. Wenn ihr alles richtig gemacht habt, erscheint die Meldung: "The patch was applied successfully!" Diese könnt ihr bestätigen und flips wieder schließen. Et voilà: Die in Schritt 3 neu angelegte ROM-Datei ist nun das gepatchte, deutschsprachige Final Fantasy VI. :-)
 
-Nun habt Ihr also ein verifiziertes, headerloses Original-ROM. Als nächstes braucht Ihr ein Programm, das xdelta-Patches verarbeiten kann. Unter Windows empfehle ich den Delta Patcher von SadNES City Translations, welchen Ihr beispielsweise von RHDN (http://www.romhacking.net/utilities/704/) herunterladen könnt.
+Prüfsummen des gepatchten ROMs:
 
-
-Entpackt das Archiv mit dem Delta Patcher in einen beliebigen Ordner. Fügt das ROM und meinen Patch hinzu, falls nicht schon geschehen. Macht Euch zur Sicherheit eine Kopie des ROMs. Nun geht Schritt für Schritt nach folgender Anleitung vor:
-
-  1. Startet DeltaPatcherLite (!). Klickt rechts neben dem weißen Feld unter "Original file:" auf "Open..." und wählt Euer verifiziertes Final-Fantasy-III-ROM aus.
-
-  2. Klickt rechts neben dem weißen Feld unter "XDelta patch:" auf "Open..." und wählt einen meiner Patches aus, je nach dem, ob Ihr die "verschnörkelte" (ff3_deutsch_v140_newfont_noheader.xdelta) oder die normale Schriftart (ff3_deutsch_v140_oldfont_noheader.xdelta) in der Übersetzung sehen wollt.
-
-  3. Klickt auf "Apply patch". Daraufhin sollte eine Erfolgsmeldung erscheinen. (Falls eine Fehlermeldung auftritt: Vergewissert Euch, daß Euer ROM den weiter oben genannten Kriterien entspricht, insbesondere daß es keinen Header hat und Revision 1.1 vorliegt! Dann versucht es erneut, ggf. auch mit einem anderen ROM.) Nun könnt Ihr DeltaPatcherLite durch einen Klick auf "Exit" schließen.
-
-  4. Voilà: Die von Euch in Schritt 2 ausgewählte ROM-Datei ist nun das gepatchte, deutschsprachige Final Fantasy VI. :-)
-
-
-Wenn Ihr alles richtig gemacht habt, wird übrigens die Prüfsumme ("checksum") des gepatchten Final Fantasy VI "Good" bzw. "OK" sein. Hier die Werte, die NSRT zu den gepatchten ROMs ausgeben sollte (keine Sorge wegen des "possible bad dump" - die Datenbank von NSRT kennt nur offiziell releaste Spiele - oder wegen "Country: USA", dies benötigen Emulatoren ebenso wie "intelligente" SNES-Hardware, um das Spiel in 60 Hz darzustellen):
-
-
-                  ---------------------Internal ROM Info----------------------
-                         File: ff6dtv140_newfont.sfc
-                         Name: FF6 German ManuLoewe     Company: Square
-                       Header: None                        Bank: HiROM
-                  Interleaved: None                        SRAM: 64 Kb
-                         Type: Normal + Batt                ROM: 24 Mb
-                      Country: USA                        Video: NTSC
-                    ROM Speed: 120ns (FastROM)         Revision: 1.1
-                     Checksum: Good 0x1A42            Game Code: F6  
-                  ---------------------------Hashes---------------------------
-                        CRC32: 53873F3C
-                  --------------------------Database--------------------------
-                      ROM wasn't found in the database (possible bad dump).
-                      You can try using -fix or -findover to see if the
-                      file has been slightly altered in a rectifiable way.
-
-
-                                         --- ODER ---
-
-
-                  ---------------------Internal ROM Info----------------------
-                         File: ff6dtv140_oldfont.sfc
-                         Name: FF6 German ManuLoewe     Company: Square
-                       Header: None                        Bank: HiROM
-                  Interleaved: None                        SRAM: 64 Kb
-                         Type: Normal + Batt                ROM: 24 Mb
-                      Country: USA                        Video: NTSC
-                    ROM Speed: 120ns (FastROM)         Revision: 1.1
-                     Checksum: Good 0x363A            Game Code: F6  
-                  ---------------------------Hashes---------------------------
-                        CRC32: F7519582
-                  --------------------------Database--------------------------
-                      ROM wasn't found in the database (possible bad dump).
-                      You can try using -fix or -findover to see if the
-                      file has been slightly altered in a rectifiable way.
+- CRC32  : ###
+- SHA-1  : ###
+- SHA-256: ###
+- intern : 0xXXXX
 
 
 
@@ -421,22 +367,15 @@ Z Z Z                     [5ltz]
 Z Z Z  U   G U T E R   L E T Z T
 
 
-Wenn Ihr mir potentielle Fehler und Probleme melden wollt, wären ein paar Zusatzinformationen dabei sehr hilfreich:
+Wenn ihr mir potenzielle Fehler und Probleme melden wollt, wären ein paar Zusatzinformationen dabei sehr hilfreich:
 
-  * Habt Ihr den Delta Patcher oder ein anderes xdelta-Tool (ggf. welches?) benutzt? Habt Ihr dabei die Validierung der Prüfsumme umgangen?
-  * Wie spielt Ihr das ROM - auf echter Hardware, wenn ja, wie (Flashcart, Kopierstation etc., jeweils mit genauer Bezeichnung), oder mit einem Emulator, wenn ja, mit welchem (bsnes, ZSNES, Snes9x usw.)? Ist der Fehler beliebig oft reproduzierbar?
-  * GANZ WICHTIG: Habt Ihr irgendwelche Action-Replay-, Game-Genie- oder sonstige Cheats benutzt, um bestimmte Rüstungen, Waffen, Objekte, Unverwundbarkeit o. ä. zu erschummeln?
-  * Außerdem erleichtert Ihr mir die Fehlerbehebung, wenn Ihr ein SRM-File, ein Savestate und/oder (bei Tippfehlern) einen Screenshot mitliefern könntet.
+  * Habt ihr flips oder ein anderes Tool (ggf. welches?) zum Patchen benutzt? Habt ihr dabei womöglich den Prüfsummencheck umgangen?
+  * Wie spielt ihr das ROM - auf echter Hardware, wenn ja, wie (Flashcart, Kopierstation etc., jeweils mit genauer Bezeichnung), auf einem Clone oder mittels Emulator, wenn ja, mit welchem (bsnes, ZSNES, Snes9x usw.)? Ist der Fehler dabei verlässlich reproduzierbar?
+  * Habt ihr irgendwelche Action-Replay-, Game-Genie- oder sonstige Cheats benutzt?
+  * Außerdem erleichtert ihr mir die Fehlerbehebung, wenn ihr ein SRM-File, ein Savestate und/oder (bei Tippfehlern) einen Screenshot mitliefern könntet.
   * Bitte verzichtet darauf, mir Fehler zu melden, die bereits in der Rubrik UNÜBERSETZTES UND FEHLER dieser Readme-Datei aufgelistet sind!
 
-Ich bin am besten per E-Mail zu erreichen. (Die Adresse findet Ihr im unteren Bereich meiner Homepage.) Über Bedankungen und Fehlerberichte freue ich mich; von Beschimpfungen, Trojanern, ROM-Requests etc. bitte ich dagegen abzusehen.
-
-------------------------------------------------------
-| Meine E-Mail-Adresse : siehe Homepage (Seitenende) |
-| Meine Homepage       : http://www.manuloewe.de/    |
-------------------------------------------------------
-
-Updates meiner Patches erscheinen in unregelmäßigen Abständen. Mittlerweile sind sie auch auf AEP (http://www.aep-emu.de/) verfügbar, dort allerdings evtl. verzögert. Im Zweifelsfall findet Ihr die aktuellsten Versionen immer auf meiner Website. :-)
+Meldet mir eure Beobachtungen am besten in Form eines "Issues" auf der GitHub-Projektseite (https://github.com/Ramsis-SNES/fan-translation-ff3us-ger). Klickt dazu auf "Issues", dann auf "New issue", tragt eure Fehlerbeschreibung o. ä. ein und schickt sie ab. Auf der GitHub-Seite erscheinen ggf. auch Updates meiner Patches. :-)
 
 
 
@@ -455,17 +394,17 @@ D D  A N K S A G U N G E N   (in fast zufälliger Reihenfolge!)
 
 - FuSoYa (http://fusoya.eludevisibility.org/) für Lunar IPS, Lunar Compress sowie einen genialen Enhancement Patch für Secret of Mana!
 
-- Sky Render von RPGOne Translations (http://www.rpgone.net/) dafür, daß er die Font aus "Romance of the Three Kingdoms 3" gerippt und mir zur Verfügung gestellt hat, sowie natürlich für seine grandiose Neuübersetzung des japanischen Final Fantasy VI, von der ich ein paar gute Ideen in diesen meinen eigenen Patch übernehmen konnte. Yay!
+- Sky Render von RPGOne Translations (http://www.rpgone.net/) für seine grandiose Neuübersetzung des japanischen Final Fantasy VI, von der ich ein paar gute Ideen in diesen meinen eigenen Patch übernehmen konnte. Yay!
 
 - Gogeta-X für den Tip mit der Font Width Table!
 
-- Mainzelmann für viele Tips, Ideen, Verbesserungsvorschläge, Anerkennungen und eine gelungene deutsche Übersetzung von Super Mario RPG! (http://www.alemanic.de.vu/)
+- Mainzelmann für viele Tips, Ideen, Verbesserungsvorschläge, Anerkennungen und eine gelungene deutsche Übersetzung von Super Mario RPG!
 
 - Cyrus, Shadow (früher bei http://www.star-trans.net/), Admiral Aki, Special-Man (früher bei http://www.g-trans.de/), Aphis, Rashka, Mr.Spok sowie Vindicare für ihre ausdauernden und tiefgehenden Betatests! VIELEN DANK!
 
 - McCroy, Sokaku, Kingcom, MC-Slobo (und viele weitere, die ich vergessen habe) für Hinweise auf Fehler, Verbesserungsvorschläge, Screenshots, Savestates, und viel Geduld ... ;-)
 
-- SinaP für SnesEdit (http://www.romhacking.net/utilities/216/), ein unerläßliches Tool!
+- SinaP für SnesEdit (http://www.romhacking.net/utilities/216/), ein unerlässliches Tool!
 
 - Fuchs für zahlreiche Hilfen bei den Anfangsschwierigkeiten des ROM-Hackings ... ;-)
 
@@ -484,24 +423,23 @@ R R
 R  R  E C H T L I C H E   H I N W E I S E
 
 
-Dieser Übersetzungspatch für die US-Version von Final Fantasy III (SNES) ist Copyright © 2000-2008 by ManuLöwe (Manuel Charisius), bis auf die Bildschirmschriftart in ff3_deutsch_v140_newfont_noheader.xdelta, welche "Romance of the Three Kingdoms 3" entnommen ist, sowie andere Änderungen, die Personen vorgenommen haben, welche in dieser Beschreibung genannt sind. Der Patch wurde weder von Squaresoft/Square Enix noch von Nintendo in Auftrag gegeben und ist nicht offiziell. Der Patch ist Freeware, d. h. er darf beliebig weitergegeben, kopiert etc. werden, sofern die weiter unten aufgelisteten Dateien zusammenbleiben. Jedoch ist es illegal und strikt untersagt, den Patch zusammen mit dem Final-Fantasy-III-ROM oder sogar ein bereits gepatchtes ROM zu verbreiten. Des weiteren dürfen weder der Patch noch die dazugehörigen Textdateien auf irgendeine Weise verändert werden.
+Dieser Übersetzungspatch für die US-Version von Final Fantasy III (SNES) ist Copyright © 2000-2008 by ManuLöwe (Manuel Charisius), bis auf Änderungen, die andere in dieser Beschreibung genannte Personen vorgenommen haben. Der Patch wurde weder von Squaresoft/Square Enix noch von Nintendo in Auftrag gegeben und ist nicht offiziell. Der Patch ist Freeware, d. h. er darf beliebig weitergegeben, kopiert etc. werden, sofern die weiter unten aufgelisteten Dateien zusammenbleiben. Jedoch ist es illegal und strikt untersagt, den Patch zusammen mit dem Final-Fantasy-III-ROM oder sogar ein bereits gepatchtes ROM zu verbreiten. Des weiteren dürfen weder der Patch noch die dazugehörigen Textdateien auf irgendeine Weise verändert werden.
 
 Ferner ist es ausdrücklich verboten, diesen Freeware-Patch zu verkaufen oder gegen Güter oder Dienstleistungen einzutauschen. WARNUNG: Es ist im besonderen unter allen Umständen verboten, ein gepatchtes Final-Fantasy-III-ROM auf EPROM/FlashROM o. ä. zu schreiben und daraufhin in Cartridge-Form ("Repro") etwa bei eBay zu verkaufen!
 
-Die ZIP-Datei muß folgende Dateien enthalten:
+Die ZIP-Datei muss folgende Dateien enthalten:
 
   Bitte Zuerst Lesen.txt (diese Readme-Datei)
-  ff3_deutsch_v140_newfont_noheader.xdelta (der Patch in der Version 1.40 vom 05.01.2008, mit neuer Schriftart)
-  ff3_deutsch_v140_oldfont_noheader.xdelta (der Patch in der Version 1.40 vom 05.01.2008, mit der originalen Schriftart)
+  ff3_deutsch_v150_noheader.bps (der Patch in der Version 1.50 vom XX.XX.20XX)
   FF6 Hilfe.txt (die Übersetzungshilfe)
   FF6 Interna.txt (Geheimnisse zum Spiel und mehr)
 
 "Final Fantasy III"(R), "Final Fantasy VI"(R) sowie alle darauf bezogenen Dinge sind eingetragene Warenzeichen (registered trademarks) der Firma Square Co., Ltd. (heutzutage Square Enix Co.). "Nintendo"(R), "Super Nintendo"(TM) usw. sind eingetragene Warenzeichen der Firma Nintendo of Japan/America/Europe.
 Im übrigen berührt weder das Fehlen noch das Vorhandensein der Kennzeichnungen irgendwelcher eingetragener Warenzeichen in all meinen Texten deren Rechtslage in irgendeiner Form.
 
-ACHTUNG! Wer die originale Super-Nintendo-Spielkassette "Final Fantasy III" nicht besitzt, hat kein Recht auf den Besitz einer Sicherheitskopie oder eines ROM-Images dieses Spiels. Da ich Herstellung und Vertrieb von Raubkopien nicht unterstützen kann und will, werde ich alle Fragen bezüglich ROMs ignorieren!
+ACHTUNG! Wer das originale Super-Nintendo-Spielmodul "Final Fantasy III" nicht besitzt, hat kein Recht auf den Besitz einer Sicherheitskopie oder eines ROM-Images dieses Spiels. Da ich Herstellung und Vertrieb von Raubkopien nicht unterstützen kann und will, werde ich alle Fragen bezüglich ROMs ignorieren!
 
 
------------------------------------------------------------------------------
-| © 2000-2012 by ManuLöwe (Manuel Charisius)   |   http://www.manuloewe.de/ |
------------------------------------------------------------------------------
+--------------------------------------------------------------------------
+| © 2000-2012 by ManuLöwe (Manuel Charisius)   |   https://manuloewe.de/ |
+--------------------------------------------------------------------------

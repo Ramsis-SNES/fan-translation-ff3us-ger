@@ -1,0 +1,200 @@
+;***********************************************************************************
+; final fantasy 3 pal fix by d4s in 2005! YAY!
+;***********************************************************************************
+
+
+
+/*
+.MEMORYMAP             ; Tell WLA that the SNES has ROM at locations 0000-$FFFF in every bank
+SLOTSIZE $10000        ; and that this area is $10000 bytes in size.
+DEFAULTSLOT 0          ; There is only a single slot in SNES, other consoles
+SLOT 0 $0000           ;	may have more slots per bank.
+.ENDME
+
+.ROMBANKSIZE $10000    ; Every ROM bank is 64 KBytes in size, also necessary.
+.ROMBANKS 48           ; 32Mbits -- Tells WLA that you want to use 32 ROM banks.
+
+
+
+.Background "ff3.smc" ;us rom without header
+*/
+
+
+
+.bank 3 slot 0
+.org $1454
+
+	jsr Bg2MainScreenEnable
+
+.bank 0 slot 0
+.org $B8bf
+	.db $80			;$C0/B8BA A5 EB       LDA $EB    [$00:00EB]   A:0000 X:0188 Y:0000 P:envMxdiZc
+				;dont care about song length/end during ending
+.bank 3 slot 0
+.org $f091
+.section "ff3 main program bank" overwrite
+
+Bg2MainScreenEnable:
+	lda.b #$17
+	sta.w $212c
+
+	jmp $D263
+
+
+.ends
+		
+
+
+.bank 0 slot 0
+.org $9A4C
+
+	.dw CheckMusic
+
+
+.bank 0 slot 0
+.org $fee8
+.section "ending fix" overwrite
+
+CheckMusic:
+	lda.w $213f
+	and.b #%00010000
+	bne @AdvanceOneEvent	;dont check music if in pal mode(will crash otherwise)
+	lda.b $eb
+	cmp.w $2141
+	beq @AdvanceOneEvent
+	rts
+	
+@AdvanceOneEvent:
+	jmp $B8C2
+
+.ends
+
+
+
+; Ramsis' Addendum twenty years later (in 2025):
+; The following stuff is completely missing from d4s' source code but present in the IPS file, and
+; not needed for this project any more as we completely reassemble the cinematics (including the
+; opening credits) anyway. We still keep it all around out of pure nostalgia, ahem, I mean, for
+; historical purposes of course. YAY indeed!
+
+/*
+
+.BANK 2 SLOT 0
+.ORG $6862
+.SECTION "lowercase pal fix credits zeugs lol 1" OVERWRITE
+
+.HEX 5CD0F1C3 ; jml $C3F1D0						; $C26862
+
+.ENDS
+
+
+
+.BANK 3 SLOT 0
+.ORG $F1D0
+.SECTION "lowercase pal fix credits zeugs lol 2" OVERWRITE
+
+.HEX BLOCK								; $C3F1D0
+	C230A20000
+	BF0AF2C39F43657EE8E8E00D0430F1AB
+	C2302B5C6668C2
+
+; Tracelog:
+; TL;DR -- Right after the decompression routine has finished, he overwrites the credits in WRAM
+; with his own (which are apparently identical to the original ones) for unknown reasons.
+
+; c3f1d0 rep #$30                A:0000 X:fc4e Y:21ee S:15ed D:0000 DB:7e ..M..I.C V:101 H:229 F:58
+; c3f1d2 ldx #$0000              A:0000 X:fc4e Y:21ee S:15ed D:0000 DB:7e .....I.C V:101 H:234 F:58
+; c3f1d5 lda $c3f20a,x  [c3f20a] A:0000 X:0000 Y:21ee S:15ed D:0000 DB:7e .....IZC V:101 H:238 F:58
+; c3f1d9 sta $7e6543,x  [7e6543] A:4458 X:0000 Y:21ee S:15ed D:0000 DB:7e .....I.C V:101 H:247 F:58
+; c3f1dd inx                     A:4458 X:0000 Y:21ee S:15ed D:0000 DB:7e .....I.C V:101 H:257 F:58
+; c3f1de inx                     A:4458 X:0001 Y:21ee S:15ed D:0000 DB:7e .....I.C V:101 H:260 F:58
+; c3f1df cpx #$040d              A:4458 X:0002 Y:21ee S:15ed D:0000 DB:7e .....I.C V:101 H:263 F:58
+; c3f1e2 bmi $f1d5      [c3f1d5] A:4458 X:0002 Y:21ee S:15ed D:0000 DB:7e N....I.. V:101 H:268 F:58
+; c3f1e4 plb                     A:3c00 X:040e Y:21ee S:15ed D:0000 DB:7e .....I.C V:154 H:339 F:58
+; c3f1e5 rep #$30                A:3c00 X:040e Y:21ee S:15ee D:0000 DB:00 .....IZC V:155 H:  5 F:58
+; c3f1e7 pld                     A:3c00 X:040e Y:21ee S:15ee D:0000 DB:00 .....IZC V:155 H: 10 F:58
+; c3f1e8 jml $c26866    [c26866] A:3c00 X:040e Y:21ee S:15f0 D:0000 DB:00 .....IZC V:155 H: 18 F:58
+
+;	486965722066616E67						; ASCII text "Hier fangen die Credits an -->"
+;	656E2064696520437265646974732061
+;	6E202D2D3E							; end ASCII text
+.ENDHEX
+
+.DB	"Hier fangen die Credits an -->"
+
+.HEX BLOCK
+	584424002C2E2B20311F21						; offset $C3F20A, 1037 ($040D) bytes (i.e., data_7e6598 through data_7e698d,
+	2E00CE442000090A13100F1003160114				; aka data and text beginning from "producer" all the way through to "AIKO ITO")
+	020C02081604090A005844240120252E
+	211F302B2E00D04420011A1014090A0F
+	10130A010C0A15021406FE01090A1310
+	1A160C0A010A1510160050442402291D
+	252A012C2E2B232E1D2929212E00D244
+	200201010C060F010F02130A1502FE0C
+	0A1A1014090A011A1014090A0A005044
+	2403232E1D2C24251F0120252E211F30
+	2B2E00CE44200315061514161A020115
+	020C02090214090AFE01010C021B160C
+	100114090A03161A0200D24420000109
+	0A050610010E0A0F020302FE15061514
+	161A02010F100E161302005A44240029
+	312F251F00D24420000F100316100116
+	060E02151416005244240325291D2321
+	0120212F25232A212E00D04420031A10
+	14090A15020C0201020E020F10005244
+	24041E1D30302821012C281D2A2A212E
+	00D04420041A0214161A160C0A010902
+	14060306FE01020C0A1A1014090A0110
+	10150200524424052225212820012C28
+	1D2A2A212E00CE4420051A1014090A09
+	0A0C10010E02060C021802FE01010101
+	0C060A1502010615100900CE44200201
+	0101140215101316011514160B0AFE01
+	090A0506151014090A010C061B160C02
+	00524424062132212A30012C281D2A2A
+	212E00CE44200601011514160C021402
+	0107160B0A1502FE0C060A14160C0601
+	0E0215141609021302004E4424062122
+	22211F30012C2E2B232E1D2929212E00
+	D2442006090A131014090A0109021302
+	1502FE1402151014090A011008021502
+	004E4424051E1D30302821012C2E2B23
+	2E1D2929212E00CE442005020C0A090A
+	1310011A020E02081604090A00504424
+	032F2B312A20012C2E2B232E1D292921
+	2E00D44420030E0A0F10131601020C02
+	100048442402212222211F3001232E1D
+	2C24251F0120212F25232A212E00D044
+	2002090A13100C021514160114021402
+	0C0A004A442404222521282001232E1D
+	2C24251F0120212F25232A212E00D044
+	200315020C0209021316010E02151416
+	10FE01011A1614160C06010F02101302
+	FE010F1003161A160C0A010A0C060502
+	00CE442007010115100E1006010A0F02
+	1B021802FE0101010C0210130A011502
+	0F020C02FE15020C020E0A04090A0114
+	090A03161A0200CC44200114090A0F0A
+	04090A1310160109020E0214020C02FE
+	0101020C0A1A1014090A010E02141605
+	020048442400292B2A2F30212E01232E
+	1D2C24251F0120212F25232A212E00D2
+	442000090A151014090A01140214020C
+	0A00464424052B1E26211F3001232E1D
+	2C24251F0120212F25232A212E00CE44
+	20050C021B16090A13100110090C0218
+	0200524424032F2B312A2001212A2325
+	2A21212E00D2442003060A0B0A010F02
+	0C020E16130200524424032E21291D27
+	21012C281D2A2A212E00D64420031806
+	0A0E0A0F010D0AFE01020A0C10010A15
+	1000
+;	3C2D2D2D756E6420686965722069					; ASCII text "<---und hier is Schluss."
+;	73205363686C7573732E						; end ASCII text
+.ENDHEX
+
+.DB	"<---und hier is Schluss."
+
+.ENDS
+
+*/
