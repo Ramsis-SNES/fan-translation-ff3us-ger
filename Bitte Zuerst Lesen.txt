@@ -341,17 +341,17 @@ Das ROM sollte eine Dateigröße von exakt 3.145.728 Bytes haben. Dies ist insofer
 - SHA-256: 10eccc5d2fab81346dd759f6be478dcb682eef981e8d3d662da176e1f9a996bc
 - intern : 0x8A60
 
-Erhaltet ihr andere Resultate als oben angezeigt, so ist euer ROM unbrauchbar und ihr müsst ein anderes finden. Als nächstes braucht ihr ein Programm, das BPS-Patches verarbeiten kann. Ich empfehle flips von Alcaro (Download: https://www.smwcentral.net/?p=section&a=details&id=11474 oder https://github.com/Alcaro/Flips).
+Erhaltet ihr andere Resultate als oben angezeigt, so ist euer ROM unbrauchbar und ihr müsst ein anderes finden. Als nächstes braucht ihr ein Programm, das BPS-Patches verarbeiten kann. Ich empfehle Flips (Download: https://www.smwcentral.net/?p=section&a=details&id=11474 bzw. https://git.disroot.org/Sir_Walrus/Flips).
 
 Entpackt das Programmarchiv in einen beliebigen Ordner, gebt das Original-ROM und den BPS-Patch hinzu und geht Schritt für Schritt nach folgender Anleitung vor:
 
-  1. Startet flips, klickt auf "Apply Patch" und wählt den BPS-Patch aus.
+  1. Startet Flips, klickt auf "Apply Patch" und wählt den BPS-Patch aus.
 
   2. Wählt im nächsten Dialogfeld das Original-ROM aus.
 
   3. Im dritten und letzten Dialogfeld gebt ihr einen Dateinamen für euer gepatchtes, deutsch übersetztes ROM an.
 
-  4. Wenn ihr alles richtig gemacht habt, erscheint die Meldung: "The patch was applied successfully!" Diese könnt ihr bestätigen und flips wieder schließen. Et voilà: Die in Schritt 3 neu angelegte ROM-Datei ist nun das gepatchte, deutschsprachige Final Fantasy VI. :-)
+  4. Wenn ihr alles richtig gemacht habt, erscheint die Meldung: "The patch was applied successfully!" Diese könnt ihr bestätigen und Flips wieder schließen. Et voilà: Die in Schritt 3 neu angelegte ROM-Datei ist nun das gepatchte, deutschsprachige Final Fantasy VI. :-)
 
 Prüfsummen des gepatchten ROMs:
 
@@ -369,7 +369,7 @@ Z Z Z  U   G U T E R   L E T Z T
 
 Wenn ihr mir potenzielle Fehler und Probleme melden wollt, wären ein paar Zusatzinformationen dabei sehr hilfreich:
 
-  * Habt ihr flips oder ein anderes Tool (ggf. welches?) zum Patchen benutzt? Habt ihr dabei womöglich den Prüfsummencheck umgangen?
+  * Habt ihr Flips oder ein anderes Tool (ggf. welches?) zum Patchen benutzt? Habt ihr dabei womöglich den Prüfsummencheck umgangen?
   * Wie spielt ihr das ROM - auf echter Hardware, wenn ja, wie (Flashcart, Kopierstation etc., jeweils mit genauer Bezeichnung), auf einem Clone oder mittels Emulator, wenn ja, mit welchem (bsnes, ZSNES, Snes9x usw.)? Ist der Fehler dabei verlässlich reproduzierbar?
   * Habt ihr irgendwelche Action-Replay-, Game-Genie- oder sonstige Cheats benutzt?
   * Außerdem erleichtert ihr mir die Fehlerbehebung, wenn ihr ein SRM-File, ein Savestate und/oder (bei Tippfehlern) einen Screenshot mitliefern könntet.

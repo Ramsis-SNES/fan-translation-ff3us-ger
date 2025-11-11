@@ -24,13 +24,13 @@ What's (not) been done so far (all percentage values are guesstimates):
 | :-----------                    | -------------------------: |
 | Dialogue Edit¹                  |   1 % |
 | Dialogue Insertion              |  99 % |
-| Items etc.                      |  40 % |
+| Items etc.                      |  80 % |
 | Menu                            |   0 % |
 | Font Expansion (Umlauts)        |   0 % |
 | Graphics                        |   0 % |
 | Misc. Elements                  |   0 % |
 | FF6 Title Screen (optional)     | 100 % |
-| Programming                     |  20 % |
+| Programming                     |  25 % |
 | Misc. Stuff (e.g. Readme)       |   5 % |
 
 ¹ Current dialogue text is based on a partial 2014 revision that never resulted in a new patch release.
@@ -45,17 +45,17 @@ While tremendously useful and versatile at the time, when it comes to a more mod
 
 ## HOW TO USE BPS FILES
 
-Read your emulator's docs to check whether it supports on-the-fly BPS patching. Or, grab a tool named Floating IPS, or [Flips](https://git.disroot.org/Sir_Walrus/Flips) for short. Please be aware that the [original repo](https://github.com/Alcaro/Flips) was made read-only for some weird reason, and most places distributing binaries are stuck with v1.31 ... very odd. Still, Flips is self-explanatory and easy to use, and even v1.31 should work just fine in most cases.
+Read your emulator's docs to check whether it supports on-the-fly BPS patching. Or, grab a tool named Floating IPS, or [Flips](https://git.disroot.org/Sir_Walrus/Flips) for short. Please be aware that its [original repository](https://github.com/Alcaro/Flips) was archived in May of 2025 for some weird reason, and most places distributing binaries have stuck with v1.31 ... very odd. Still, Flips is self-explanatory and easy to use, and even v1.31 should work just fine in most cases.
 
 The original Final Fantasy III (US) ROM must be v1.1 of the game, and it must not have a copier header (file size: exactly 3,145,728 bytes, checksum: 0x8A60, CRC32: C0FA0464).
 
 ## BUILDING REQUIREMENTS
 
 - [asar](https://github.com/RPGHacker/asar) v1.91
-- [Final Fantasy VI C2FF6D (de)compressor](https://www.romhacking.net/utilities/1176/) and Perl v5
+- [Final Fantasy VI C2FF6D (de)compressor](https://www.romhacking.net/utilities/1176/) (included in the project repository for convenience) and Perl v5
 - [Flips](https://git.disroot.org/Sir_Walrus/Flips) v1.31+
 - [Gnu Make](https://www.gnu.org/software/make/)
-- [superfamicheck](https://github.com/Optiroc/SuperFamicheck) v1.1.0
+- [SuperFamicheck](https://github.com/Optiroc/SuperFamicheck) v1.1.0
 - [WLA DX](https://github.com/vhelin/wla-dx) v10.7 (earlier versions won't work as this project relies on newer assembler features)
 
 ## QUESTIONS, COMMENTS ...
@@ -67,6 +67,7 @@ The original Final Fantasy III (US) ROM must be v1.1 of the game, and it must no
 - [abw](https://www.romhacking.net/community/912/) for Final_Fantasy_VI_7E5000_from_C2686C.asm and "Final Fantasy VI C2FF6D (de)compressor"
 - [devinacker](https://github.com/devinacker) for bsnes-plus
 - [everything8215](https://github.com/everything8215) for "Disassembly and ROM info for Final Fantasy VI"
+- [Optiroc](https://github.com/Optiroc) for SuperFamicheck and SuperFamiconv
 - [vhelin](https://github.com/vhelin) for WLA DX, the best multi-platform cross assembler out there :D
 
 ### (c) 2025 by Ramsis/ManuLöwe | https://github.com/Ramsis-SNES/
