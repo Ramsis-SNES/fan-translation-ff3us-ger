@@ -1,0 +1,17 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Text-Dump - STATUS]
+TBL   [3-E:\Spiele\temp\Ff3dt_of.SE\ff3menu.tbl]
+Start [0002AFE1h]
+Size  [0000013Fh][0000013Fh][2]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Text 1<]
+Gefallen  Steinern  Imp       Unsichtbar          Vergiftet Zombie    Blind 
+    Schlaf    Gepackt   Verwirrt  Toben     Stumm     Abbild    Halbtot   Ve
+rurteiltReflekt   Att.SchutzMag.SchutzStop      Hast      Langsam   Regen   
+            Schwebe                                           Leben_3       
+               
+
+[>DUMP END<]----------------------------------------------------------

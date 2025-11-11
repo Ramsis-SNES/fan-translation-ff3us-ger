@@ -1,0 +1,46 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Text-Dump - BLITZ- U. SWDTECH-BESCHREIBUNGEN]
+TBL   [3-E:\Spiele\temp\Ff3dt_of.SE\ff3menu.tbl]
+Start [000FFE00h]
+Size  [000001A0h][000001E9h][2]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Text 1<]
+Durchbricht gegn. Verteidigung  (END)
+
+Mystische Lichtattacke(ABS)
+(1 Gegner)(END)
+
+Läßt Gegner abstürzen(END)
+
+Feuerangriff auf alle Gegner(END)
+
+Heilt den Rest der Gruppe(END)
+
+Wind-Attacke (alle Gegner)(END)
+
+Heilt Gruppe durch eigenes(ABS)
+Opfer(END)
+
+Trifft mit tödl. Hieb(END)
+
+                              Einfacher Angriff(END)
+
+Einfacher Gegenangriff(END)
+
+Halbiert gegner. HP(END)
+
+Vierfacher Angriff(END)
+
+Absorbiert gegn. HP/MP(END)
+
+Mehrfacher Angr./(ABS)
+"Stop''-Zauber(END)
+
+Vierfacher Angriff(END)
+
+Würfel
+
+[>DUMP END<]----------------------------------------------------------

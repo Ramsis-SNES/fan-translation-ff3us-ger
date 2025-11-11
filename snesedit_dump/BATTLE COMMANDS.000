@@ -1,0 +1,15 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Text-Dump - BATTLE COMMANDS]
+TBL   [3-E:\Spiele\temp\Ff3dt_of.SE\ff3menu.tbl]
+Start [0018D0A0h]
+Size  [000000D2h][000000D2h][2]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Text 1<]
+Kampf  Item   Magie  MorphenZurück StehlenübrfallSchwertWerfen Geräte Blitz 
+ Runen  Lehre  PorträtKontrl.SpielenWüten  Lernen Mimen  Tanz   Reihe  Abw. 
+  Sprung X_MagieGSRegenAufruf Heilen Schock Packen MagiTek
+
+[>DUMP END<]----------------------------------------------------------

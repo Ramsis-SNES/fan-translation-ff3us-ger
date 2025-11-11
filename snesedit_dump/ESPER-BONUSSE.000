@@ -1,0 +1,14 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Text-Dump - ESPER-BONUSSE]
+TBL   [3-E:\Spiele\temp\Ff3dt_of.SE\ff3menu.tbl]
+Start [001000AEh]
+Size  [00000098h][00000098h][2]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Text 1<]
+HP + 10% HP + 30% HP + 50% MP + 10% MP + 30% MP + 50% HP + 100%LV + 30% LV +
+ 50% Stärke+1 Stärke+2 Tempo+1  Tempo+2  Ausdaur+1Ausdaur+2MKraft+1 MKraft+2
+
+[>DUMP END<]----------------------------------------------------------

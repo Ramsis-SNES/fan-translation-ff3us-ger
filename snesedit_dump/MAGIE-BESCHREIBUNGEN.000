@@ -1,0 +1,125 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Text-Dump - MAGIE-BESCHREIBUNGEN]
+TBL   [3-E:\Spiele\temp\Ff3dt_of.SE\ff3menu.tbl]
+Start [0018CBA0h]
+Size  [000004B1h][0000059Eh][2]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Text 1<]
+Feuer-Angriff        (END)
+
+Eis-Angriff         (END)
+
+Blitz-Angriff             (END)
+
+Vergiftet Gegner(END)
+
+Stiehlt gegnerische HP (END)
+
+Verbrennt Gegner     (END)
+
+Vereist Gegner      (END)
+
+Erschlägt Gegner          (END)
+
+Toxischer Angriff      (END)
+
+Massive Feuerattacke (END)
+
+Massiver Eis-Angriff(END)
+
+Gewitter der Zerstörung   (END)
+
+Versteinert Gegner     (END)
+
+Vernichtet Gegner  (END)
+
+Heilig-Angriff        (END)
+
+Durchschlägt Barrieren (END)
+
+Halbiert HP des Gegners(END)
+
+Leert 3/4 der HP des Gegners(END)
+
+Schickt Gegner in die X-Zone  (END)
+
+Schadet mehreren Gegnern(END)
+
+Schadet mehreren Gegnern(END)
+
+Angriff mit Element Erde,(ABS)
+ziellos(END)
+
+Verzweiflungsangriff,(ABS)
+ziellos(END)
+
+Bohrender Feuerangriff,(ABS)
+ziellos(END)
+
+Ermittelt Schwachpunkt/HP(ABS)
+des Gegners(END)
+
+Verlangsamt Ziel(END)
+
+Leert MP(END)
+
+Ziel verstummt(END)
+
+Erhöht AVertd.(END)
+
+Schläfert Ziel ein(END)
+
+Verwirrt Ziel(END)
+
+Erhöht Geschwindigkeit(END)
+
+Stoppt Gegner(END)
+
+Ziel wird Berserker(END)
+
+Läßt Ziel schweben(END)
+
+Ändert Status von/nach(ABS)
+"Imp''(END)
+
+Ziel erhält magische Barriere(END)
+
+Erhöht MVertd.(END)
+
+Macht Ziel unsichtbar(END)
+
+Ganze Gruppe wird schneller(END)
+
+Verlangsamt mehrere Gegner(END)
+
+Entzieht Gegner MP(END)
+
+Ermöglicht Flucht aus Höhlen/(ABS)
+Kämpfen(END)
+
+Ermöglicht Doppelbefehle(END)
+
+Heilt schlechten Status(END)
+
+Füllt HP(END)
+
+Füllt HP(END)
+
+Füllt HP(END)
+
+Spendet Leben(END)
+
+Spendet Leben und füllt HP   (END)
+
+Heilt Vergiftungen(END)
+
+Heilt alle Statusveränderungen(END)
+
+Füllt HP nach und nach(END)
+
+S
+
+[>DUMP END<]----------------------------------------------------------

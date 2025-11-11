@@ -1,0 +1,69 @@
+[>DON'T TOUCH THIS LINES<]
+
+Titel [Text-Dump - ESPER-BESCHREIBUNGEN]
+TBL   [3-E:\Spiele\temp\Ff3dt_of.SE\ff3menu.tbl]
+Start [000F3B40h]
+Size  [0000026Dh][000002E8h][2]
+
+[>DUMP START<]--------------------------------------------------------
+
+[>Text 1<]
+Angriffselement: Blitz    (END)
+
+Angriffselem.: Feuer (END)
+
+Angriffselement: Eis(END)
+
+Gegn. verstummen(END)
+
+Angriffselement: Erde (END)
+
+Lähmt Gegner     (END)
+
+Angr.-Elem. unbest. (END)
+
+Angriffselem.: Wasser (END)
+
+Verwirrt Gegner (END)
+
+Ermöglicht eine Sprung-(ABS)
+Attacke(END)
+
+Eis/Feuer/Blitz(ABS)
+3-Wege-Angriff (END)
+
+Zerteilt Gegner       (END)
+
+Zerteilt Gegner       (END)
+
+Durchbricht Magie-Abwehr   (END)
+
+Zauberischer Angriff(END)
+
+Schadet allen Beteiligten     (END)
+
+Verwandelt Gegn. in Item(END)
+
+Füllt HP schrittweise(END)
+
+"MSchutz''-Zauber    (END)
+
+"Rflekt''-Zauber       (END)
+
+Gruppe wird unsichtbar   (END)
+
+Füllt HP   (END)
+
+Schützt die Gruppe(END)
+
+"Heilen''-Zauber          (END)
+
+Erz. mehrere Abbilder(ABS)
+der Gruppe(END)
+
+Füllt HP   (END)
+
+Stellt Kampfstatus her(END)
+
+
+[>DUMP END<]----------------------------------------------------------
