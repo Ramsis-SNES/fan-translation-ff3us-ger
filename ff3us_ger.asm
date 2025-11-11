@@ -20,15 +20,48 @@
 .DEFINE UseFF6TitleScreen
 ;.DEFINE UseDTE								; not using DTE for now, instead we want to keep the original English dialogue present in the ROM
 
-; Stuff to modify/overwrite (for now) in original ROM space
+; Stuff to modify/overwrite (for now) in original ROM space (SNES "HiROM" address format)
 .DEFINE kSelectDialoguePtr	$C0D900					; unused space, CHECKME or CHANGEME for compatibility with e.g. bugfix patches
 .DEFINE kDTE_Table		$C0DFA0
+.DEFINE kEndingCredits		$C29F98
+.DEFINE kStatusNames		$C2ADE1
+.DEFINE kCharacterNames		$C478C0
 .DEFINE kDialoguePointers	$CCE600
+.DEFINE kMapNames		$CEF100
+.DEFINE kRareItemDescPointers	$CEFB60
+.DEFINE kRareItemNames		$CEFBA0
+.DEFINE	kRareItemDescriptions	$CEFCB0
+.DEFINE kEsperAttDescriptions	$CF3940
+.DEFINE kSwdTechNames		$CF3C40
+.DEFINE kMonsterNames		$CFC050
+.DEFINE kMonsterSpecialAttacks	$CFD0D0
 .DEFINE kMonsterDialoguePointers	$CFDFE0
+.DEFINE kEndingANDYOU		$CFF8AF
+.DEFINE kBlitzDescriptions	$CFFC00
+.DEFINE kSwdTechDescriptions	$CFFD00
+.DEFINE kEsperAttDescPointers	$CFFE40
+.DEFINE kEsperBonusNames	$CFFEAE
+.DEFINE kBlitzDescPointers	$CFFF9E
+.DEFINE kSwdTechDescPointers	$CFFFAE
 .DEFINE kBattleDialoguePointers	$D0D000
 .DEFINE kAttackMessagePointers	$D1F7A0
 .DEFINE kItemSymbolNames	$D26F00
 .DEFINE kItemNames		$D2B300
+.DEFINE kSpellDescriptions	$D8C9A0
+.DEFINE kBattleCommandNames	$D8CEA0
+.DEFINE kSpellDescPointers	$D8CF80
+.DEFINE kMapNamePointers	$E68400
+.DEFINE kSpellNames		$E6F567 ;-E6F6E0    (54 items, 7 bytes each)
+.DEFINE kEsperNames		$E6F6E1 ;-E6F7B8    (27 items, 8 bytes each)
+.DEFINE kAttackNames		$E6F7B9 ;-E6FE8E    (175 items, 10 bytes each)
+.DEFINE kEsperAttackNames	$E6FE8F ;-E6FF9C    (27 items, 10 bytes each)
+.DEFINE kDanceNames		$E6FF9D ;-E6FFFF    (8 items, 12 bytes each)
+.DEFINE kItemDescriptions	$ED6400
+.DEFINE kLoreDescriptions	$ED77A0
+.DEFINE kLoreDescPointers	$ED7A70
+.DEFINE kItemDescPointers	$ED7AA0
+.DEFINE kEsperBonusDescriptions	$EDFE00
+.DEFINE kEsperBonusDescPointers	$EDFFD0
 
 ; Stuff to put in expanded ROM space
 .DEFINE kASCIIDisclaimer	$F00000
@@ -41,9 +74,10 @@
 .DEFINE kDecompressedCinematics	$F80000
 
 ; Misc. constants
-.DEFINE kStringCountBank1	1024					; total number of strings per dialogue bank
-.DEFINE kStringCountBank2	1038
-.DEFINE kStringCountBank3	1021
+.DEFINE kMapNamePointerStart	$1000					; for MapNames string labels; since we also use the d_string macro for MapNames, any number higher than the last dialogue pointer (3083 = $C0B) will do
+.DEFINE kStringCountBank1	1024					; \
+.DEFINE kStringCountBank2	1038					; | number of strings per each dialogue bank
+.DEFINE kStringCountBank3	1021					; /
 
 
 
@@ -60,7 +94,7 @@
 .ROMBANKS	64							; expand ROM to 32 Mbit
 .BACKGROUND	FF3USROM
 .EMPTYFILL	$FF
-.BASE		$C0							; for HiROM mapping
+.BASE		$C0							; for "HiROM" mapping
 
 
 
@@ -82,6 +116,8 @@
 .STRINGMAPTABLE dialogue	"tbl_dialogue_noDTE.tbl"
 
 .ENDIF
+
+.STRINGMAPTABLE ending_credits	"tbl_credits.tbl"
 
 
 
@@ -471,7 +507,7 @@ DecompCinematicsDMA_END:
 
 .FAIL "Routine 'DecompCinematicsDMA' is too large."
 
-.ENDIF ; (routine size check)
+.ENDIF ; (size check)
 
 .ENDS
 
